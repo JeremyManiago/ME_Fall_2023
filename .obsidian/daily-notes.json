@@ -1,0 +1,6 @@
+{
+  "format": "YYYY/MMMM/YYYY-MM-DD",
+  "autorun": true,
+  "folder": "Templates/Daily Notes(Task Edition)/Journal",
+  "template": "Templates/Daily Notes(Task Edition)/Templates/Daily Note"
+}

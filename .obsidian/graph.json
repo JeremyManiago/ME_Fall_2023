@@ -1,0 +1,72 @@
+{
+  "collapse-filter": false,
+  "search": "",
+  "showTags": true,
+  "showAttachments": true,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "path:\"ME 556\"",
+      "color": {
+        "a": 1,
+        "rgb": 13107455
+      }
+    },
+    {
+      "query": "path:\"ME 411\"",
+      "color": {
+        "a": 1,
+        "rgb": 16771584
+      }
+    },
+    {
+      "query": "path:\"ME 371\"",
+      "color": {
+        "a": 1,
+        "rgb": 5494227
+      }
+    },
+    {
+      "query": "path:\"ME 430\"",
+      "color": {
+        "a": 1,
+        "rgb": 16711680
+      }
+    },
+    {
+      "query": "path:\"ME 472\"",
+      "color": {
+        "a": 1,
+        "rgb": 65390
+      }
+    },
+    {
+      "query": "file:Spring 2023",
+      "color": {
+        "a": 1,
+        "rgb": 16777215
+      }
+    },
+    {
+      "query": "path:/",
+      "color": {
+        "a": 1,
+        "rgb": 16762726
+      }
+    }
+  ],
+  "collapse-display": false,
+  "showArrow": true,
+  "textFadeMultiplier": -2.5,
+  "nodeSizeMultiplier": 1.68229166666667,
+  "lineSizeMultiplier": 2.98385416666667,
+  "collapse-forces": false,
+  "centerStrength": 0.659043659043659,
+  "repelStrength": 20,
+  "linkStrength": 1,
+  "linkDistance": 264,
+  "scale": 0.6316046762907499,
+  "close": true
+}

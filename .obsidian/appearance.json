@@ -1,0 +1,14 @@
+{
+  "accentColor": "",
+  "translucency": false,
+  "nativeMenus": false,
+  "cssTheme": "AnuPpuccin",
+  "enabledCssSnippets": [
+    "snippet",
+    "floating-status-bar",
+    "extended-colorschemes",
+    "dashboard"
+  ],
+  "baseFontSize": 16,
+  "theme": "moonstone"
+}
