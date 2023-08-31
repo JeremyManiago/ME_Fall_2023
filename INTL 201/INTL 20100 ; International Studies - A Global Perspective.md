@@ -5,6 +5,7 @@
 ---
 ## Lectures
 + ***Week 1***
+	+ Video:
 
 + ***Week 2***
 	+ Video: [Lecture2 SU23 - YouTube](https://www.youtube.com/watch?v=gGv1ctDpi6U)
@@ -30,4 +31,6 @@
 ---
 ## Homeworks
 
++ [[Assignment 1]]
++ [[Assignment 2]]
 
