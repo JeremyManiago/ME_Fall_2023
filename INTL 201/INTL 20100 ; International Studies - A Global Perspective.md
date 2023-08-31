@@ -6,6 +6,8 @@
 ## Lectures
 + ***Week 1***
 	+ Video:
+	+ Lecture: [[Week1_lecture_FA2023_Lecture1.pdf]]
+	+ Required Reading: *none*
 
 + ***Week 2***
 	+ Video: [Lecture2 SU23 - YouTube](https://www.youtube.com/watch?v=gGv1ctDpi6U)
