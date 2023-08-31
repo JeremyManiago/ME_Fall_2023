@@ -3,5 +3,5 @@
   "alwaysUpdateLinks": true,
   "newFileLocation": "current",
   "showUnsupportedFiles": true,
-  "readableLineLength": false
+  "readableLineLength": true
 }
