@@ -8,6 +8,6 @@
 
 + [[INTL 20100 ; International Studies - A Global Perspective]]
 
-+ [[ME 51500_I0820 Orbital Mechanics]]
++ [[ME 51500 ;_I0820 Orbital Mechanics]]
 
 + [[ME 46200 ; Manufacturing Processes]]
