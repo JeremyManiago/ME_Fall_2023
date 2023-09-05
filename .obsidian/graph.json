@@ -15,58 +15,51 @@
       }
     },
     {
-      "query": "path:\"ME 411\"",
+      "query": "path:\"INTL 201\"",
       "color": {
         "a": 1,
-        "rgb": 16771584
+        "rgb": 61183
       }
     },
     {
-      "query": "path:\"ME 371\"",
+      "query": "path:\"ME 462\"",
       "color": {
         "a": 1,
         "rgb": 5494227
       }
     },
     {
-      "query": "path:\"ME 430\"",
+      "query": "path:\"ME 436\"",
       "color": {
         "a": 1,
         "rgb": 16711680
       }
     },
     {
-      "query": "path:\"ME 472\"",
+      "query": "path:\"ME 473\"",
       "color": {
         "a": 1,
         "rgb": 65390
       }
     },
     {
-      "query": "file:Spring 2023",
+      "query": "path:\"ME 515\"",
       "color": {
         "a": 1,
-        "rgb": 16777215
-      }
-    },
-    {
-      "query": "path:/",
-      "color": {
-        "a": 1,
-        "rgb": 16762726
+        "rgb": 16771584
       }
     }
   ],
   "collapse-display": false,
   "showArrow": true,
-  "textFadeMultiplier": -2.5,
-  "nodeSizeMultiplier": 1.68229166666667,
-  "lineSizeMultiplier": 2.98385416666667,
+  "textFadeMultiplier": -0.2,
+  "nodeSizeMultiplier": 1.478125,
+  "lineSizeMultiplier": 2.703125,
   "collapse-forces": false,
-  "centerStrength": 0.659043659043659,
-  "repelStrength": 20,
-  "linkStrength": 1,
-  "linkDistance": 264,
-  "scale": 0.18297372383705718,
+  "centerStrength": 0.432291666666667,
+  "repelStrength": 14.5833333333333,
+  "linkStrength": 0.9375,
+  "linkDistance": 133,
+  "scale": 0.1305106675176296,
   "close": true
 }
