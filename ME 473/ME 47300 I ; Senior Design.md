@@ -5,6 +5,7 @@
 ---
 ## Lecture Summary
 + [[Lecture 1]]
++ [[Lecture 2]]
 
 
 ---
