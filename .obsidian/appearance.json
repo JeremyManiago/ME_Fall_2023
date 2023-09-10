@@ -2,12 +2,13 @@
   "accentColor": "",
   "translucency": false,
   "nativeMenus": false,
-  "cssTheme": "AnuPpuccin",
+  "cssTheme": "",
   "enabledCssSnippets": [
     "snippet",
     "floating-status-bar",
-    "extended-colorschemes",
-    "dashboard"
+    "dashboard",
+    "obsidian-pagebreaks",
+    "extended-colorschemes"
   ],
   "baseFontSize": 16,
   "theme": "obsidian"

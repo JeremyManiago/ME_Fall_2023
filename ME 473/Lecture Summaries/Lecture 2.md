@@ -5,4 +5,7 @@
 
 09/05/23
 
+# <u>ASML</u>
++ Makes machines that makes superconductors (largest company in the world)
+
 
