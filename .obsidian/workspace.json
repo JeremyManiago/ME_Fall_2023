@@ -1,0 +1,338 @@
+{
+  "main": {
+    "id": "fd41dbfbe7b58ab5",
+    "type": "split",
+    "children": [
+      {
+        "id": "755b241ad23128f2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "37a84d95c6b6a590",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1873dc949362f19e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ME 515/ME 51500_I0820 ; Orbital Mechanics.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "cbace2b07915c6e3",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "ME 515/Lectures/Lecture Notes 3.pdf"
+              }
+            }
+          },
+          {
+            "id": "c8504119d8615d70",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "ME 515/[Elsevier Aerospace Engineering Series] Howard D. Curtis - Orbital Mechanics For Engineering Students (2020, Elsevier_Butterworth-Heinemann).pdf"
+              }
+            }
+          },
+          {
+            "id": "79474e2f9d766e3a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ME 556/ME 55600, I0800 ; Advanced Fluid Mechanics.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b911071d8d61c9de",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "ME 556/Lectures/III. Exact Soluitons .pdf"
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d84ab22cd6cedf77",
+    "type": "split",
+    "children": [
+      {
+        "id": "b38a4eaec7e81096",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6945b31b3d84841c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "699576175e758967",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "2c3d891a1c8c64cf",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "bdbb9f1dbb001a3d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bed6014f008039c4",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 227.5
+  },
+  "right": {
+    "id": "9aeb1fe491dff90c",
+    "type": "split",
+    "children": [
+      {
+        "id": "276f57e2d7b44bfd",
+        "type": "tabs",
+        "dimension": 49.70930232558139,
+        "children": [
+          {
+            "id": "449df220a32c85f8",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "ME 515/Lectures/Lecture Notes 3.pdf",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "cfda8cce53175107",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "ME 515/Lectures/Lecture Notes 3.pdf",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c4dae3eceaa49c5f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "8330802b2860fe6a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "ME 515/Lectures/Lecture Notes 3.pdf"
+              }
+            }
+          },
+          {
+            "id": "0a38d4d7d36e7b32",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "0738c9de0f7b9a64",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          },
+          {
+            "id": "98d3373122f109ec",
+            "type": "leaf",
+            "state": {
+              "type": "code-execute-manage-executors",
+              "state": {}
+            }
+          },
+          {
+            "id": "990822c4e267e842",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "92531f696ecda1f0",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
+              }
+            }
+          }
+        ],
+        "currentTab": 4
+      },
+      {
+        "id": "1e82b52bf91194c4",
+        "type": "tabs",
+        "dimension": 50.29069767441861,
+        "children": [
+          {
+            "id": "59eb704e826dc2c7",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 401
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "publish:Publish changes...": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "audio-recorder:Start/stop recording": false,
+      "markdown-importer:Open format converter": false,
+      "workspaces:Manage workspace layouts": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-extract-pdf-highlights:PDF Highlights": false,
+      "obsidian-advanced-slides:Show Slide Preview": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-matrix:Obsidian Matrix": false,
+      "open-vscode:VSCode": false,
+      "obsidian-memos:Memos": false
+    }
+  },
+  "active": "cbace2b07915c6e3",
+  "lastOpenFiles": [
+    "Templates/Daily Notes(Task Edition)/Journal/2023/September/2023-09-17.md",
+    "ME 515/Lectures/Lecture Notes 4.pdf",
+    "ME 515/Lectures/Lecture Notes 3.pdf",
+    "ME 515/ME 51500_I0820 ; Orbital Mechanics.md",
+    "ME 515/HW/HW3.md",
+    "ME 515/Lectures/Lecture Notes 5.pdf",
+    "ME 515/Lectures/Unconfirmed 903603.crdownload",
+    "ME 515/Lectures/Unconfirmed 383955.crdownload",
+    "ME 515/HW/HW2.md",
+    "ME 515/HW/HW 1.md",
+    "README.md",
+    "ME 556/Lectures/III. Exact Soluitons .pdf",
+    "ME 556/Lectures/II. Equations of Motion .pdf",
+    "ME 462/ME 46200 ; Manufacturing Processes.md",
+    "ME 556/Lectures/I. Introduction .pdf",
+    "ME 556/ME 55600, I0800 ; Advanced Fluid Mechanics.md",
+    "Templates/Daily Notes(Task Edition)/Journal/2023/September/2023-09-16.md",
+    "ME 556/HW/~WRL0001.tmp",
+    "ME 556/HW/~WRD0000.tmp",
+    "ME 556/HW/ME I0800 HW 1.md",
+    "Templates/Daily Notes(Task Edition)/Journal/2023/September/2023-09-12.md",
+    "Templates/Daily Notes(Task Edition)/Journal/2023/September/2023-09-15.md",
+    "Templates/Daily Notes(Task Edition)/Journal/2023/September/2023-09-10.md",
+    "INTL 201/Assignments/Assignment 1.md",
+    "ME 556/HW/ME I0800 HW.md",
+    "ME 515/attachments/Pasted image 20230910112833.png",
+    "ME 515/attachments/Pasted image 20230910112820.png",
+    "ME 515/attachments/Pasted image 20230910112810.png",
+    "ME 515/attachments/Pasted image 20230910112758.png",
+    "Templates/Daily Notes(Task Edition)/Tasks.md",
+    "ME 473/AIAA Logbook/Day 2.md",
+    "ME 473/Lecture Summaries/Lecture 2.md",
+    "ME 473/Lecture Summaries/Lecture 1.md",
+    "Templates/Daily Notes(Task Edition)/Journal/2023/September/2023-09-05.md",
+    "Templates/Daily Notes(Task Edition)/Templates/Daily Note.md",
+    "ME 473/ME 47300 I ; Senior Design.md",
+    "Templates/Daily Notes(Task Edition)/This Week's Task.md",
+    "Templates/Daily Notes(Task Edition)/Unscheduled Tasks.md",
+    "Templates/Daily Notes(Task Edition)/Action Dashboard.md",
+    "Excalidraw/Scripts/Downloaded/Zoom to Fit Selected Elements.svg",
+    "Excalidraw/Scripts/Downloaded/Slideshow.svg",
+    "Excalidraw/Scripts/Downloaded/Set Text Alignment.svg",
+    "Excalidraw/Scripts/Downloaded/Set Stroke Width of Selected Elements.svg",
+    "Excalidraw/Scripts/Downloaded/Set Grid.svg",
+    "Excalidraw/Scripts/Downloaded/Set Font Family.svg",
+    "PPPL.canvas",
+    "ME 433/Heat Transfer.canvas"
+  ]
+}

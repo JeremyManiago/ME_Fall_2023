@@ -1,0 +1,15 @@
+{
+  "showCLICommands": false,
+  "addExtensionsToInternalLinks": "html",
+  "injectAppCSS": "none",
+  "injectThemeCSS": false,
+  "customCSSFile": "pdf-export",
+  "displayYAMLFrontmatter": false,
+  "linkStrippingBehaviour": "text",
+  "highDPIDiagrams": true,
+  "pandoc": "C:\\Users\\mania\\AppData\\Local\\Pandoc\\pandoc.exe",
+  "pdflatex": " C:\\Program Files\\MiKTeX\\miktex\\bin\\x64\\pdflatex.exe",
+  "outputFolder": null,
+  "extraArguments": "",
+  "exportFrom": "html"
+}
