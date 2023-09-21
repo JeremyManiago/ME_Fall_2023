@@ -19,5 +19,7 @@
 + [x] [[f23hw1.pdf]]
 + [x] [[HW2]]
 	+ Curtis Chapter 2, #\s 9, 10, 15, 17
-+ [/] [[HW3]]
++ [x] [[HW3]]
 	+ Curtis Chapter 2, #\s 18, 19, 20, 37
++ [ ] [[HW4]]
+	+ 

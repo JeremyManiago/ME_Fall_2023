@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "d70f10b2584c037e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Templates/Daily Notes(Task Edition)/Journal/2023/September/2023-09-20.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "cbace2b07915c6e3",
             "type": "leaf",
             "state": {
@@ -76,7 +88,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -287,11 +299,14 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "bed6014f008039c4",
+  "active": "d70f10b2584c037e",
   "lastOpenFiles": [
-    "ME 515/[Elsevier Aerospace Engineering Series] Howard D. Curtis - Orbital Mechanics For Engineering Students (2020, Elsevier_Butterworth-Heinemann).pdf",
-    "Templates/Daily Notes(Task Edition)/Journal/2023/September/2023-09-20.md",
+    "README.md",
+    "ME 556/ME 55600, I0800 ; Advanced Fluid Mechanics.md",
     "ME 515/HW/HW3.md",
+    "ME 515/HW/ME515_Orbital_HW3.pdf",
+    "Templates/Daily Notes(Task Edition)/Journal/2023/September/2023-09-20.md",
+    "ME 515/[Elsevier Aerospace Engineering Series] Howard D. Curtis - Orbital Mechanics For Engineering Students (2020, Elsevier_Butterworth-Heinemann).pdf",
     "ME 515/Lectures/Lecture Notes 3.pdf",
     "ME 515/HW/attachments/Pasted image 20230919223709.png",
     "ME 515/HW/attachments/Pasted image 20230919223706.png",
@@ -300,7 +315,6 @@
     "ME 515/HW/attachments/Pasted image 20230919223656.png",
     "ME 515/HW/attachments",
     "ME 515/ME 51500_I0820 ; Orbital Mechanics.md",
-    "ME 556/ME 55600, I0800 ; Advanced Fluid Mechanics.md",
     "ME 473/ME 47300 I ; Senior Design.md",
     "Templates/Daily Notes(Task Edition)/Journal/2023/September/2023-09-19.md",
     "ME 462/HW/~$Rubeen_File_1.SLDPRT",
@@ -309,11 +323,9 @@
     "ME 462/HW/TurboCharger/HW1_JeremyManiago_TurboCharger.zip",
     "ME 462/HW/TurboCharger/wastegate_opening.SLDPRT",
     "ME 462/HW/TurboCharger/wastegate_lever.SLDPRT",
-    "ME 462/HW/TurboCharger/wastegate_arm.SLDPRT",
     "Templates/Daily Notes(Task Edition)/Journal/2023/September/2023-09-17.md",
     "ME 515/HW/HW2.md",
     "ME 515/HW/HW 1.md",
-    "README.md",
     "ME 462/ME 46200 ; Manufacturing Processes.md",
     "Templates/Daily Notes(Task Edition)/Journal/2023/September/2023-09-16.md",
     "ME 556/HW/ME I0800 HW 1.md",
