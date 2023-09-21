@@ -2,15 +2,18 @@
 
 ---
 
-
-
----
-
-
+![[Pasted image 20230919223709.png]]
 
 ---
 
+![[Pasted image 20230919223706.png]]
 
+![[Pasted image 20230919223701.png]]
 
 ---
 
+![[Pasted image 20230919223658.png]]
+
+---
+
+![[Pasted image 20230919223656.png]]
