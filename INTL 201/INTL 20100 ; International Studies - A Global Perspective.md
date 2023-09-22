@@ -4,10 +4,10 @@
 
 ---
 ## *Lectures*
-+ [ ] ***[[Week 1]]***
-	+ [ ] Video: [Lecture 1 video](https://youtu.be/KlaFs4GtozE)
-	+ [ ] Lecture: [[Week1_lecture_FA2023_Lecture1.pdf]]
-	+ [ ] Required Reading: *none*
++ [x] ***[[Week 1]]***
+	+ [x] Video: [Lecture 1 video](https://youtu.be/KlaFs4GtozE)
+	+ [x] Lecture: [[Week1_lecture_FA2023_Lecture1.pdf]]
+	+ [x] Required Reading: *none*
 
 + [ ] ***[[Week 2]]***
 	+ [ ] Video: [Lecture2 SU23 - YouTube](https://www.youtube.com/watch?v=gGv1ctDpi6U)
