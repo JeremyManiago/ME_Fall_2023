@@ -11,5 +11,3 @@
 + [[ME 51500_I0820 ; Orbital Mechanics]]
 
 + [[ME 46200 ; Manufacturing Processes]]
-
-+ [[ME 43600 ; Aerothermal Fluids Lab]]
