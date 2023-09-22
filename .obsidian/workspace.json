@@ -20,34 +20,12 @@
             }
           },
           {
-            "id": "d70f10b2584c037e",
+            "id": "79dab425a9197797",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/Daily Notes(Task Edition)/Journal/2023/September/2023-09-20.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "cbace2b07915c6e3",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "ME 515/Lectures/Lecture Notes 3.pdf"
-              }
-            }
-          },
-          {
-            "id": "1873dc949362f19e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ME 515/HW/HW3.md",
+                "file": "ME 43600 ; Aerothermal Fluids Lab.md",
                 "mode": "source",
                 "source": false
               }
@@ -169,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Templates/Daily Notes(Task Edition)/Journal/2023/September/2023-09-20.md",
+                "file": "ME 43600 ; Aerothermal Fluids Lab.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -186,7 +164,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Templates/Daily Notes(Task Edition)/Journal/2023/September/2023-09-20.md",
+                "file": "ME 43600 ; Aerothermal Fluids Lab.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -209,7 +187,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/Daily Notes(Task Edition)/Journal/2023/September/2023-09-20.md"
+                "file": "ME 43600 ; Aerothermal Fluids Lab.md"
               }
             }
           },
@@ -299,15 +277,17 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "d70f10b2584c037e",
+  "active": "79dab425a9197797",
   "lastOpenFiles": [
-    "README.md",
     "ME 556/ME 55600, I0800 ; Advanced Fluid Mechanics.md",
-    "ME 515/HW/HW3.md",
-    "ME 515/HW/ME515_Orbital_HW3.pdf",
-    "Templates/Daily Notes(Task Edition)/Journal/2023/September/2023-09-20.md",
-    "ME 515/[Elsevier Aerospace Engineering Series] Howard D. Curtis - Orbital Mechanics For Engineering Students (2020, Elsevier_Butterworth-Heinemann).pdf",
+    "ME 43600 ; Aerothermal Fluids Lab.md",
+    "README.md",
     "ME 515/Lectures/Lecture Notes 3.pdf",
+    "Templates/Daily Notes(Task Edition)/Journal/2023/September/2023-09-21.md",
+    "ME 515/HW/HW3.md",
+    "Templates/Daily Notes(Task Edition)/Journal/2023/September/2023-09-20.md",
+    "ME 515/HW/ME515_Orbital_HW3.pdf",
+    "ME 515/[Elsevier Aerospace Engineering Series] Howard D. Curtis - Orbital Mechanics For Engineering Students (2020, Elsevier_Butterworth-Heinemann).pdf",
     "ME 515/HW/attachments/Pasted image 20230919223709.png",
     "ME 515/HW/attachments/Pasted image 20230919223706.png",
     "ME 515/HW/attachments/Pasted image 20230919223701.png",
@@ -344,7 +324,6 @@
     "ME 473/Lecture Summaries/Lecture 1.md",
     "Templates/Daily Notes(Task Edition)/Journal/2023/September/2023-09-05.md",
     "Templates/Daily Notes(Task Edition)/Templates/Daily Note.md",
-    "Templates/Daily Notes(Task Edition)/This Week's Task.md",
     "Excalidraw/Scripts/Downloaded/Zoom to Fit Selected Elements.svg",
     "PPPL.canvas",
     "ME 433/Heat Transfer.canvas"
