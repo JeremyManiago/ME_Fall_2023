@@ -21,5 +21,5 @@
 	+ Curtis Chapter 2, #\s 9, 10, 15, 17
 + [x] [[HW3]]
 	+ Curtis Chapter 2, #\s 18, 19, 20, 37
-+ [ ] [[HW4]]
++ [ ] 
 	+ 

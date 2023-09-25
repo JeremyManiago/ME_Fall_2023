@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ME 515/ME 51500_I0820 ; Orbital Mechanics.md",
+                "file": "ME 515/HW/HW4.md",
                 "mode": "source",
                 "source": false
               }
@@ -68,7 +68,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -149,7 +149,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ME 462/Lecture HW/Homework 1.md",
+                "file": "ME 556/ME 55600, I0800 ; Advanced Fluid Mechanics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -166,7 +166,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ME 462/Lecture HW/Homework 1.md",
+                "file": "ME 556/ME 55600, I0800 ; Advanced Fluid Mechanics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -189,7 +189,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ME 462/Lecture HW/Homework 1.md"
+                "file": "ME 556/ME 55600, I0800 ; Advanced Fluid Mechanics.md"
               }
             }
           },
@@ -279,33 +279,38 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "158ba70d39887dc8",
+  "active": "eddb78afd86eb444",
   "lastOpenFiles": [
-    "ME 462/ME 46200 ; Manufacturing Processes.md",
-    "ME 462/Lecture HW/Homework 1.md",
-    "ME 462/Lecture HW",
-    "ME 515/ME 51500_I0820 ; Orbital Mechanics.md",
+    "ME 556/HW/HW Solutions/ME 55600_I0200 HW 1 Governing Equations-Solution (1).docx",
+    "ME 556/HW/HW Solutions/ME 55600_I0200 HW 2 Exact Solutions-Solution.docx",
+    "ME 556/HW/HW Solutions/HW 3- Coaxial Poisuille Flow-Solution.docx",
+    "ME 556/HW/HW 3- Coaxial Poisuille Flow-Solution.docx",
+    "ME 556/HW/ME 55600_I0200 HW 4 Marangoni Effect.docx",
+    "ME 556/HW/ME 55600_I0200 HW 5 Lubrication Approximation.docx",
+    "ME 556/HW/HW #3- Coaxial Poisuille Flow-Solution.docx",
+    "ME 556/HW/ME 55600_I0200 HW #4 Marangoni Effect.docx",
+    "ME 556/HW/ME 55600_I0200 HW #5 Lubrication Approximation.docx",
+    "ME 556/HW/HW Solutions/ME 55600_I0200 HW #1 Governing Equations-Solution (1).docx",
+    "ME 556/HW/HW Solutions/ME 55600_I0200 HW #2 Exact Solutions-Solution.docx",
     "ME 556/ME 55600, I0800 ; Advanced Fluid Mechanics.md",
+    "ME 515/HW/HW4.md",
+    "ME 515/HW/attachments/Pasted image 20230925105754.png",
+    "ME 515/HW/attachments/Pasted image 20230925105737.png",
+    "ME 515/ME 51500_I0820 ; Orbital Mechanics.md",
+    "ME 515/HW/HW 1.md",
+    "ME 462/Lecture HW/Homework 1.md",
+    "ME 462/ME 46200 ; Manufacturing Processes.md",
     "INTL 201/INTL 20100 ; International Studies - A Global Perspective.md",
-    "ME 436",
     "ME 436/ME 43600 ; Aerothermal Fluids Lab.md",
     "README.md",
-    "INTL 201/~$nnis_CCNY INTL FA 2023 syllabus27082023_asynchronous.docx",
     "Templates/Daily Notes(Task Edition)/Journal/2023/September/2023-09-24.md",
     "Templates/Daily Notes(Task Edition)/Journal/2023/September/2023-09-22.md",
     "INTL 201/Exams/Exam 1 Study Guide.md",
-    "INTL 201/Exams",
-    "INTL 201/Exam 1 Study Guide_SU2023.docx",
-    "Exam 1 Study Guide_SU2023.docx",
     "INTL 201/Lectures/Week 1.md",
     "INTL 201/Lectures/Week 2.md",
     "INTL 201/Lectures/Week 3.md",
     "INTL 201/Lectures/Week 4.md",
     "INTL 201/Lectures/Week 5.md",
-    "INTL 201/Readings/Jared M. Diamond-Guns, Germs and Steel-Cpt 3.pdf",
-    "INTL 201/Readings/Eric Wolf_Review_Europe and the People Without History (Rediscovered)(1).pdf",
-    "INTL 201/Readings/Unconfirmed 270506.crdownload",
-    "INTL 201/Readings/wolf_cpt2(1).pdf",
     "ME 473/ME 47300 I ; Senior Design.md",
     "Templates/Daily Notes(Task Edition)/Journal/2023/September/2023-09-21.md",
     "ME 515/HW/HW3.md",
@@ -318,15 +323,10 @@
     "Templates/Daily Notes(Task Edition)/Journal/2023/September/2023-09-19.md",
     "Templates/Daily Notes(Task Edition)/Journal/2023/September/2023-09-17.md",
     "ME 515/HW/HW2.md",
-    "ME 515/HW/HW 1.md",
     "Templates/Daily Notes(Task Edition)/Journal/2023/September/2023-09-16.md",
-    "ME 556/HW/ME I0800 HW 1.md",
-    "Templates/Daily Notes(Task Edition)/Journal/2023/September/2023-09-12.md",
     "ME 515/attachments/Pasted image 20230910112833.png",
     "ME 515/attachments/Pasted image 20230910112820.png",
     "ME 515/attachments/Pasted image 20230910112810.png",
-    "ME 515/attachments/Pasted image 20230910112758.png",
-    "Excalidraw/Scripts/Downloaded/Zoom to Fit Selected Elements.svg",
     "PPPL.canvas",
     "ME 433/Heat Transfer.canvas"
   ]
