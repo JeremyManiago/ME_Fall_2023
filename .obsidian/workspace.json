@@ -32,24 +32,12 @@
             }
           },
           {
-            "id": "af72c964db970ccc",
+            "id": "37b5073121dfba9a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "ME 462/Lecture HW/Homework 1.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "eddb78afd86eb444",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ME 556/ME 55600, I0800 ; Advanced Fluid Mechanics.md",
                 "mode": "source",
                 "source": false
               }
@@ -291,12 +279,16 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "af72c964db970ccc",
+  "active": "37b5073121dfba9a",
   "lastOpenFiles": [
-    "ME 462/ME 46200 ; Manufacturing Processes.md",
-    "ME 462/Lecture HW/Homework 1.md",
+    "Templates/Daily Notes(Task Edition)/Journal/2023/September/2023-09-26.md",
     "ME 556/ME 55600, I0800 ; Advanced Fluid Mechanics.md",
+    "ME 556/HW/~$ I0800 HW3 Pipe Flow.docx",
+    "ME 556/HW/~WRL0001.tmp",
+    "ME 556/HW/~WRD0000.tmp",
     "INTL 201/INTL 20100 ; International Studies - A Global Perspective.md",
+    "ME 462/Lecture HW/Homework 1.md",
+    "ME 462/ME 46200 ; Manufacturing Processes.md",
     "ME 515/HW/HW4.md",
     "ME 556/HW/HW Solutions/ME 55600_I0200 HW 1 Governing Equations-Solution (1).docx",
     "ME 556/HW/HW Solutions/ME 55600_I0200 HW 2 Exact Solutions-Solution.docx",
@@ -305,9 +297,6 @@
     "ME 556/HW/ME 55600_I0200 HW 4 Marangoni Effect.docx",
     "ME 556/HW/ME 55600_I0200 HW 5 Lubrication Approximation.docx",
     "ME 556/HW/HW #3- Coaxial Poisuille Flow-Solution.docx",
-    "ME 556/HW/ME 55600_I0200 HW #4 Marangoni Effect.docx",
-    "ME 556/HW/ME 55600_I0200 HW #5 Lubrication Approximation.docx",
-    "ME 556/HW/HW Solutions/ME 55600_I0200 HW #1 Governing Equations-Solution (1).docx",
     "ME 515/HW/attachments/Pasted image 20230925105754.png",
     "ME 515/HW/attachments/Pasted image 20230925105737.png",
     "ME 515/ME 51500_I0820 ; Orbital Mechanics.md",
