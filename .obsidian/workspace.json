@@ -20,30 +20,6 @@
             }
           },
           {
-            "id": "158ba70d39887dc8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ME 462/ME 46200 ; Manufacturing Processes.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ec6c44449e1c44c6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ME 462/Lecture HW/Homework 1.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "eddb78afd86eb444",
             "type": "leaf",
             "state": {
@@ -52,6 +28,16 @@
                 "file": "ME 556/ME 55600, I0800 ; Advanced Fluid Mechanics.md",
                 "mode": "source",
                 "source": false
+              }
+            }
+          },
+          {
+            "id": "061756593935bdf1",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "ME 556/Lectures/III. Exact Soluitons .pdf"
               }
             }
           },
@@ -161,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ME 462/Lecture HW/Homework 1.md",
+                "file": "ME 556/Lectures/III. Exact Soluitons .pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -178,7 +164,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ME 462/Lecture HW/Homework 1.md",
+                "file": "ME 556/Lectures/III. Exact Soluitons .pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -201,7 +187,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ME 462/Lecture HW/Homework 1.md"
+                "file": "ME 556/Lectures/III. Exact Soluitons .pdf"
               }
             }
           },
@@ -291,9 +277,16 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "ec6c44449e1c44c6",
+  "active": "061756593935bdf1",
   "lastOpenFiles": [
+    "README.md",
     "ME 462/ME 46200 ; Manufacturing Processes.md",
+    "ME 462/Lecture HW/Homework 1.md",
+    "ME 462/Lectures/~$Lecture 3- Rolling.ppt",
+    "ME 556/ME 55600, I0800 ; Advanced Fluid Mechanics.md",
+    "ME 556/HW/HW Solutions/~$ 3- Coaxial Poisuille Flow-Solution.docx",
+    "ME 556/Lectures/III. Exact Soluitons .pdf",
+    "ME 515/HW/HW4.md",
     "Templates/Daily Notes(Task Edition)/Journal/2023/September/2023-09-26.md",
     "ME 462/Syllabus ME462.doc",
     "ME 462/Lectures/Lecture7 powder metal.ppt",
@@ -302,20 +295,13 @@
     "ME 462/Lectures/Lecture 5 welding.ppt",
     "ME 462/Lectures/Lecture 4- sheet metal manftrng.ppt",
     "ME 462/Lectures/Lecture 3- Rolling.ppt",
-    "ME 462/Lectures/Lecture 2- casting.ppt",
-    "ME 462/Lectures/Lecture 1- Introduction.ppt",
-    "ME 462/Lectures",
     "Templates/Daily Notes(Task Edition)/Journal/2023/September/2023-09-27.md",
-    "ME 462/Lecture HW/Homework 1.md",
-    "ME 556/ME 55600, I0800 ; Advanced Fluid Mechanics.md",
     "INTL 201/INTL 20100 ; International Studies - A Global Perspective.md",
-    "ME 515/HW/HW4.md",
     "ME 515/HW/attachments/Pasted image 20230925105754.png",
     "ME 515/HW/attachments/Pasted image 20230925105737.png",
     "ME 515/ME 51500_I0820 ; Orbital Mechanics.md",
     "ME 515/HW/HW 1.md",
     "ME 436/ME 43600 ; Aerothermal Fluids Lab.md",
-    "README.md",
     "Templates/Daily Notes(Task Edition)/Journal/2023/September/2023-09-24.md",
     "Templates/Daily Notes(Task Edition)/Journal/2023/September/2023-09-22.md",
     "INTL 201/Exams/Exam 1 Study Guide.md",
@@ -335,7 +321,6 @@
     "ME 515/HW/attachments/Pasted image 20230919223656.png",
     "Templates/Daily Notes(Task Edition)/Journal/2023/September/2023-09-19.md",
     "Templates/Daily Notes(Task Edition)/Journal/2023/September/2023-09-17.md",
-    "ME 515/HW/HW2.md",
     "ME 515/attachments/Pasted image 20230910112833.png",
     "ME 515/attachments/Pasted image 20230910112820.png",
     "ME 515/attachments/Pasted image 20230910112810.png",

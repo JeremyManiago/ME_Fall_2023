@@ -1,4 +1,4 @@
-![[f23hw4.pdf]]
+[[f23hw4.pdf]]
 
 1) a) What is the apogee altitude of a ballistic missile fired on an optimum trajectory across a 6000 km range? 
    b) What is the apogee altitude of the missile when fired with the same velocity to a range of 3000 km?
