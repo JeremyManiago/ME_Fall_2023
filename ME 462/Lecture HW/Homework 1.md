@@ -2,6 +2,7 @@
 
 <u>Manufacturing of PVC Pipes</u>
 [ME462_Manufacturing_LectureHW1 - Online LaTeX Editor Overleaf](https://www.overleaf.com/project/65136bf63a46a1ba615f8d97)
+![[ME462_Manufacturing_LectureHW1.pdf]]
 
 \doublespacing
 
