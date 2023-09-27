@@ -68,7 +68,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -149,7 +149,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ME 462/ME 46200 ; Manufacturing Processes.md",
+                "file": "ME 462/Lecture HW/Homework 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -166,7 +166,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ME 462/ME 46200 ; Manufacturing Processes.md",
+                "file": "ME 462/Lecture HW/Homework 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -189,7 +189,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ME 462/ME 46200 ; Manufacturing Processes.md"
+                "file": "ME 462/Lecture HW/Homework 1.md"
               }
             }
           },
@@ -279,10 +279,10 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "158ba70d39887dc8",
+  "active": "37b5073121dfba9a",
   "lastOpenFiles": [
-    "ME 462/Lecture HW/Homework 1.md",
     "ME 462/ME 46200 ; Manufacturing Processes.md",
+    "ME 462/Lecture HW/Homework 1.md",
     "ME 462/Lectures/~$Lecture 2- casting.ppt",
     "ME 462/Lectures/~$Lecture 3- Rolling.ppt",
     "ME 462/Lectures/Lecture 1- Introduction.ppt",
