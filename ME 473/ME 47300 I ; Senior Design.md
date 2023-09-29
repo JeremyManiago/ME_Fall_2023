@@ -10,11 +10,10 @@
 
 ---
 ## Logbooks
-
++ 
 
 ---
-
 ## HW
-+ [[TurboCharger.SLDASM]]
-+ [[Rubeen_File_1.SLDPRT]]
-+ 
++ [x] Pick n Place mechanism
++ [x] [[Project Requirements.pdf]]
++ [/] Stapler Design
