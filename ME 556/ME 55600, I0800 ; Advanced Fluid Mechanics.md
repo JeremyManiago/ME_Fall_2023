@@ -19,7 +19,12 @@
 + [x] [[ME I0800 HW2 Exact Solutions.docx]]
 	+ [i] [[ME 55600_I0200 HW 2 Exact Solutions-Solution.docx]]
 + [x] [[ME I0800 HW3 Pipe Flow.docx]]
-	+ [i] [[HW 3- Coaxial Poisuille Flow-Solution.docx]]
+	+ [i] [[ME 55600_I0200 HW 3 Pipe Flow-Solution.pdf]]
 + [x] [[ME 55600_I0200 HW 4 Marangoni Effect.docx]]
-+ [ ] [[ME 55600_I0200 HW 5 Lubrication Approximation.docx]]
-+ [ ] 
+	+ [i] [[ME 55600_I0200 HW 4 Marangoni Effect-Solution.pdf]] 
+- [/] [[ME 55600_I0200 HW 5 Lubrication Approximation.docx]] 📅 2023-10-05 🔼 
+
+
+---
+## Projects
+- [ ] [[ME 55600_I0200 Lubrication Project.pdf]]  📅 2023-12-01 🔼 

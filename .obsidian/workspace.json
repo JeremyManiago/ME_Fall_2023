@@ -25,9 +25,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ME 473/ME 47300 I ; Senior Design.md",
+                "file": "ME 556/ME 55600, I0800 ; Advanced Fluid Mechanics.md",
                 "mode": "source",
                 "source": false
+              }
+            }
+          },
+          {
+            "id": "ca408344e3f8f8e1",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "ME 556/Lectures/V. Lubrication Theory -Word 14.pdf"
               }
             }
           },
@@ -43,7 +53,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -124,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "ME 556/Lectures/V. Lubrication Theory -Word 14.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "ME 556/Lectures/V. Lubrication Theory -Word 14.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -164,7 +175,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "ME 556/Lectures/V. Lubrication Theory -Word 14.pdf"
               }
             }
           },
@@ -254,31 +265,31 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "58352efd5cbcefe8",
+  "active": "ca408344e3f8f8e1",
   "lastOpenFiles": [
-    "Templates/Daily Notes(Task Edition)/Journal/2023/September/2023-09-22.md",
-    "README.md",
-    "Templates/Daily Notes(Task Edition)/Journal/2023/September/2023-09-29.md",
+    "ME 556/ME 55600, I0800 ; Advanced Fluid Mechanics.md",
+    "ME 556/HW/~$ 55600_I0200 HW 5 Lubrication Approximation.docx",
+    "ME 556/Projects/ME 55600_I0200 Lubrication Project.pdf",
+    "ME 556/Projects/Unconfirmed 284306.crdownload",
+    "ME 556/Projects",
+    "ME 556/New folder",
+    "ME 556/HW/HW Solutions/ME 55600_I0200 HW 4 Marangoni Effect-Solution.pdf",
+    "ME 556/HW/HW Solutions/ME 55600_I0200 HW 3 Pipe Flow-Solution.pdf",
     "ME 473/ME 47300 I ; Senior Design.md",
+    "README.md",
+    "ME 556/HW/HW Solutions/ME 55600_I0200 HW #4 Marangoni Effect-Solution.pdf",
+    "ME 556/HW/HW Solutions/Unconfirmed 736852.crdownload",
+    "ME 556/HW/HW Solutions/ME 55600_I0200 HW #3 Pipe Flow-Solution.pdf",
+    "Templates/Daily Notes(Task Edition)/Journal/2023/September/2023-09-22.md",
+    "Templates/Daily Notes(Task Edition)/Journal/2023/September/2023-09-29.md",
     "ME 515/ME 51500_I0820 ; Orbital Mechanics.md",
-    "ME 515/HW/f23hw4.pdf",
     "ME 515/HW/HW4.md",
-    "ME 473/HW/Project Requirements.pdf",
-    "ME 473/HW/Pick n Place/pin.SLDPRT",
-    "ME 473/HW/Pick n Place/longpart.SLDPRT",
-    "ME 473/HW/Pick n Place/JeremyManiago_HW1_PickNPlace.zip",
-    "ME 473/HW/Pick n Place/JeremyManiago_HW1_PickNPlace.SLDASM",
-    "ME 473/HW/Pick n Place/bearing.SLDPRT",
-    "ME 473/HW/Pick n Place/base.SLDPRT",
-    "ME 473/HW/Pick n Place/three_ping_link.SLDPRT",
-    "ME 473/HW/Pick n Place/spinny.SLDPRT",
     "ME 473/HW/Pick n Place/Project Requirements.md",
     "ME 462/ME 46200 ; Manufacturing Processes.md",
     "ME 473/HW/Project Requirements.md",
     "ME 462/Lecture HW/Homework 1.md",
     "Templates/Daily Notes(Task Edition)/Journal/2023/September/2023-09-28.md",
     "Templates/Daily Notes(Task Edition)/Journal/2023/September/2023-09-26.md",
-    "ME 556/ME 55600, I0800 ; Advanced Fluid Mechanics.md",
     "INTL 201/INTL 20100 ; International Studies - A Global Perspective.md",
     "ME 515/HW/attachments/Pasted image 20230925105754.png",
     "ME 515/HW/attachments/Pasted image 20230925105737.png",
@@ -293,7 +304,6 @@
     "INTL 201/Lectures/Week 5.md",
     "Templates/Daily Notes(Task Edition)/Journal/2023/September/2023-09-21.md",
     "ME 515/HW/HW3.md",
-    "Templates/Daily Notes(Task Edition)/Journal/2023/September/2023-09-20.md",
     "ME 515/HW/attachments/Pasted image 20230919223709.png",
     "ME 515/HW/attachments/Pasted image 20230919223706.png",
     "ME 515/HW/attachments/Pasted image 20230919223701.png",
