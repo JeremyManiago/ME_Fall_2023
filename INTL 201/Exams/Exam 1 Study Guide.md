@@ -27,16 +27,19 @@ The purpose of the Navy (lecture)
 Phoenician trading (lecture)
 Slave trade (lecture)
 Silk Route (lecture)
+
 Reasons for the rise of Europe after 1400 (Living Anthropologically reading)
+## [[Lecture 5]]
+
 Great Bullion Famine (lecture)
 Portuguese carrack ship (lecture)
 Drivers and motivations for exploration by the Portuguese and Spanish in the 15 th-16th centuries. (lecture)
 
-## [[Lecture 5]]
-
 Causes of Pizzaro’s victory over Atahullpa (Diamond)
-Wallerstein’s Core-Periphery theory (lecture)
-Rise and fall of power centers over time. Changing Core and periphery regions of the world (lecture)
+
+### **Wallerstein’s Core-Periphery theory (lecture)** (Important for Essay)
+### Rise and fall of power centers over time. Changing Core and periphery regions of the world (lecture) (Important for Essay)
+
 Sugar triangle trade (lecture)
 Colonialism (lecture)
 Mercantilism (lecture)

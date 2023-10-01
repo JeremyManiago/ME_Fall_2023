@@ -10,3 +10,15 @@
 ### Citation
 - Thinking Globally : A Global Studies Reader, 2013
 
+## Jergensmeyer section (pp.1-7)
+
+
+
+
+
+## Friedman section (pp.10-17)
+### <u>The South East Asian financial crisis and the contagion process</u>
+
+
+
+### <u>Causes and drivers of past epochs of globalization versus the most recent episode</u>

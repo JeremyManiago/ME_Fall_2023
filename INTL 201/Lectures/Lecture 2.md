@@ -23,7 +23,7 @@
 	- counted; based on amounts and numbers
 
 ---
-## Reading - Steger (2020)
+## Reading - Steger (2020), pp 3-17
 ### <u>Globality</u>
 - signifies a *social condition* characterized by tight global economic, political, cultural, and environmental interconnections and flows that challenges most of the currently existing borders and boundaries (pp.3).
 

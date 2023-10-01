@@ -6,6 +6,7 @@
       {
         "id": "755b241ad23128f2",
         "type": "tabs",
+        "dimension": 52.50533049040512,
         "children": [
           {
             "id": "cd7eabcd65b30dab",
@@ -20,34 +21,64 @@
             }
           },
           {
-            "id": "c6d205d654587dd1",
+            "id": "10b029b0828be752",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "INTL 201/Readings/Jared M. Diamond-Guns, Germs and Steel-Cpt 3.pdf"
+              }
+            }
+          },
+          {
+            "id": "a7a2cb87c5b1fabd",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "INTL 201/Readings/Eric Wolf_Review_Europe and the People Without History (Rediscovered)(1).pdf"
+              }
+            }
+          },
+          {
+            "id": "9cd1161f7bd0f349",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "INTL 201/Lectures/Week4_lecture_SU2023_Lecture5(1).pdf"
+              }
+            }
+          },
+          {
+            "id": "f87b9a6aee986224",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "INTL 201/Lectures/Lecture 1.md",
+                "file": "INTL 201/Lectures/Lecture 5.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "6756c493c7659fb4",
+            "id": "b31729d6fa106a58",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "INTL 201/Readings/Juergensmeyer_Chapter_1.pdf"
+                "file": "INTL 201/Lectures/Week3_lecture_SU2023_Lecture4.pdf"
               }
             }
           },
           {
-            "id": "ec2a1efb17373f1f",
+            "id": "a2f22ba7bd075e5a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "INTL 201/Lectures/Lecture 3.md",
+                "file": "INTL 201/Lectures/Lecture 4.md",
                 "mode": "source",
                 "source": false
               }
@@ -64,6 +95,28 @@
             }
           },
           {
+            "id": "ec2a1efb17373f1f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "INTL 201/Lectures/Lecture 3.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5afb8e280aa793ae",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "INTL 201/Lectures/Week2_lecture_SU2023_Lecture2.pdf"
+              }
+            }
+          },
+          {
             "id": "bdf3853b2a4a5eb7",
             "type": "leaf",
             "state": {
@@ -76,14 +129,31 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       },
       {
-        "id": "a2554d8f58636baf",
+        "id": "c11d0ef04c121591",
         "type": "split",
+        "dimension": 47.494669509594885,
         "children": [
           {
-            "id": "0c0ec2298e5a85b6",
+            "id": "dce68fa35a248bcb",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "6756c493c7659fb4",
+                "type": "leaf",
+                "state": {
+                  "type": "pdf",
+                  "state": {
+                    "file": "INTL 201/Readings/Juergensmeyer_Chapter_1.pdf"
+                  }
+                }
+              }
+            ]
+          },
+          {
+            "id": "925411f5894b89e3",
             "type": "tabs",
             "children": [
               {
@@ -99,53 +169,6 @@
                 }
               }
             ]
-          },
-          {
-            "id": "dce68fa35a248bcb",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "a15e7139999c48e5",
-                "type": "leaf",
-                "state": {
-                  "type": "video",
-                  "state": {
-                    "file": "INTL 201/Lectures/Videos (don't ask)/yt1s.com - Lecture2 SU23_360p.mp4"
-                  }
-                }
-              },
-              {
-                "id": "a16bef664ac4e8ae",
-                "type": "leaf",
-                "state": {
-                  "type": "video",
-                  "state": {
-                    "file": "INTL 201/Lectures/Videos (don't ask)/yt1s.com - Lecture3 SU23_360p.mp4"
-                  }
-                }
-              },
-              {
-                "id": "503efd455eebc0d2",
-                "type": "leaf",
-                "state": {
-                  "type": "video",
-                  "state": {
-                    "file": "INTL 201/Lectures/Videos (don't ask)/yt1s.com - Lecture4 SU23_720p.mp4"
-                  }
-                }
-              },
-              {
-                "id": "94b4401b72783aa8",
-                "type": "leaf",
-                "state": {
-                  "type": "video",
-                  "state": {
-                    "file": "INTL 201/Lectures/Videos (don't ask)/yt1s.com - Lecture 5 SU23correct_360p.mp4"
-                  }
-                }
-              }
-            ],
-            "currentTab": 2
           }
         ],
         "direction": "horizontal"
@@ -229,7 +252,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "INTL 201/Lectures/Lecture 2.md",
+                "file": "INTL 201/Lectures/Lecture 5.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -246,7 +269,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "INTL 201/Lectures/Lecture 2.md",
+                "file": "INTL 201/Lectures/Lecture 5.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -269,7 +292,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "INTL 201/Lectures/Lecture 2.md"
+                "file": "INTL 201/Lectures/Lecture 5.md"
               }
             }
           },
@@ -359,26 +382,29 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "bdf3853b2a4a5eb7",
+  "active": "f87b9a6aee986224",
   "lastOpenFiles": [
+    "INTL 201/Lectures/Videos (don't ask)/yt1s.com - Lecture 5 SU23correct_360p.mp4",
+    "INTL 201/Lectures/Lecture 5.md",
     "INTL 201/Exams/Exam 1 Study Guide.md",
-    "INTL 201/Lectures/Lecture 2.md",
-    "INTL 201/Lectures/Week2_lecture_SU2023_Lecture3.pdf",
-    "INTL 201/Lectures/Lecture 3.md",
-    "INTL 201/Lectures/Videos (don't ask)/yt1s.com - Lecture4 SU23_720p.mp4",
+    "INTL 201/Lectures/attachments/Pasted image 20231001182201.png",
+    "INTL 201/Lectures/attachments",
+    "INTL 201/Lectures/Week4_lecture_SU2023_Lecture5(1).pdf",
+    "INTL 201/Readings/Eric Wolf_Review_Europe and the People Without History (Rediscovered)(1).pdf",
+    "INTL 201/Readings/Jared M. Diamond-Guns, Germs and Steel-Cpt 3.pdf",
     "INTL 201/INTL 20100 ; International Studies - A Global Perspective.md",
+    "INTL 201/Lectures/Week3_lecture_SU2023_Lecture4.pdf",
+    "INTL 201/Lectures/Videos (don't ask)/yt1s.com - Lecture4 SU23_720p.mp4",
+    "INTL 201/Lectures/Lecture 4.md",
+    "INTL 201/Lectures/Videos (don't ask)/yt1s.com - Lecture3 SU23_360p.mp4",
+    "INTL 201/Lectures/Week2_lecture_SU2023_Lecture3.pdf",
+    "INTL 201/Lectures/Lecture 2.md",
+    "INTL 201/Lectures/Week2_lecture_SU2023_Lecture2.pdf",
+    "INTL 201/Lectures/Lecture 3.md",
+    "Templates/Daily Notes(Task Edition)/Journal/2023/October/2023-10-01.md",
     "INTL 201/Lectures/Lecture 1.md",
     "ME 473/Lecture Summaries/Lecture 1.md",
-    "INTL 201/Readings/Juergensmeyer_Chapter_1.pdf",
-    "INTL 201/Lectures/Videos (don't ask)/yt1s.com - Lecture 5 SU23correct_360p.mp4",
-    "INTL 201/Lectures/Videos (don't ask)/yt1s.com - Lecture2 SU23_360p.mp4",
-    "INTL 201/Lectures/Videos (don't ask)/yt1s.com - Lecture3 SU23_360p.mp4",
-    "INTL 201/Lectures/Week2_lecture_SU2023_Lecture2.pdf",
-    "Templates/Daily Notes(Task Edition)/Journal/2023/October/2023-10-01.md",
     "ME 556/ME 55600, I0800 ; Advanced Fluid Mechanics.md",
-    "INTL 201/~$nnis_CCNY INTL FA 2023 syllabus27082023_asynchronous.docx",
-    "INTL 201/Lectures/Videos (don't ask)",
-    "INTL 201/Lectures/New folder",
     "ME 473/ME 47300 I ; Senior Design.md",
     "README.md",
     "Templates/Daily Notes(Task Edition)/Journal/2023/September/2023-09-22.md",
@@ -396,8 +422,6 @@
     "ME 515/HW/HW 1.md",
     "ME 436/ME 43600 ; Aerothermal Fluids Lab.md",
     "Templates/Daily Notes(Task Edition)/Journal/2023/September/2023-09-24.md",
-    "INTL 201/Lectures/Lecture 4.md",
-    "INTL 201/Lectures/Lecture 5.md",
     "ME 515/HW/attachments/Pasted image 20230919223709.png",
     "ME 515/HW/attachments/Pasted image 20230919223706.png",
     "ME 515/HW/attachments/Pasted image 20230919223701.png",
@@ -405,7 +429,6 @@
     "ME 515/HW/attachments/Pasted image 20230919223656.png",
     "ME 515/attachments/Pasted image 20230910112833.png",
     "ME 515/attachments/Pasted image 20230910112820.png",
-    "ME 515/attachments/Pasted image 20230910112810.png",
     "PPPL.canvas",
     "ME 433/Heat Transfer.canvas"
   ]
