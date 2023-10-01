@@ -1,11 +1,12 @@
-
+## [[Lecture 2]]
 Simmel’s concept of Optical Plurality (lecture)
 Model (lecture)
 Hypothesis (lecture)
 Multidisciplinary (lecture)
 Thomas Kuhn’s assertion that “all facts are mediated” (lecture)
+
 Globalization (Steger)
-Globality (Steger)
+Globality (Steger) [[INTL 201/Lectures/Lecture 2#<u>Globality</u>|Globality]]
 Global Imaginary (Steger)
 Glocalization (Steger)
 Embodied globalization (Steger)
@@ -13,8 +14,14 @@ Disembodied globalization (Steger)
 Object extended globalization (Steger)
 Organization extended globalization (Steger)
 How technology accelerates social exchange (Steger)
+
+## [[Lecture 3]]
+
 The South East Asian financial crisis and the contagion process (Friedman)
 Causes and drivers of past epochs of globalization versus the most recent episode (Friedman)
+
+## [[Lecture 4]]
+
 5 categories of globalization in the pre-modern world (lecture)
 The purpose of the Navy (lecture)
 Phoenician trading (lecture)
@@ -24,6 +31,9 @@ Reasons for the rise of Europe after 1400 (Living Anthropologically reading)
 Great Bullion Famine (lecture)
 Portuguese carrack ship (lecture)
 Drivers and motivations for exploration by the Portuguese and Spanish in the 15 th-16th centuries. (lecture)
+
+## [[Lecture 5]]
+
 Causes of Pizzaro’s victory over Atahullpa (Diamond)
 Wallerstein’s Core-Periphery theory (lecture)
 Rise and fall of power centers over time. Changing Core and periphery regions of the world (lecture)

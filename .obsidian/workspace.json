@@ -8,41 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "58352efd5cbcefe8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1d3f0d1a004a2532",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ME 556/ME 55600, I0800 ; Advanced Fluid Mechanics.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ca408344e3f8f8e1",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "ME 556/Lectures/V. Lubrication Theory -Word 14.pdf"
-              }
-            }
-          },
-          {
-            "id": "37a84d95c6b6a590",
+            "id": "cd7eabcd65b30dab",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -52,9 +18,137 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "c6d205d654587dd1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "INTL 201/Lectures/Lecture 1.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6756c493c7659fb4",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "INTL 201/Readings/Juergensmeyer_Chapter_1.pdf"
+              }
+            }
+          },
+          {
+            "id": "ec2a1efb17373f1f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "INTL 201/Lectures/Lecture 3.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ff3e1e75725b6448",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "INTL 201/Lectures/Week2_lecture_SU2023_Lecture3.pdf"
+              }
+            }
+          },
+          {
+            "id": "bdf3853b2a4a5eb7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "INTL 201/Lectures/Lecture 2.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 5
+      },
+      {
+        "id": "a2554d8f58636baf",
+        "type": "split",
+        "children": [
+          {
+            "id": "0c0ec2298e5a85b6",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "6c1b73a2d82c23e9",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "INTL 201/Exams/Exam 1 Study Guide.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              }
+            ]
+          },
+          {
+            "id": "dce68fa35a248bcb",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "a15e7139999c48e5",
+                "type": "leaf",
+                "state": {
+                  "type": "video",
+                  "state": {
+                    "file": "INTL 201/Lectures/Videos (don't ask)/yt1s.com - Lecture2 SU23_360p.mp4"
+                  }
+                }
+              },
+              {
+                "id": "a16bef664ac4e8ae",
+                "type": "leaf",
+                "state": {
+                  "type": "video",
+                  "state": {
+                    "file": "INTL 201/Lectures/Videos (don't ask)/yt1s.com - Lecture3 SU23_360p.mp4"
+                  }
+                }
+              },
+              {
+                "id": "503efd455eebc0d2",
+                "type": "leaf",
+                "state": {
+                  "type": "video",
+                  "state": {
+                    "file": "INTL 201/Lectures/Videos (don't ask)/yt1s.com - Lecture4 SU23_720p.mp4"
+                  }
+                }
+              },
+              {
+                "id": "94b4401b72783aa8",
+                "type": "leaf",
+                "state": {
+                  "type": "video",
+                  "state": {
+                    "file": "INTL 201/Lectures/Videos (don't ask)/yt1s.com - Lecture 5 SU23correct_360p.mp4"
+                  }
+                }
+              }
+            ],
+            "currentTab": 2
+          }
+        ],
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -135,7 +229,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ME 556/Lectures/V. Lubrication Theory -Word 14.pdf",
+                "file": "INTL 201/Lectures/Lecture 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +246,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ME 556/Lectures/V. Lubrication Theory -Word 14.pdf",
+                "file": "INTL 201/Lectures/Lecture 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -175,7 +269,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ME 556/Lectures/V. Lubrication Theory -Word 14.pdf"
+                "file": "INTL 201/Lectures/Lecture 2.md"
               }
             }
           },
@@ -265,21 +359,28 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "ca408344e3f8f8e1",
+  "active": "bdf3853b2a4a5eb7",
   "lastOpenFiles": [
+    "INTL 201/Exams/Exam 1 Study Guide.md",
+    "INTL 201/Lectures/Lecture 2.md",
+    "INTL 201/Lectures/Week2_lecture_SU2023_Lecture3.pdf",
+    "INTL 201/Lectures/Lecture 3.md",
+    "INTL 201/Lectures/Videos (don't ask)/yt1s.com - Lecture4 SU23_720p.mp4",
+    "INTL 201/INTL 20100 ; International Studies - A Global Perspective.md",
+    "INTL 201/Lectures/Lecture 1.md",
+    "ME 473/Lecture Summaries/Lecture 1.md",
+    "INTL 201/Readings/Juergensmeyer_Chapter_1.pdf",
+    "INTL 201/Lectures/Videos (don't ask)/yt1s.com - Lecture 5 SU23correct_360p.mp4",
+    "INTL 201/Lectures/Videos (don't ask)/yt1s.com - Lecture2 SU23_360p.mp4",
+    "INTL 201/Lectures/Videos (don't ask)/yt1s.com - Lecture3 SU23_360p.mp4",
+    "INTL 201/Lectures/Week2_lecture_SU2023_Lecture2.pdf",
+    "Templates/Daily Notes(Task Edition)/Journal/2023/October/2023-10-01.md",
     "ME 556/ME 55600, I0800 ; Advanced Fluid Mechanics.md",
-    "ME 556/HW/~$ 55600_I0200 HW 5 Lubrication Approximation.docx",
-    "ME 556/Projects/ME 55600_I0200 Lubrication Project.pdf",
-    "ME 556/Projects/Unconfirmed 284306.crdownload",
-    "ME 556/Projects",
-    "ME 556/New folder",
-    "ME 556/HW/HW Solutions/ME 55600_I0200 HW 4 Marangoni Effect-Solution.pdf",
-    "ME 556/HW/HW Solutions/ME 55600_I0200 HW 3 Pipe Flow-Solution.pdf",
+    "INTL 201/~$nnis_CCNY INTL FA 2023 syllabus27082023_asynchronous.docx",
+    "INTL 201/Lectures/Videos (don't ask)",
+    "INTL 201/Lectures/New folder",
     "ME 473/ME 47300 I ; Senior Design.md",
     "README.md",
-    "ME 556/HW/HW Solutions/ME 55600_I0200 HW #4 Marangoni Effect-Solution.pdf",
-    "ME 556/HW/HW Solutions/Unconfirmed 736852.crdownload",
-    "ME 556/HW/HW Solutions/ME 55600_I0200 HW #3 Pipe Flow-Solution.pdf",
     "Templates/Daily Notes(Task Edition)/Journal/2023/September/2023-09-22.md",
     "Templates/Daily Notes(Task Edition)/Journal/2023/September/2023-09-29.md",
     "ME 515/ME 51500_I0820 ; Orbital Mechanics.md",
@@ -290,20 +391,13 @@
     "ME 462/Lecture HW/Homework 1.md",
     "Templates/Daily Notes(Task Edition)/Journal/2023/September/2023-09-28.md",
     "Templates/Daily Notes(Task Edition)/Journal/2023/September/2023-09-26.md",
-    "INTL 201/INTL 20100 ; International Studies - A Global Perspective.md",
     "ME 515/HW/attachments/Pasted image 20230925105754.png",
     "ME 515/HW/attachments/Pasted image 20230925105737.png",
     "ME 515/HW/HW 1.md",
     "ME 436/ME 43600 ; Aerothermal Fluids Lab.md",
     "Templates/Daily Notes(Task Edition)/Journal/2023/September/2023-09-24.md",
-    "INTL 201/Exams/Exam 1 Study Guide.md",
-    "INTL 201/Lectures/Week 1.md",
-    "INTL 201/Lectures/Week 2.md",
-    "INTL 201/Lectures/Week 3.md",
-    "INTL 201/Lectures/Week 4.md",
-    "INTL 201/Lectures/Week 5.md",
-    "Templates/Daily Notes(Task Edition)/Journal/2023/September/2023-09-21.md",
-    "ME 515/HW/HW3.md",
+    "INTL 201/Lectures/Lecture 4.md",
+    "INTL 201/Lectures/Lecture 5.md",
     "ME 515/HW/attachments/Pasted image 20230919223709.png",
     "ME 515/HW/attachments/Pasted image 20230919223706.png",
     "ME 515/HW/attachments/Pasted image 20230919223701.png",

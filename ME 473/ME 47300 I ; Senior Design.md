@@ -4,8 +4,8 @@
 
 ---
 ## Lecture Summary
-+ [[Lecture 1]]
-+ [[Lecture 2]]
++ [[ME 473/Lecture Summaries/Lecture 1]]
++ [[ME 473/Lecture Summaries/Lecture 2]]
 
 
 ---
