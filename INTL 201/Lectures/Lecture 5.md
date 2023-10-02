@@ -12,6 +12,7 @@ The Carnaval. Carracks were used by the Portuguese for trade in the 14th through
 - areas that produce & export raw materials and commodities (horses from Central Asia, gold from Sub-Saharan Africa, silver from Germany, slaves from Russia & Sub-Saharan Africa). Exported to the Core
 
 ### <u>Core and Periphery change over the course of history</u>
+- China and India were the core. They produced silk, porcelain, sugar (raw material like sugar cane and manufactured into sugar crystals) in the 1400s
 - Europe in the 1400s was a Periphery
 - Southern Spain in the 11th century (1000s) 
 	- not until one of cities, Granada, fell to Spanish Kingdom of Castillo did they shift from Periphery to Core
@@ -25,7 +26,7 @@ The Carnaval. Carracks were used by the Portuguese for trade in the 14th through
 	- Big ships that can go around cape of Good Hope in Africa was an alternative to going by land
 		- More ships being used as opposed to land
 		- Powers that got rich and important due to the route began to lose money and lose their control/power
-![[Pasted image 20231001182201.png]]
+![[Pasted image 20231002110123.png]]
 - In 1400s, which cities that were largest would become dominate powers 200 years later (in 1600s)???
 	- Cairo, Egypt
 	- Hangzhou, China
@@ -94,9 +95,13 @@ The Carnaval. Carracks were used by the Portuguese for trade in the 14th through
 
 ## Readings
 
+### <u>Wolf Review</u>
+In other words, the balance of trade and power was firmly in the East. Europe provided raw materials and even some slave: "Europe furnished mainly slaves and timber, receiving some luxury goods in return. European slaves reached the Near East not only across the sea-lanes of the Mediterranean but also, along with precious furs and other products, down the Russian rivers into the Black Sea. They were brought by the Varangian Rus, a branch of the seafaring and sea-raiding peoples who had fanned out from their *viks*, or inlets, in Scandinavia to harass the European littoral and to carry off slaves to Near Eastern markets"(1982:105) (pp.6).
+
+
 ### <u>Causes of Pizzaro's victory over Atahullpa</u> (Diamond)
 - Pizzaro had a military advantage in that they had steel swords, steel armor, guns, and armor (pp.74)
 - Atahullpa had just won decisive battles in civil war that left the Incas divided and vulnerable, which Pizzaro quickly took advantage of and exploited them (pp.77)
-	- Civil war was due to epidemic of smallpox, killing the Inca emperor, the designated heir, and most of his court around 1526. Those deaths caused a contest for the trhone between Atahulppa and his half brother Iluascar. If it had not been for the edpidemic, the Spaniards would have faced a united empire (pp.77)
+	- Civil war was due to epidemic of smallpox, killing the Inca emperor, the designated heir, and most of his court around 1526. Those deaths caused a contest for the throne between Atahulppa and his half brother Iluascar. If it had not been for the epidemic, the Spaniards would have faced a united empire (pp.77)
 - Atahullpa had very little information about the Spaniards, their military power, and their intent.
 	- He derived that scant information by word of mouth, mainly from an envoy who had visited Pizzaro's force for two days while it was en-route inland from coast. That envoy saw the Spaniards at their most disorganized, told Atahullpa that they were not fighting men, and that he could tie them all up if given 200 Indians. It never occurred to Atahuallpa that the Spaniards were formidable and would attack him without provocation (pp.79).

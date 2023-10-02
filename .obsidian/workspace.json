@@ -6,10 +6,9 @@
       {
         "id": "755b241ad23128f2",
         "type": "tabs",
-        "dimension": 52.50533049040512,
         "children": [
           {
-            "id": "cd7eabcd65b30dab",
+            "id": "37a84d95c6b6a590",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -21,7 +20,7 @@
             }
           },
           {
-            "id": "9cd1161f7bd0f349",
+            "id": "c3d72c9a1b498de4",
             "type": "leaf",
             "state": {
               "type": "pdf",
@@ -31,7 +30,7 @@
             }
           },
           {
-            "id": "f87b9a6aee986224",
+            "id": "4f9b138c4b1ed497",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -43,61 +42,7 @@
             }
           },
           {
-            "id": "b31729d6fa106a58",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "INTL 201/Lectures/Week3_lecture_SU2023_Lecture4.pdf"
-              }
-            }
-          },
-          {
-            "id": "a2f22ba7bd075e5a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "INTL 201/Lectures/Lecture 4.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ff3e1e75725b6448",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "INTL 201/Lectures/Week2_lecture_SU2023_Lecture3.pdf"
-              }
-            }
-          },
-          {
-            "id": "ec2a1efb17373f1f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "INTL 201/Lectures/Lecture 3.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5afb8e280aa793ae",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "INTL 201/Lectures/Week2_lecture_SU2023_Lecture2.pdf"
-              }
-            }
-          },
-          {
-            "id": "bdf3853b2a4a5eb7",
+            "id": "69ed6d070d96b40a",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -108,72 +53,8 @@
               }
             }
           }
-        ]
-      },
-      {
-        "id": "c11d0ef04c121591",
-        "type": "split",
-        "dimension": 47.494669509594885,
-        "children": [
-          {
-            "id": "dce68fa35a248bcb",
-            "type": "tabs",
-            "dimension": 65.79457364341084,
-            "children": [
-              {
-                "id": "10b029b0828be752",
-                "type": "leaf",
-                "state": {
-                  "type": "pdf",
-                  "state": {
-                    "file": "INTL 201/Readings/Jared M. Diamond-Guns, Germs and Steel-Cpt 3.pdf"
-                  }
-                }
-              },
-              {
-                "id": "a7a2cb87c5b1fabd",
-                "type": "leaf",
-                "state": {
-                  "type": "pdf",
-                  "state": {
-                    "file": "INTL 201/Readings/Eric Wolf_Review_Europe and the People Without History (Rediscovered)(1).pdf"
-                  }
-                }
-              },
-              {
-                "id": "6756c493c7659fb4",
-                "type": "leaf",
-                "state": {
-                  "type": "pdf",
-                  "state": {
-                    "file": "INTL 201/Readings/Juergensmeyer_Chapter_1.pdf"
-                  }
-                }
-              }
-            ],
-            "currentTab": 1
-          },
-          {
-            "id": "925411f5894b89e3",
-            "type": "tabs",
-            "dimension": 34.20542635658915,
-            "children": [
-              {
-                "id": "6c1b73a2d82c23e9",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "INTL 201/Exams/Exam 1 Study Guide.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              }
-            ]
-          }
         ],
-        "direction": "horizontal"
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -237,7 +118,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 258
+    "width": 255
   },
   "right": {
     "id": "9aeb1fe491dff90c",
@@ -254,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "INTL 201/INTL 20100 ; International Studies - A Global Perspective.md",
+                "file": "INTL 201/Lectures/Lecture 5.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -271,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "INTL 201/INTL 20100 ; International Studies - A Global Perspective.md",
+                "file": "INTL 201/Lectures/Lecture 5.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -294,7 +175,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "INTL 201/INTL 20100 ; International Studies - A Global Perspective.md"
+                "file": "INTL 201/Lectures/Lecture 5.md"
               }
             }
           },
@@ -360,8 +241,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 384,
-    "collapsed": true
+    "width": 354
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -385,54 +265,53 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "cd7eabcd65b30dab",
+  "active": "4f9b138c4b1ed497",
   "lastOpenFiles": [
-    "INTL 201/Exams/~$remyManiago_Exam1_Part2_Essay.docx",
-    "INTL 201/Exams/~WRL0001.tmp",
-    "INTL 201/Exams/~WRD0000.tmp",
-    "INTL 201/Exams/JeremyManiago_Exam1_Part2_Essay.docx",
-    "INTL 201/Lectures/Lecture 5.md",
-    "INTL 201/Lectures/Lecture 4.md",
-    "INTL 201/Readings/Eric Wolf_Review_Europe and the People Without History (Rediscovered)(1).pdf",
-    "INTL 201/Readings/Juergensmeyer_Chapter_1.pdf",
-    "INTL 201/Lectures/Lecture 3.md",
-    "INTL 201/Lectures/Week2_lecture_SU2023_Lecture3.pdf",
-    "INTL 201/Lectures/Lecture 2.md",
     "INTL 201/Lectures/Week4_lecture_SU2023_Lecture5(1).pdf",
-    "INTL 201/Readings/Jared M. Diamond-Guns, Germs and Steel-Cpt 3.pdf",
-    "INTL 201/Lectures/Videos (don't ask)/yt1s.com - Lecture 5 SU23correct_360p.mp4",
-    "INTL 201/Exams/Exam 1 Study Guide.md",
+    "INTL 201/INTL 20100 ; International Studies - A Global Perspective.md",
+    "INTL 201/Lectures/Lecture 5.md",
+    "INTL 201/Lectures/attachments/Pasted image 20231002110123.png",
+    "INTL 201/Lectures/Lecture 2.md",
+    "INTL 201/Lectures/Lecture 1.md",
+    "INTL 201/Readings/Untitled.md",
+    "INTL 201/Readings/Eric Wolf_Review_Europe and the People Without History (Rediscovered)(1).pdf",
+    "INTL 201/Exams/~$remyManiago_Exam1_Part2_Essay.docx",
+    "ME 556/ME 55600, I0800 ; Advanced Fluid Mechanics.md",
+    "Templates/Daily Notes(Task Edition)/Journal/2023/October/2023-10-02.md",
     "INTL 201/Lectures/attachments/Pasted image 20231001182201.png",
     "INTL 201/Lectures/attachments",
-    "INTL 201/INTL 20100 ; International Studies - A Global Perspective.md",
-    "Templates/Daily Notes(Task Edition)/Journal/2023/October/2023-10-01.md",
-    "INTL 201/Lectures/Lecture 1.md",
-    "ME 473/Lecture Summaries/Lecture 1.md",
-    "ME 556/ME 55600, I0800 ; Advanced Fluid Mechanics.md",
-    "ME 473/ME 47300 I ; Senior Design.md",
-    "README.md",
-    "Templates/Daily Notes(Task Edition)/Journal/2023/September/2023-09-22.md",
     "Templates/Daily Notes(Task Edition)/Journal/2023/September/2023-09-29.md",
-    "ME 515/ME 51500_I0820 ; Orbital Mechanics.md",
-    "ME 515/HW/HW4.md",
+    "Templates/Daily Notes(Task Edition)/Journal/2023/October/2023-10-01.md",
+    "Templates/Daily Notes(Task Edition)/Journal/2023/October",
+    "ME 556/Projects/ME 55600_I0200 Lubrication Project.pdf",
+    "ME 556/Projects",
+    "ME 556/HW/HW Solutions/ME 55600_I0200 HW 4 Marangoni Effect-Solution.pdf",
+    "ME 556/HW/HW Solutions/ME 55600_I0200 HW 3 Pipe Flow-Solution.pdf",
+    "ME 473/HW/Project Requirements.pdf",
     "ME 473/HW/Pick n Place/Project Requirements.md",
-    "ME 462/ME 46200 ; Manufacturing Processes.md",
-    "ME 473/HW/Project Requirements.md",
     "ME 462/Lecture HW/Homework 1.md",
-    "Templates/Daily Notes(Task Edition)/Journal/2023/September/2023-09-28.md",
+    "README.md",
+    "ME 462/ME 46200 ; Manufacturing Processes.md",
+    "ME 515/HW/HW4.md",
     "Templates/Daily Notes(Task Edition)/Journal/2023/September/2023-09-26.md",
+    "Templates/Daily Notes(Task Edition)/Journal/2023/September/2023-09-27.md",
     "ME 515/HW/attachments/Pasted image 20230925105754.png",
     "ME 515/HW/attachments/Pasted image 20230925105737.png",
+    "ME 515/ME 51500_I0820 ; Orbital Mechanics.md",
     "ME 515/HW/HW 1.md",
     "ME 436/ME 43600 ; Aerothermal Fluids Lab.md",
     "Templates/Daily Notes(Task Edition)/Journal/2023/September/2023-09-24.md",
+    "Templates/Daily Notes(Task Edition)/Journal/2023/September/2023-09-22.md",
+    "INTL 201/Exams/Exam 1 Study Guide.md",
+    "INTL 201/Lectures/Week 1.md",
+    "INTL 201/Lectures/Week 2.md",
+    "INTL 201/Lectures/Week 3.md",
     "ME 515/HW/attachments/Pasted image 20230919223709.png",
     "ME 515/HW/attachments/Pasted image 20230919223706.png",
     "ME 515/HW/attachments/Pasted image 20230919223701.png",
     "ME 515/HW/attachments/Pasted image 20230919223658.png",
     "ME 515/HW/attachments/Pasted image 20230919223656.png",
     "ME 515/attachments/Pasted image 20230910112833.png",
-    "ME 515/attachments/Pasted image 20230910112820.png",
     "PPPL.canvas",
     "ME 433/Heat Transfer.canvas"
   ]

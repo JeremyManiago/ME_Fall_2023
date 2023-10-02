@@ -15,7 +15,7 @@
 
 + [x] ***[[Lecture 2]]***
 	+ [x] Video: ~~[Lecture2 SU23 - YouTube](https://www.youtube.com/watch?v=gGv1ctDpi6U)~~ [[yt1s.com - Lecture2 SU23_360p.mp4]]
-	+ [ ] Lecture: [[Week2_lecture_SU2023_Lecture2.pdf]]
+	+ [x] Lecture: [[Week2_lecture_SU2023_Lecture2.pdf]]
 	+ [x] Required Reading: Steger, Manfred. Globalization: A Very Short Introduction. 5th ed. Oxford, 2020. <u>(pp. 3-17)</u>
 
 + [x] ***[[Lecture 3]]***
@@ -24,17 +24,19 @@
 	+ [x] Required Reading: [[Juergensmeyer_Chapter_1.pdf]] 
 	      Please pay careful attention to the pages that you are required to read from the PDF. You are only required to read pages 1-7 and 10-17 (the Jergensmeyer and the Friedman excerpts).
 
-+ [ ] ***[[Lecture 4]]***
-	+ [ ] Video: ~~[Lecture 4 video](https://youtu.be/zd_GI6s8R24)~~ [[yt1s.com - Lecture4 SU23_720p.mp4]]
-	+ [ ] Lecture: [[Week3_lecture_SU2023_Lecture4.pdf]]
++ [x] ***[[Lecture 4]]***
+	+ [x] Video: ~~[Lecture 4 video](https://youtu.be/zd_GI6s8R24)~~ [[yt1s.com - Lecture4 SU23_720p.mp4]]
+	+ [x] Lecture: [[Week3_lecture_SU2023_Lecture4.pdf]]
 	+ [ ] Required Reading: Steger, Manfred. Globalization: A Very Short Introduction. 5th ed. Oxford, 2020. <u>(pp. 17-35)</u>
 
-+ [ ] ***[[Lecture 5]]***
-	+ [ ] Video: ~~[Lecture 5 video](https://youtu.be/R5-A2D_U478)~~ [[yt1s.com - Lecture 5 SU23correct_360p.mp4]]
-	+ [ ] Lecture: [[Week4_lecture_SU2023_Lecture5(1).pdf]]
-	+ [ ] Required Reading: 
++ [x] ***[[Lecture 5]]***
+	+ [x] Video: ~~[Lecture 5 video](https://youtu.be/R5-A2D_U478)~~ [[yt1s.com - Lecture 5 SU23correct_360p.mp4]]
+	+ [x] Lecture: [[Week4_lecture_SU2023_Lecture5(1).pdf]]
+	+ [x] Required Reading: 
 	      1. Living Anthropologically (Wolf Review) [[Eric Wolf_Review_Europe and the People Without History (Rediscovered)(1).pdf]]
 	      2. Diamond, Jared. Guns, Germs, and Steel. (Chapter 3). [[Jared M. Diamond-Guns, Germs and Steel-Cpt 3.pdf]]
+
+- [ ] Lecture 6
 
 
 ---
