@@ -21,26 +21,6 @@
             }
           },
           {
-            "id": "10b029b0828be752",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "INTL 201/Readings/Jared M. Diamond-Guns, Germs and Steel-Cpt 3.pdf"
-              }
-            }
-          },
-          {
-            "id": "a7a2cb87c5b1fabd",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "INTL 201/Readings/Eric Wolf_Review_Europe and the People Without History (Rediscovered)(1).pdf"
-              }
-            }
-          },
-          {
             "id": "9cd1161f7bd0f349",
             "type": "leaf",
             "state": {
@@ -128,8 +108,7 @@
               }
             }
           }
-        ],
-        "currentTab": 4
+        ]
       },
       {
         "id": "c11d0ef04c121591",
@@ -139,7 +118,28 @@
           {
             "id": "dce68fa35a248bcb",
             "type": "tabs",
+            "dimension": 65.79457364341084,
             "children": [
+              {
+                "id": "10b029b0828be752",
+                "type": "leaf",
+                "state": {
+                  "type": "pdf",
+                  "state": {
+                    "file": "INTL 201/Readings/Jared M. Diamond-Guns, Germs and Steel-Cpt 3.pdf"
+                  }
+                }
+              },
+              {
+                "id": "a7a2cb87c5b1fabd",
+                "type": "leaf",
+                "state": {
+                  "type": "pdf",
+                  "state": {
+                    "file": "INTL 201/Readings/Eric Wolf_Review_Europe and the People Without History (Rediscovered)(1).pdf"
+                  }
+                }
+              },
               {
                 "id": "6756c493c7659fb4",
                 "type": "leaf",
@@ -150,11 +150,13 @@
                   }
                 }
               }
-            ]
+            ],
+            "currentTab": 1
           },
           {
             "id": "925411f5894b89e3",
             "type": "tabs",
+            "dimension": 34.20542635658915,
             "children": [
               {
                 "id": "6c1b73a2d82c23e9",
@@ -252,7 +254,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "INTL 201/Lectures/Lecture 5.md",
+                "file": "INTL 201/INTL 20100 ; International Studies - A Global Perspective.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -269,7 +271,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "INTL 201/Lectures/Lecture 5.md",
+                "file": "INTL 201/INTL 20100 ; International Studies - A Global Perspective.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -292,7 +294,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "INTL 201/Lectures/Lecture 5.md"
+                "file": "INTL 201/INTL 20100 ; International Studies - A Global Perspective.md"
               }
             }
           },
@@ -358,7 +360,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 384
+    "width": 384,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -382,25 +385,26 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "f87b9a6aee986224",
+  "active": "cd7eabcd65b30dab",
   "lastOpenFiles": [
-    "INTL 201/Lectures/Videos (don't ask)/yt1s.com - Lecture 5 SU23correct_360p.mp4",
+    "INTL 201/Exams/~$remyManiago_Exam1_Part2_Essay.docx",
+    "INTL 201/Exams/~WRL0001.tmp",
+    "INTL 201/Exams/~WRD0000.tmp",
+    "INTL 201/Exams/JeremyManiago_Exam1_Part2_Essay.docx",
     "INTL 201/Lectures/Lecture 5.md",
+    "INTL 201/Lectures/Lecture 4.md",
+    "INTL 201/Readings/Eric Wolf_Review_Europe and the People Without History (Rediscovered)(1).pdf",
+    "INTL 201/Readings/Juergensmeyer_Chapter_1.pdf",
+    "INTL 201/Lectures/Lecture 3.md",
+    "INTL 201/Lectures/Week2_lecture_SU2023_Lecture3.pdf",
+    "INTL 201/Lectures/Lecture 2.md",
+    "INTL 201/Lectures/Week4_lecture_SU2023_Lecture5(1).pdf",
+    "INTL 201/Readings/Jared M. Diamond-Guns, Germs and Steel-Cpt 3.pdf",
+    "INTL 201/Lectures/Videos (don't ask)/yt1s.com - Lecture 5 SU23correct_360p.mp4",
     "INTL 201/Exams/Exam 1 Study Guide.md",
     "INTL 201/Lectures/attachments/Pasted image 20231001182201.png",
     "INTL 201/Lectures/attachments",
-    "INTL 201/Lectures/Week4_lecture_SU2023_Lecture5(1).pdf",
-    "INTL 201/Readings/Eric Wolf_Review_Europe and the People Without History (Rediscovered)(1).pdf",
-    "INTL 201/Readings/Jared M. Diamond-Guns, Germs and Steel-Cpt 3.pdf",
     "INTL 201/INTL 20100 ; International Studies - A Global Perspective.md",
-    "INTL 201/Lectures/Week3_lecture_SU2023_Lecture4.pdf",
-    "INTL 201/Lectures/Videos (don't ask)/yt1s.com - Lecture4 SU23_720p.mp4",
-    "INTL 201/Lectures/Lecture 4.md",
-    "INTL 201/Lectures/Videos (don't ask)/yt1s.com - Lecture3 SU23_360p.mp4",
-    "INTL 201/Lectures/Week2_lecture_SU2023_Lecture3.pdf",
-    "INTL 201/Lectures/Lecture 2.md",
-    "INTL 201/Lectures/Week2_lecture_SU2023_Lecture2.pdf",
-    "INTL 201/Lectures/Lecture 3.md",
     "Templates/Daily Notes(Task Edition)/Journal/2023/October/2023-10-01.md",
     "INTL 201/Lectures/Lecture 1.md",
     "ME 473/Lecture Summaries/Lecture 1.md",

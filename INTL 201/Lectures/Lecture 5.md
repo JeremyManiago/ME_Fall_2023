@@ -75,11 +75,7 @@ The Carnaval. Carracks were used by the Portuguese for trade in the 14th through
 - Enslavement of Indigenous peoples to mine gold and silver
 - Goods shipped to Core (Europe) in return for manufactured goods
 - "An economic policy designed to maximize emports and minimize imports" - Wikipedia
-- Total goods are fixed
-	- Want to take as much of that before someone else can take it
-	- Maximize what you export
-	- Minimize what you import (raw materials) from other people that aren't your colonies
-- French Bombardment of Algiers in 1683 during the French Algerian War
+- Total goods are fixed t of Algiers in 1683 during the French Algerian War
 	- Algerians don't want to be able to trade only France
 	- Send warships to Algeria and bombard coast as threat that they can only trade to France
 - Trade is a zero sum game
@@ -97,3 +93,10 @@ The Carnaval. Carracks were used by the Portuguese for trade in the 14th through
 ---
 
 ## Readings
+
+### <u>Causes of Pizzaro's victory over Atahullpa</u> (Diamond)
+- Pizzaro had a military advantage in that they had steel swords, steel armor, guns, and armor (pp.74)
+- Atahullpa had just won decisive battles in civil war that left the Incas divided and vulnerable, which Pizzaro quickly took advantage of and exploited them (pp.77)
+	- Civil war was due to epidemic of smallpox, killing the Inca emperor, the designated heir, and most of his court around 1526. Those deaths caused a contest for the trhone between Atahulppa and his half brother Iluascar. If it had not been for the edpidemic, the Spaniards would have faced a united empire (pp.77)
+- Atahullpa had very little information about the Spaniards, their military power, and their intent.
+	- He derived that scant information by word of mouth, mainly from an envoy who had visited Pizzaro's force for two days while it was en-route inland from coast. That envoy saw the Spaniards at their most disorganized, told Atahullpa that they were not fighting men, and that he could tie them all up if given 200 Indians. It never occurred to Atahuallpa that the Spaniards were formidable and would attack him without provocation (pp.79).

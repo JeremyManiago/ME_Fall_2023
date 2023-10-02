@@ -7,7 +7,10 @@
 
 <u>Multidisciplinary</u> - 
 
-<u>Thomas Kuhn's assertion that "all facts are mediated"</u> - 
+### <u>Thomas Kuhn's assertion that "all facts are mediated"</u>
+- Technologically e.g. observing through telescope or microscope
+- Observing, sources, validation
+- Particular though communities
 
 
 
