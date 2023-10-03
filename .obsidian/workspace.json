@@ -6,9 +6,10 @@
       {
         "id": "755b241ad23128f2",
         "type": "tabs",
+        "dimension": 48.027718550106606,
         "children": [
           {
-            "id": "37a84d95c6b6a590",
+            "id": "fc6bbe4924cb6e13",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -20,17 +21,7 @@
             }
           },
           {
-            "id": "c3d72c9a1b498de4",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "INTL 201/Lectures/Week4_lecture_SU2023_Lecture5(1).pdf"
-              }
-            }
-          },
-          {
-            "id": "4f9b138c4b1ed497",
+            "id": "f87b9a6aee986224",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -42,7 +33,29 @@
             }
           },
           {
-            "id": "69ed6d070d96b40a",
+            "id": "a2f22ba7bd075e5a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "INTL 201/Lectures/Lecture 4.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5afb8e280aa793ae",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "INTL 201/Lectures/Week2_lecture_SU2023_Lecture2.pdf"
+              }
+            }
+          },
+          {
+            "id": "bdf3853b2a4a5eb7",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -53,8 +66,45 @@
               }
             }
           }
+        ]
+      },
+      {
+        "id": "dce68fa35a248bcb",
+        "type": "tabs",
+        "dimension": 51.97228144989339,
+        "children": [
+          {
+            "id": "10b029b0828be752",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "INTL 201/Readings/Jared M. Diamond-Guns, Germs and Steel-Cpt 3.pdf"
+              }
+            }
+          },
+          {
+            "id": "a7a2cb87c5b1fabd",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "INTL 201/Readings/Eric Wolf_Review_Europe and the People Without History (Rediscovered)(1).pdf"
+              }
+            }
+          },
+          {
+            "id": "6756c493c7659fb4",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "INTL 201/Readings/Juergensmeyer_Chapter_1.pdf"
+              }
+            }
+          }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -118,7 +168,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 255
+    "width": 258
   },
   "right": {
     "id": "9aeb1fe491dff90c",
@@ -135,7 +185,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Templates/Daily Notes(Task Edition)/Journal/2023/October/2023-10-02.md",
+                "file": "INTL 201/Readings/Eric Wolf_Review_Europe and the People Without History (Rediscovered)(1).pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +202,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Templates/Daily Notes(Task Edition)/Journal/2023/October/2023-10-02.md",
+                "file": "INTL 201/Readings/Eric Wolf_Review_Europe and the People Without History (Rediscovered)(1).pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -175,7 +225,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/Daily Notes(Task Edition)/Journal/2023/October/2023-10-02.md"
+                "file": "INTL 201/Readings/Eric Wolf_Review_Europe and the People Without History (Rediscovered)(1).pdf"
               }
             }
           },
@@ -233,19 +283,15 @@
             "id": "59eb704e826dc2c7",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Templates/Daily Notes(Task Edition)/Journal/2023/October/2023-10-02.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 354
+    "width": 384
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -269,48 +315,48 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "59eb704e826dc2c7",
+  "active": "a7a2cb87c5b1fabd",
   "lastOpenFiles": [
-    "INTL 201/Exams/~WRL3558.tmp",
-    "INTL 201/Exams/~WRD3554.tmp",
-    "INTL 201/Lectures/Lecture 5.md",
-    "INTL 201/Exams/~WRL0213.tmp",
-    "INTL 201/Exams/~WRD0205.tmp",
-    "INTL 201/Lectures/Week4_lecture_SU2023_Lecture5(1).pdf",
+    "INTL 201/Exams/~WRL2293.tmp",
+    "INTL 201/Exams/~WRD2289.tmp",
+    "INTL 201/Exams/~WRL2580.tmp",
+    "INTL 201/Exams/~WRD2568.tmp",
     "INTL 201/INTL 20100 ; International Studies - A Global Perspective.md",
-    "INTL 201/Lectures/attachments/Pasted image 20231002110123.png",
-    "INTL 201/Lectures/Lecture 2.md",
-    "INTL 201/Lectures/Lecture 1.md",
-    "INTL 201/Readings/Untitled.md",
+    "INTL 201/Exams/~WRL2325.tmp",
+    "INTL 201/Exams/~WRD2321.tmp",
     "INTL 201/Readings/Eric Wolf_Review_Europe and the People Without History (Rediscovered)(1).pdf",
-    "INTL 201/Exams/~$remyManiago_Exam1_Part2_Essay.docx",
-    "ME 556/ME 55600, I0800 ; Advanced Fluid Mechanics.md",
+    "INTL 201/Exams/~WRL3070.tmp",
+    "INTL 201/Exams/~WRD3055.tmp",
+    "INTL 201/Exams/~WRL0211.tmp",
+    "INTL 201/Exams/~WRD0211.tmp",
+    "INTL 201/Lectures/Lecture 5.md",
+    "INTL 201/Lectures/Lecture 2.md",
+    "INTL 201/Lectures/Lecture 4.md",
+    "INTL 201/Lectures/Lecture 3.md",
     "Templates/Daily Notes(Task Edition)/Journal/2023/October/2023-10-02.md",
+    "INTL 201/Lectures/attachments/Pasted image 20231002110123.png",
+    "INTL 201/Exams/Exam 1 Study Guide.md",
     "INTL 201/Lectures/attachments/Pasted image 20231001182201.png",
-    "INTL 201/Lectures/attachments",
-    "Templates/Daily Notes(Task Edition)/Journal/2023/September/2023-09-29.md",
     "Templates/Daily Notes(Task Edition)/Journal/2023/October/2023-10-01.md",
-    "Templates/Daily Notes(Task Edition)/Journal/2023/October",
-    "ME 556/Projects/ME 55600_I0200 Lubrication Project.pdf",
-    "ME 556/Projects",
-    "ME 473/HW/Pick n Place/Project Requirements.md",
-    "ME 462/Lecture HW/Homework 1.md",
+    "INTL 201/Lectures/Lecture 1.md",
+    "ME 473/Lecture Summaries/Lecture 1.md",
+    "ME 556/ME 55600, I0800 ; Advanced Fluid Mechanics.md",
+    "ME 473/ME 47300 I ; Senior Design.md",
     "README.md",
-    "ME 462/ME 46200 ; Manufacturing Processes.md",
+    "Templates/Daily Notes(Task Edition)/Journal/2023/September/2023-09-22.md",
+    "Templates/Daily Notes(Task Edition)/Journal/2023/September/2023-09-29.md",
+    "ME 515/ME 51500_I0820 ; Orbital Mechanics.md",
     "ME 515/HW/HW4.md",
+    "ME 473/HW/Pick n Place/Project Requirements.md",
+    "ME 462/ME 46200 ; Manufacturing Processes.md",
+    "ME 473/HW/Project Requirements.md",
+    "ME 462/Lecture HW/Homework 1.md",
+    "Templates/Daily Notes(Task Edition)/Journal/2023/September/2023-09-28.md",
     "Templates/Daily Notes(Task Edition)/Journal/2023/September/2023-09-26.md",
-    "Templates/Daily Notes(Task Edition)/Journal/2023/September/2023-09-27.md",
     "ME 515/HW/attachments/Pasted image 20230925105754.png",
     "ME 515/HW/attachments/Pasted image 20230925105737.png",
-    "ME 515/ME 51500_I0820 ; Orbital Mechanics.md",
     "ME 515/HW/HW 1.md",
     "ME 436/ME 43600 ; Aerothermal Fluids Lab.md",
-    "Templates/Daily Notes(Task Edition)/Journal/2023/September/2023-09-24.md",
-    "Templates/Daily Notes(Task Edition)/Journal/2023/September/2023-09-22.md",
-    "INTL 201/Exams/Exam 1 Study Guide.md",
-    "INTL 201/Lectures/Week 1.md",
-    "INTL 201/Lectures/Week 2.md",
-    "INTL 201/Lectures/Week 3.md",
     "ME 515/HW/attachments/Pasted image 20230919223709.png",
     "ME 515/HW/attachments/Pasted image 20230919223706.png",
     "ME 515/HW/attachments/Pasted image 20230919223701.png",

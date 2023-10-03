@@ -96,7 +96,7 @@ The Carnaval. Carracks were used by the Portuguese for trade in the 14th through
 ## Readings
 
 ### <u>Wolf Review</u>
-In other words, the balance of trade and power was firmly in the East. Europe provided raw materials and even some slave: "Europe furnished mainly slaves and timber, receiving some luxury goods in return. European slaves reached the Near East not only across the sea-lanes of the Mediterranean but also, along with precious furs and other products, down the Russian rivers into the Black Sea. They were brought by the Varangian Rus, a branch of the seafaring and sea-raiding peoples who had fanned out from their *viks*, or inlets, in Scandinavia to harass the European littoral and to carry off slaves to Near Eastern markets"(1982:105) (pp.6).
+In other words, the balance of trade and power was firmly in the East. Europe provided raw materials and even some slaves: "Europe furnished mainly slaves and timber, receiving some luxury goods in return. European slaves reached the Near East not only across the sea-lanes of the Mediterranean but also, along with precious furs and other products, down the Russian rivers into the Black Sea. They were brought by the Varangian Rus, a branch of the seafaring and sea-raiding peoples who had fanned out from their *viks*, or inlets, in Scandinavia to harass the European littoral and to carry off slaves to Near Eastern markets"(1982:105) (pp.6).
 
 
 ### <u>Causes of Pizzaro's victory over Atahullpa</u> (Diamond)
