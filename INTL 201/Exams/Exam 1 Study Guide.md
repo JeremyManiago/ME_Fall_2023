@@ -1,12 +1,12 @@
 ## [[Lecture 2]]
-Simmel’s concept of Optical Plurality (lecture)
-Model (lecture)
+Simmel’s concept of [[INTL 201/Lectures/Lecture 2#<u>Optical Plurality</u> -|Optical Plurality]] (lecture)
+[[INTL 201/Lectures/Lecture 2#<u>Models</u> -|Model ]] (lecture)
 Hypothesis (lecture)
 Multidisciplinary (lecture)
 Thomas Kuhn’s assertion that “all facts are mediated” (lecture)
 
 Globalization (Steger)
-Globality (Steger) [[INTL 201/Lectures/Lecture 2#<u>Globality</u>|Globality]]
+[[INTL 201/Lectures/Lecture 2#<u>Globality</u>|Globality]] (Steger) 
 Global Imaginary (Steger)
 Glocalization (Steger)
 Embodied globalization (Steger)
