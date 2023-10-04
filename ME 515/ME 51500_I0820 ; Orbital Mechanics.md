@@ -12,8 +12,9 @@
 + [[Lecture Notes 3.pdf]]
 + [[Lecture Notes 4.pdf]]
 + [[Lecture Notes 5.pdf]]
-- [[]]
-- [[]]
+- [[Lecture Notes 6.pdf]]
+- [[Lecture Notes 7.pdf]]
+- 
 
 
 ---
@@ -24,4 +25,4 @@
 + [x] [[HW3]]
 	+ Curtis Chapter 2, #\s 18, 19, 20, 37
 + [x] [[f23hw4.pdf]]
-- [ ] 
+- [ ] [[f23hw5.pdf]] 🔼 📅 2023-10-12 

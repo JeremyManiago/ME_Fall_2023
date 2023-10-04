@@ -10,7 +10,7 @@
 + [[III. Exact Soluitons .pdf]]
 + [[IV. Scaling & Hydrodynamic Paremeters - Word 14.pdf]]
 + [[V. Lubrication Theory -Word 14.pdf]]
-+ 
++ [[VI. Low Reynolds Number Hydrodynamics +.pdf]]
 
 ---
 ## Homeworks
@@ -22,8 +22,9 @@
 	+ [i] [[ME 55600_I0200 HW 3 Pipe Flow-Solution.pdf]]
 + [x] [[ME 55600_I0200 HW 4 Marangoni Effect.docx]]
 	+ [i] [[ME 55600_I0200 HW 4 Marangoni Effect-Solution.pdf]] 
-- [/] [[ME 55600_I0200 HW 5 Lubrication Approximation.docx]] 📅 2023-10-05 🔼 
+- [x] [[ME 55600_I0200 HW 5 Lubrication Approximation.docx]] 🔼 📅 2023-10-05 ✅ 2023-10-04
 	- [*] [[HW5_integrationcheck.m]] 
+- [ ] [[HW 6- Low Re Flow.pdf]] 🔽 📅 2023-10-12 
 
 
 ---

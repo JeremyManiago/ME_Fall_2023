@@ -32,18 +32,6 @@
             }
           },
           {
-            "id": "308a0703679aa7cb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ME 556/ME 55600, I0800 ; Advanced Fluid Mechanics.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "f3b763f9f452b6ba",
             "type": "leaf",
             "state": {
@@ -54,7 +42,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -135,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ME 556/ME 55600, I0800 ; Advanced Fluid Mechanics.md",
+                "file": "ME 515/ME 51500_I0820 ; Orbital Mechanics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ME 556/ME 55600, I0800 ; Advanced Fluid Mechanics.md",
+                "file": "ME 515/ME 51500_I0820 ; Orbital Mechanics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -175,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ME 556/ME 55600, I0800 ; Advanced Fluid Mechanics.md"
+                "file": "ME 515/ME 51500_I0820 ; Orbital Mechanics.md"
               }
             }
           },
@@ -265,23 +253,23 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "308a0703679aa7cb",
+  "active": "6dd0b309ff4371a3",
   "lastOpenFiles": [
+    "ME 515/HW/f23hw5.pdf",
     "ME 515/ME 51500_I0820 ; Orbital Mechanics.md",
-    "ME 556/Lectures/V. Lubrication Theory -Word 14.pdf",
-    "ME 556/HW/HW5_integrationcheck.m",
+    "ME 515/Lectures/Lecture Notes 6.pdf",
+    "ME 515/Lectures/Lecture Notes 7.pdf",
+    "ME 515/Lectures/Unconfirmed 846450.crdownload",
+    "ME 515/Lectures/Unconfirmed 755272.crdownload",
+    "ME 515/HW/Unconfirmed 436710.crdownload",
     "ME 556/ME 55600, I0800 ; Advanced Fluid Mechanics.md",
+    "ME 556/Lectures/VI. Low Reynolds Number Hydrodynamics +.pdf",
+    "ME 556/HW/HW 6- Low Re Flow.pdf",
+    "ME 556/HW/Unconfirmed 855618.crdownload",
+    "ME 556/Lectures/Unconfirmed 892264.crdownload",
     "Templates/Daily Notes(Task Edition)/Journal/2023/October/2023-10-04.md",
     "Resumes & Documents/Resumes.md",
-    "Resumes & Documents/~$sume_JeremyManiago_Fall2023.docx",
-    "Resumes & Documents/Resume_JeremyManiago_Fall2023.docx",
-    "Resumes & Documents/Resume_JeremyManiago_Spring2023 - Copy - Copy.docx",
-    "Resumes & Documents/CoverLetter_JeremyManiago.docx",
-    "Resumes & Documents/List_Of_Applications.xlsx",
-    "Resumes & Documents/Resume_JeremyManiago_Spring2023 - Copy.docx",
-    "Resumes & Documents",
     "INTL 201/Lectures/Lecture 2.md",
-    "INTL 201/Readings/Juergensmeyer_Chapter_1.pdf",
     "INTL 201/Lectures/Lecture 4.md",
     "INTL 201/Lectures/Lecture 5.md",
     "Templates/Daily Notes(Task Edition)/Journal/2023/October/2023-10-03.md",
