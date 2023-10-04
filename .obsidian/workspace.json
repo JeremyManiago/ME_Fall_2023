@@ -4,107 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "755b241ad23128f2",
+        "id": "3de7acc12ebec000",
         "type": "tabs",
-        "dimension": 48.027718550106606,
         "children": [
           {
-            "id": "d73ce547d49b6430",
+            "id": "aaf2f18e1746fad3",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "INTL 201/INTL 20100 ; International Studies - A Global Perspective.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f87b9a6aee986224",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "INTL 201/Lectures/Lecture 5.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a2f22ba7bd075e5a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "INTL 201/Lectures/Lecture 4.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5afb8e280aa793ae",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "INTL 201/Lectures/Week2_lecture_SU2023_Lecture2.pdf"
-              }
-            }
-          },
-          {
-            "id": "bdf3853b2a4a5eb7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "INTL 201/Lectures/Lecture 2.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
-      },
-      {
-        "id": "dce68fa35a248bcb",
-        "type": "tabs",
-        "dimension": 51.972281449893394,
-        "children": [
-          {
-            "id": "10b029b0828be752",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "INTL 201/Readings/Jared M. Diamond-Guns, Germs and Steel-Cpt 3.pdf"
-              }
-            }
-          },
-          {
-            "id": "a7a2cb87c5b1fabd",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "INTL 201/Readings/Eric Wolf_Review_Europe and the People Without History (Rediscovered)(1).pdf"
-              }
-            }
-          },
-          {
-            "id": "6756c493c7659fb4",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "INTL 201/Readings/Juergensmeyer_Chapter_1.pdf"
-              }
-            }
-          }
-        ],
-        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -185,7 +96,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "INTL 201/INTL 20100 ; International Studies - A Global Perspective.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -202,7 +112,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "INTL 201/INTL 20100 ; International Studies - A Global Perspective.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -224,9 +133,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "INTL 201/INTL 20100 ; International Studies - A Global Perspective.md"
-              }
+              "state": {}
             }
           },
           {
@@ -315,24 +222,24 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "d73ce547d49b6430",
+  "active": "aaf2f18e1746fad3",
   "lastOpenFiles": [
-    "INTL 201/Exams/~WRL1526.tmp",
-    "INTL 201/Exams/~WRD1526.tmp",
-    "INTL 201/Exams/~WRL1013.tmp",
-    "INTL 201/Exams/~WRD1009.tmp",
-    "INTL 201/Exams/~WRL0291.tmp",
-    "INTL 201/Exams/~WRD0291.tmp",
-    "INTL 201/Exams/~WRL2548.tmp",
-    "INTL 201/Exams/~WRD2541.tmp",
-    "INTL 201/Exams/~WRL2836.tmp",
-    "INTL 201/Exams/~WRD2836.tmp",
-    "INTL 201/Exams/~WRL3127.tmp",
+    "Resumes & Documents/Resumes.md",
+    "Resumes & Documents/~$sume_JeremyManiago_Fall2023.docx",
+    "Resumes & Documents/Resume_JeremyManiago_Fall2023.docx",
+    "Resumes & Documents/Resume_JeremyManiago_Spring2023 - Copy - Copy.docx",
+    "Resumes & Documents/CoverLetter_JeremyManiago.docx",
+    "Resumes & Documents/List_Of_Applications.xlsx",
+    "Resumes & Documents/Resume_JeremyManiago_Spring2023 - Copy.docx",
+    "Resumes & Documents",
+    "INTL 201/Lectures/Lecture 2.md",
+    "INTL 201/Readings/Juergensmeyer_Chapter_1.pdf",
+    "INTL 201/Readings/Eric Wolf_Review_Europe and the People Without History (Rediscovered)(1).pdf",
+    "INTL 201/Readings/Jared M. Diamond-Guns, Germs and Steel-Cpt 3.pdf",
+    "INTL 201/Lectures/Lecture 4.md",
     "INTL 201/Lectures/Lecture 5.md",
     "Templates/Daily Notes(Task Edition)/Journal/2023/October/2023-10-03.md",
     "INTL 201/INTL 20100 ; International Studies - A Global Perspective.md",
-    "INTL 201/Lectures/Lecture 2.md",
-    "INTL 201/Lectures/Lecture 4.md",
     "INTL 201/Lectures/Lecture 3.md",
     "Templates/Daily Notes(Task Edition)/Journal/2023/October/2023-10-02.md",
     "INTL 201/Lectures/attachments/Pasted image 20231002110123.png",
@@ -356,7 +263,6 @@
     "Templates/Daily Notes(Task Edition)/Journal/2023/September/2023-09-26.md",
     "ME 515/HW/attachments/Pasted image 20230925105754.png",
     "ME 515/HW/attachments/Pasted image 20230925105737.png",
-    "ME 515/HW/HW 1.md",
     "ME 515/HW/attachments/Pasted image 20230919223709.png",
     "ME 515/HW/attachments/Pasted image 20230919223706.png",
     "ME 515/HW/attachments/Pasted image 20230919223701.png",
