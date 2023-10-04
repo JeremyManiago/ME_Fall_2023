@@ -9,7 +9,7 @@
         "dimension": 48.027718550106606,
         "children": [
           {
-            "id": "fc6bbe4924cb6e13",
+            "id": "d73ce547d49b6430",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -71,7 +71,7 @@
       {
         "id": "dce68fa35a248bcb",
         "type": "tabs",
-        "dimension": 51.97228144989339,
+        "dimension": 51.972281449893394,
         "children": [
           {
             "id": "10b029b0828be752",
@@ -185,7 +185,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "INTL 201/Readings/Eric Wolf_Review_Europe and the People Without History (Rediscovered)(1).pdf",
+                "file": "INTL 201/INTL 20100 ; International Studies - A Global Perspective.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -202,7 +202,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "INTL 201/Readings/Eric Wolf_Review_Europe and the People Without History (Rediscovered)(1).pdf",
+                "file": "INTL 201/INTL 20100 ; International Studies - A Global Perspective.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -225,7 +225,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "INTL 201/Readings/Eric Wolf_Review_Europe and the People Without History (Rediscovered)(1).pdf"
+                "file": "INTL 201/INTL 20100 ; International Studies - A Global Perspective.md"
               }
             }
           },
@@ -315,21 +315,22 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "a7a2cb87c5b1fabd",
+  "active": "d73ce547d49b6430",
   "lastOpenFiles": [
-    "INTL 201/Exams/~WRL2293.tmp",
-    "INTL 201/Exams/~WRD2289.tmp",
-    "INTL 201/Exams/~WRL2580.tmp",
-    "INTL 201/Exams/~WRD2568.tmp",
-    "INTL 201/INTL 20100 ; International Studies - A Global Perspective.md",
-    "INTL 201/Exams/~WRL2325.tmp",
-    "INTL 201/Exams/~WRD2321.tmp",
-    "INTL 201/Readings/Eric Wolf_Review_Europe and the People Without History (Rediscovered)(1).pdf",
-    "INTL 201/Exams/~WRL3070.tmp",
-    "INTL 201/Exams/~WRD3055.tmp",
-    "INTL 201/Exams/~WRL0211.tmp",
-    "INTL 201/Exams/~WRD0211.tmp",
+    "INTL 201/Exams/~WRL1526.tmp",
+    "INTL 201/Exams/~WRD1526.tmp",
+    "INTL 201/Exams/~WRL1013.tmp",
+    "INTL 201/Exams/~WRD1009.tmp",
+    "INTL 201/Exams/~WRL0291.tmp",
+    "INTL 201/Exams/~WRD0291.tmp",
+    "INTL 201/Exams/~WRL2548.tmp",
+    "INTL 201/Exams/~WRD2541.tmp",
+    "INTL 201/Exams/~WRL2836.tmp",
+    "INTL 201/Exams/~WRD2836.tmp",
+    "INTL 201/Exams/~WRL3127.tmp",
     "INTL 201/Lectures/Lecture 5.md",
+    "Templates/Daily Notes(Task Edition)/Journal/2023/October/2023-10-03.md",
+    "INTL 201/INTL 20100 ; International Studies - A Global Perspective.md",
     "INTL 201/Lectures/Lecture 2.md",
     "INTL 201/Lectures/Lecture 4.md",
     "INTL 201/Lectures/Lecture 3.md",
@@ -356,7 +357,6 @@
     "ME 515/HW/attachments/Pasted image 20230925105754.png",
     "ME 515/HW/attachments/Pasted image 20230925105737.png",
     "ME 515/HW/HW 1.md",
-    "ME 436/ME 43600 ; Aerothermal Fluids Lab.md",
     "ME 515/HW/attachments/Pasted image 20230919223709.png",
     "ME 515/HW/attachments/Pasted image 20230919223706.png",
     "ME 515/HW/attachments/Pasted image 20230919223701.png",
