@@ -36,13 +36,22 @@
 	      1. Living Anthropologically (Wolf Review) [[Eric Wolf_Review_Europe and the People Without History (Rediscovered)(1).pdf]]
 	      2. Diamond, Jared. Guns, Germs, and Steel. (Chapter 3). [[Jared M. Diamond-Guns, Germs and Steel-Cpt 3.pdf]]
 
-- [ ] Lecture 6
+- [ ] ***[[Lecture 6]]***
+	- [ ] Video: https://youtu.be/Oz283CO2u5w
+	- [ ] Lecture: [[Week5_lecture_SU2023_Lecture6(1).pdf]]
+	- [ ] Required Reading: Karl Marx, Capital, reprinted in The Marx-Engels Reader [1867], pp. 302-308. Please read only pages 302-308. [[Marx_selections.pdf]]
+
+- [ ] ***[[Lecture 7]]***
+	- [ ] Video: https://youtu.be/ktb0B-i4HEQ
+	- [ ] Lecture: [[Week6_lecture_SU2023_Lecture7(1).pdf]]
+	- [ ] Required Reading: 
 
 
 ---
 ## *Homeworks*
 + [x] [[Assignment 1]]
 + [x] [[Assignment 2]]
++ [ ] 
 
 
 ---

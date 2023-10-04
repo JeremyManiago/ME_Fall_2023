@@ -8,13 +8,13 @@
         "type": "tabs",
         "children": [
           {
-            "id": "52c797c85c2146c2",
+            "id": "7c8784f441de3df7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/Daily Notes(Task Edition)/Journal/2023/October/2023-10-04.md",
-                "mode": "preview",
+                "file": "ME 436/ME 43600 ; Aerothermal Fluids Lab.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -32,17 +32,26 @@
             }
           },
           {
-            "id": "f3b763f9f452b6ba",
+            "id": "4a082b3fc25bc006",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "ME 556/Lectures/V. Lubrication Theory -Word 14.pdf"
+                "file": "ME 515/Lectures/Lecture Notes 6.pdf"
+              }
+            }
+          },
+          {
+            "id": "873deb1988ae92a0",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "ME 515/Lectures/Lecture Notes 7.pdf"
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -61,7 +70,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "byModifiedTime"
               }
             }
           },
@@ -123,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ME 515/ME 51500_I0820 ; Orbital Mechanics.md",
+                "file": "ME 436/ME 43600 ; Aerothermal Fluids Lab.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ME 515/ME 51500_I0820 ; Orbital Mechanics.md",
+                "file": "ME 436/ME 43600 ; Aerothermal Fluids Lab.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +172,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ME 515/ME 51500_I0820 ; Orbital Mechanics.md"
+                "file": "ME 436/ME 43600 ; Aerothermal Fluids Lab.md"
               }
             }
           },
@@ -253,27 +262,30 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "6dd0b309ff4371a3",
+  "active": "7c8784f441de3df7",
   "lastOpenFiles": [
-    "ME 515/HW/f23hw5.pdf",
+    "ME 436/ME43600_Aero_Thermal_Manual.pdf",
+    "ME 436/ME 43600 ; Aerothermal Fluids Lab.md",
+    "ME 436/Intro_Lecture.pdf",
+    "ME 436/Datasheets/Viscous Pipe Experiment Data Sheet.pdf",
+    "ME 436/Datasheets/Unconfirmed 874275.crdownload",
+    "ME 436/Datasheets/Pelton Wheel Experiment Data Sheet.pdf",
+    "ME 436/Datasheets/Unconfirmed 443706.crdownload",
+    "ME 436/Datasheets",
+    "ME 436/New folder",
+    "ME 436/Unconfirmed 605677.crdownload",
+    "ME 436/Unconfirmed 716357.crdownload",
     "ME 515/ME 51500_I0820 ; Orbital Mechanics.md",
-    "ME 515/Lectures/Lecture Notes 6.pdf",
-    "ME 515/Lectures/Lecture Notes 7.pdf",
-    "ME 515/Lectures/Unconfirmed 846450.crdownload",
-    "ME 515/Lectures/Unconfirmed 755272.crdownload",
-    "ME 515/HW/Unconfirmed 436710.crdownload",
-    "ME 556/ME 55600, I0800 ; Advanced Fluid Mechanics.md",
-    "ME 556/Lectures/VI. Low Reynolds Number Hydrodynamics +.pdf",
-    "ME 556/HW/HW 6- Low Re Flow.pdf",
-    "ME 556/HW/Unconfirmed 855618.crdownload",
-    "ME 556/Lectures/Unconfirmed 892264.crdownload",
     "Templates/Daily Notes(Task Edition)/Journal/2023/October/2023-10-04.md",
-    "Resumes & Documents/Resumes.md",
+    "Templates/Daily Notes(Task Edition)/Journal/2023/October/2023-10-03.md",
+    "ME 556/ME 55600, I0800 ; Advanced Fluid Mechanics.md",
+    "INTL 201/INTL 20100 ; International Studies - A Global Perspective.md",
+    "INTL 201/Lectures/Lecture 7.md",
+    "INTL 201/Lectures/Lecture 6.md",
     "INTL 201/Lectures/Lecture 2.md",
+    "Resumes & Documents/Resumes.md",
     "INTL 201/Lectures/Lecture 4.md",
     "INTL 201/Lectures/Lecture 5.md",
-    "Templates/Daily Notes(Task Edition)/Journal/2023/October/2023-10-03.md",
-    "INTL 201/INTL 20100 ; International Studies - A Global Perspective.md",
     "INTL 201/Lectures/Lecture 3.md",
     "Templates/Daily Notes(Task Edition)/Journal/2023/October/2023-10-02.md",
     "INTL 201/Lectures/attachments/Pasted image 20231002110123.png",
@@ -289,9 +301,6 @@
     "ME 515/HW/HW4.md",
     "ME 473/HW/Pick n Place/Project Requirements.md",
     "ME 462/ME 46200 ; Manufacturing Processes.md",
-    "ME 473/HW/Project Requirements.md",
-    "ME 462/Lecture HW/Homework 1.md",
-    "Templates/Daily Notes(Task Edition)/Journal/2023/September/2023-09-28.md",
     "ME 515/HW/attachments/Pasted image 20230925105754.png",
     "ME 515/HW/attachments/Pasted image 20230925105737.png",
     "ME 515/HW/attachments/Pasted image 20230919223709.png",
