@@ -23,6 +23,7 @@
 + [x] [[ME 55600_I0200 HW 4 Marangoni Effect.docx]]
 	+ [i] [[ME 55600_I0200 HW 4 Marangoni Effect-Solution.pdf]] 
 - [/] [[ME 55600_I0200 HW 5 Lubrication Approximation.docx]] 📅 2023-10-05 🔼 
+	- [*] [[HW5_integrationcheck.m]] 
 
 
 ---

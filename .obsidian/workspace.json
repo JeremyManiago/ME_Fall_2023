@@ -4,18 +4,57 @@
     "type": "split",
     "children": [
       {
-        "id": "3de7acc12ebec000",
+        "id": "9bc5de4edf5f4d6a",
         "type": "tabs",
         "children": [
           {
-            "id": "aaf2f18e1746fad3",
+            "id": "52c797c85c2146c2",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Templates/Daily Notes(Task Edition)/Journal/2023/October/2023-10-04.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6dd0b309ff4371a3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ME 515/ME 51500_I0820 ; Orbital Mechanics.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "308a0703679aa7cb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ME 556/ME 55600, I0800 ; Advanced Fluid Mechanics.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f3b763f9f452b6ba",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "ME 556/Lectures/V. Lubrication Theory -Word 14.pdf"
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -96,6 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "ME 556/ME 55600, I0800 ; Advanced Fluid Mechanics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,6 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "ME 556/ME 55600, I0800 ; Advanced Fluid Mechanics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +174,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "ME 556/ME 55600, I0800 ; Advanced Fluid Mechanics.md"
+              }
             }
           },
           {
@@ -222,8 +265,13 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "aaf2f18e1746fad3",
+  "active": "308a0703679aa7cb",
   "lastOpenFiles": [
+    "ME 515/ME 51500_I0820 ; Orbital Mechanics.md",
+    "ME 556/Lectures/V. Lubrication Theory -Word 14.pdf",
+    "ME 556/HW/HW5_integrationcheck.m",
+    "ME 556/ME 55600, I0800 ; Advanced Fluid Mechanics.md",
+    "Templates/Daily Notes(Task Edition)/Journal/2023/October/2023-10-04.md",
     "Resumes & Documents/Resumes.md",
     "Resumes & Documents/~$sume_JeremyManiago_Fall2023.docx",
     "Resumes & Documents/Resume_JeremyManiago_Fall2023.docx",
@@ -234,8 +282,6 @@
     "Resumes & Documents",
     "INTL 201/Lectures/Lecture 2.md",
     "INTL 201/Readings/Juergensmeyer_Chapter_1.pdf",
-    "INTL 201/Readings/Eric Wolf_Review_Europe and the People Without History (Rediscovered)(1).pdf",
-    "INTL 201/Readings/Jared M. Diamond-Guns, Germs and Steel-Cpt 3.pdf",
     "INTL 201/Lectures/Lecture 4.md",
     "INTL 201/Lectures/Lecture 5.md",
     "Templates/Daily Notes(Task Edition)/Journal/2023/October/2023-10-03.md",
@@ -248,19 +294,16 @@
     "Templates/Daily Notes(Task Edition)/Journal/2023/October/2023-10-01.md",
     "INTL 201/Lectures/Lecture 1.md",
     "ME 473/Lecture Summaries/Lecture 1.md",
-    "ME 556/ME 55600, I0800 ; Advanced Fluid Mechanics.md",
     "ME 473/ME 47300 I ; Senior Design.md",
     "README.md",
     "Templates/Daily Notes(Task Edition)/Journal/2023/September/2023-09-22.md",
     "Templates/Daily Notes(Task Edition)/Journal/2023/September/2023-09-29.md",
-    "ME 515/ME 51500_I0820 ; Orbital Mechanics.md",
     "ME 515/HW/HW4.md",
     "ME 473/HW/Pick n Place/Project Requirements.md",
     "ME 462/ME 46200 ; Manufacturing Processes.md",
     "ME 473/HW/Project Requirements.md",
     "ME 462/Lecture HW/Homework 1.md",
     "Templates/Daily Notes(Task Edition)/Journal/2023/September/2023-09-28.md",
-    "Templates/Daily Notes(Task Edition)/Journal/2023/September/2023-09-26.md",
     "ME 515/HW/attachments/Pasted image 20230925105754.png",
     "ME 515/HW/attachments/Pasted image 20230925105737.png",
     "ME 515/HW/attachments/Pasted image 20230919223709.png",
