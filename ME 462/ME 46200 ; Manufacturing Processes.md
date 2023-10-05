@@ -16,10 +16,16 @@
 
 ---
 ## Lecture HW
-+ [x] [[Homework 1]] - Investigate the manufacturing process of a part that requires any of the process of the plastic deformation of the metal, extrusion, rolling, forging etc. **due 09/27/23, 11:59pm**
+- [x] [[Homework 1]] - Investigate the manufacturing process of a part that requires any of the process of the plastic deformation of the metal, extrusion, rolling, forging etc. **due 09/27/23, 11:59pm**
 
 ---
 ## Lab HW
-+ [x] [[TurboCharger.SLDASM]]
-+ [x] [[Rubeen_File_1.SLDPRT]]
-+ [ ] 
+- [x] [[TurboCharger.SLDASM]]
+- [x] [[Rubeen_File_1.SLDPRT]]
+- [x] Reduce Rubeen File Cam < 22 mins
+- [/] Mini Project  🔼 📅 2023-10-09 
+	+ [x] 3D CAD
+	+ [x] CAM
+	+ [ ] 2D drawings
+	+ [ ] Report
+		+ [ ] improvements to design

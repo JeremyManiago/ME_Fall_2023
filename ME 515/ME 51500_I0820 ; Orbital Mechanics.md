@@ -20,6 +20,7 @@
 ---
 ## Homeworks
 + [x] [[f23hw1.pdf]]
+	+ [x] [[HW 1]] | [[HW Assignment 1.pdf]]
 + [x] [[HW2]]
 	+ Curtis Chapter 2, #\s 9, 10, 15, 17
 + [x] [[HW3]]

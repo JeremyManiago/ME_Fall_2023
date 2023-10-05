@@ -10,10 +10,10 @@
 
 ---
 ## Logbooks
-+ 
++ [[Day 2]]
 
 ---
 ## HW
-+ [x] Pick n Place mechanism
++ [x] [[Pick n Place]]
 + [x] [[Project Requirements.pdf]]
 + [/] Stapler Design

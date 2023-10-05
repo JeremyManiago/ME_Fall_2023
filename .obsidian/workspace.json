@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "7c8784f441de3df7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ME 436/ME 43600 ; Aerothermal Fluids Lab.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "6dd0b309ff4371a3",
             "type": "leaf",
             "state": {
@@ -32,26 +20,29 @@
             }
           },
           {
-            "id": "4a082b3fc25bc006",
+            "id": "fc98ccd9c38d731e",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "ME 515/Lectures/Lecture Notes 6.pdf"
+                "file": "ME 436/ME43600_Aero_Thermal_Manual.pdf"
               }
             }
           },
           {
-            "id": "873deb1988ae92a0",
+            "id": "0a780937a99dc2a3",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "ME 515/Lectures/Lecture Notes 7.pdf"
+                "file": "ME 436/Labs/Pelton Wheel/Pelton Wheel.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -132,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ME 436/ME 43600 ; Aerothermal Fluids Lab.md",
+                "file": "ME 436/Labs/Pelton Wheel/Pelton Wheel.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ME 436/ME 43600 ; Aerothermal Fluids Lab.md",
+                "file": "ME 436/Labs/Pelton Wheel/Pelton Wheel.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ME 436/ME 43600 ; Aerothermal Fluids Lab.md"
+                "file": "ME 436/Labs/Pelton Wheel/Pelton Wheel.md"
               }
             }
           },
@@ -262,45 +253,46 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "7c8784f441de3df7",
+  "active": "0a780937a99dc2a3",
   "lastOpenFiles": [
+    "ME 436/ME43600_Aero_Thermal_Manual.pdf",
+    "ME 436/Labs/Pelton Wheel/Pelton Wheel.md",
+    "ME 436/Labs/Pelton Wheel/pelton_wheel.asv",
+    "ME 436/Labs/Pelton Wheel/pelton_wheel.m",
+    "ME 436/ME 43600 ; Aerothermal Fluids Lab.md",
+    "ME 515/ME 51500_I0820 ; Orbital Mechanics.md",
+    "ME 436/Labs/Viscous Pipe",
+    "ME 436/Labs/Pelton Wheel",
+    "ME 436/Labs/Viscous Pipe/Viscous Pipe Flow.md",
+    "ME 436/Labs",
+    "ME 515/Lectures/Lecture Notes 5.pdf",
+    "ME 515/Lectures/Lecture Notes 7.pdf",
+    "ME 515/Lectures/Lecture Notes 6.pdf",
+    "ME 556/ME 55600, I0800 ; Advanced Fluid Mechanics.md",
+    "Templates/Daily Notes(Task Edition)/Journal/2023/October/2023-10-04.md",
+    "ME 462/Lab HW/TurboCharger/TurboCharger.md",
+    "ME 515/HW/HW 1.md",
+    "ME 473/ME 47300 I ; Senior Design.md",
+    "ME 473/HW/Pick n Place/Pick n Place.md",
+    "ME 462/ME 46200 ; Manufacturing Processes.md",
+    "ME 462/Lecture HW/Homework 1.md",
+    "ME 462/Lecture HW/JeremyManiago_ME462_LectureHW1.pdf",
+    "Templates/Daily Notes(Task Edition)/Journal/delete.md",
+    "ME 473/AIAA Logbook/Day 2.md",
+    "ME 556/HW/ME I0800 HW.md",
+    "INTL 201/Lectures/attachments/Pasted image 20231001182201.png",
+    "ME 473/HW/Pick n Place/Project Requirements.md",
+    "Resumes & Documents/Resumes.md",
+    "Resumes & Documents/PXL_20221204_213934399_6.jpg",
     "INTL 201/INTL 20100 ; International Studies - A Global Perspective.md",
     "INTL 201/Exams/Exam 1 Study Guide.md",
     "INTL 201/Lectures/Lecture 2.md",
     "INTL 201/Lectures/Lecture 1.md",
-    "ME 436/ME 43600 ; Aerothermal Fluids Lab.md",
-    "ME 436/ME43600_Aero_Thermal_Manual.pdf",
-    "ME 436/Intro_Lecture.pdf",
-    "ME 436/Datasheets/Viscous Pipe Experiment Data Sheet.pdf",
-    "ME 436/Datasheets/Unconfirmed 874275.crdownload",
-    "ME 436/Datasheets/Pelton Wheel Experiment Data Sheet.pdf",
-    "ME 436/Datasheets/Unconfirmed 443706.crdownload",
-    "ME 436/Datasheets",
-    "ME 436/New folder",
-    "ME 436/Unconfirmed 605677.crdownload",
-    "ME 436/Unconfirmed 716357.crdownload",
-    "ME 515/ME 51500_I0820 ; Orbital Mechanics.md",
-    "Templates/Daily Notes(Task Edition)/Journal/2023/October/2023-10-04.md",
     "Templates/Daily Notes(Task Edition)/Journal/2023/October/2023-10-03.md",
-    "ME 556/ME 55600, I0800 ; Advanced Fluid Mechanics.md",
     "INTL 201/Lectures/Lecture 7.md",
     "INTL 201/Lectures/Lecture 6.md",
-    "Resumes & Documents/Resumes.md",
     "INTL 201/Lectures/Lecture 4.md",
-    "INTL 201/Lectures/Lecture 5.md",
-    "INTL 201/Lectures/Lecture 3.md",
-    "Templates/Daily Notes(Task Edition)/Journal/2023/October/2023-10-02.md",
     "INTL 201/Lectures/attachments/Pasted image 20231002110123.png",
-    "INTL 201/Lectures/attachments/Pasted image 20231001182201.png",
-    "Templates/Daily Notes(Task Edition)/Journal/2023/October/2023-10-01.md",
-    "ME 473/Lecture Summaries/Lecture 1.md",
-    "ME 473/ME 47300 I ; Senior Design.md",
-    "README.md",
-    "Templates/Daily Notes(Task Edition)/Journal/2023/September/2023-09-22.md",
-    "Templates/Daily Notes(Task Edition)/Journal/2023/September/2023-09-29.md",
-    "ME 515/HW/HW4.md",
-    "ME 473/HW/Pick n Place/Project Requirements.md",
-    "ME 462/ME 46200 ; Manufacturing Processes.md",
     "ME 515/HW/attachments/Pasted image 20230925105754.png",
     "ME 515/HW/attachments/Pasted image 20230925105737.png",
     "ME 515/HW/attachments/Pasted image 20230919223709.png",
@@ -308,7 +300,6 @@
     "ME 515/HW/attachments/Pasted image 20230919223701.png",
     "ME 515/HW/attachments/Pasted image 20230919223658.png",
     "ME 515/HW/attachments/Pasted image 20230919223656.png",
-    "ME 515/attachments/Pasted image 20230910112833.png",
     "PPPL.canvas",
     "ME 433/Heat Transfer.canvas"
   ]

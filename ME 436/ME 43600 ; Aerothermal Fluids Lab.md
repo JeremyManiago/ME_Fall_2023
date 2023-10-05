@@ -5,8 +5,8 @@
 
 ---
 ## Labs
-- [/] [[Pelton Wheel Experiment Data Sheet.pdf]] ⏫ 📅 2023-10-06 
-- [ ] [[Viscous Pipe Experiment Data Sheet.pdf]]
+- [/] [[Pelton Wheel]] ⏫ 📅 2023-10-06 
+- [ ] [[Viscous Pipe Flow]]
 - [ ] 
 
 
