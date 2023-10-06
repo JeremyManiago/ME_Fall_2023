@@ -5,6 +5,7 @@ close all
 set(0,'DefaultFigureWindowStyle','docked')
 
 %% 0 | Data
+
 set(1).p = 0.5;                                                 % bar
 set(1).t = 38.66;                                               % s
 set(1).q = 0.5173;                                              % L/s
@@ -60,15 +61,10 @@ for i = 1 : length(set)
     set(i).wheel = set(i).wheel .* convwheel;
     set(i).T = zeros(1, length(set(i).m));
 
-    % for j = 1 : length(set(i).m)
-    %     set(i).T(j) = ( set(i).m(j) - set(i).springm(j) ) * breakwheel_r;
-    % end
-
     set(i).T = ( set(i).m - set(i).springm ) * breakwheel_r * g;
 
     plot(set(i).wheel, set(i).T)
     hold on 
-
 end
 
 title('Torque vs Wheel Speed')
@@ -137,18 +133,18 @@ N = length(tach_u);
 x_sum = zeros(1, length(tach_u));
 
 for i = 1 : N
-    x_sum(i) = (tach_u(i) - x_bar)^2
+    x_sum(i) = (tach_u(i) - x_bar)^2;
 end
 
-x_sum = sum(x_sum)
+x_sum = sum(x_sum);
 
-s_x = sqrt( (1/(N-1))*(x_sum) )
+s_x = sqrt( (1/(N-1))*(x_sum) );
 
-s_x_bar = s_x/sqrt(N)
+s_x_bar = s_x/sqrt(N);
 
-DoF = N - 1
+DoF = N - 1;
 
-t_95 = 2.262
+t_95 = 2.262;
 
 ep_u = t_95*s_x_bar;
 b_u = tacho_u;
@@ -179,13 +175,3 @@ title('Efficiency vs Wheel Speed | Error Bars')
 xlabel('Wheel speed (rad/s)')
 ylabel('Efficiency, \eta ')
 legend('Set 1 error', 'Set 2 error', 'Set 3 error', 'Set 4 error', 'Set 5 error');
-
-
-% figure;
-% 
-% for i = 1 : length(set)
-%     set(i).u_x = sqrt((t_95*s_x_bar)^2) .* set(i).eff;
-%     plot(set(i).wheel, set(i).eff)
-%     hold on
-%     errorbar(set(i).wheel, set(i).eff, e_ep)
-% end
