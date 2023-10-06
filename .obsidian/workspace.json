@@ -4,33 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "9bc5de4edf5f4d6a",
+        "id": "e2cbb21307fc9c89",
         "type": "tabs",
         "children": [
           {
-            "id": "6dd0b309ff4371a3",
+            "id": "982371dcd3d44d73",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ME 515/ME 51500_I0820 ; Orbital Mechanics.md",
-                "mode": "source",
+                "file": "Templates/Daily Notes(Task Edition)/Journal/2023/October/2023-10-06.md",
+                "mode": "preview",
                 "source": false
               }
             }
           },
           {
-            "id": "dfd95b6b4d02c130",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "ME 436/ME43600_Aero_Thermal_Manual.pdf"
-              }
-            }
-          },
-          {
-            "id": "0a780937a99dc2a3",
+            "id": "5ae9954a1d993b38",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -61,7 +51,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "byModifiedTime"
+                "sortOrder": "alphabetical"
               }
             }
           },
@@ -106,7 +96,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 258
+    "width": 255
   },
   "right": {
     "id": "9aeb1fe491dff90c",
@@ -123,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ME 436/ME43600_Aero_Thermal_Manual.pdf",
+                "file": "ME 436/Labs/Pelton Wheel/Pelton Wheel.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ME 436/ME43600_Aero_Thermal_Manual.pdf",
+                "file": "ME 436/Labs/Pelton Wheel/Pelton Wheel.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ME 436/ME43600_Aero_Thermal_Manual.pdf"
+                "file": "ME 436/Labs/Pelton Wheel/Pelton Wheel.md"
               }
             }
           },
@@ -221,15 +211,19 @@
             "id": "59eb704e826dc2c7",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Templates/Daily Notes(Task Edition)/Journal/2023/October/2023-10-06.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 384
+    "width": 354
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -253,54 +247,54 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "dfd95b6b4d02c130",
+  "active": "6945b31b3d84841c",
   "lastOpenFiles": [
-    "Resumes & Documents/~$sume_JeremyManiago_Fall2023.docx",
-    "Templates/Daily Notes(Task Edition)/Journal/2023/October/2023-10-04.md",
-    "ME 515/ME 51500_I0820 ; Orbital Mechanics.md",
-    "ME 436/ME 43600 ; Aerothermal Fluids Lab.md",
-    "ME 436/Labs/Pelton Wheel/Pelton Wheel.md",
-    "ME 436/REDACTED/REDACTED/Aero-Thermal-Fluids/Resources/436 Aero Thermal/ME 436 - JC/ME 436/Flowsquare4.0/Flowsquare4.0/Test1/figs/figure-000003600.bmp",
-    "ME 436/REDACTED/REDACTED/Aero-Thermal-Fluids/Resources/436 Aero Thermal/ME 436 - JC/ME 436/Flowsquare4.0/Flowsquare4.0/Test1/figs/figure-000003400.bmp",
-    "ME 436/REDACTED/REDACTED/Aero-Thermal-Fluids/Resources/436 Aero Thermal/ME 436 - JC/ME 436/Flowsquare4.0/Flowsquare4.0/Test1/figs/figure-000003200.bmp",
-    "ME 436/REDACTED/REDACTED/Aero-Thermal-Fluids/Resources/436 Aero Thermal/ME 436 - JC/ME 436/Flowsquare4.0/Flowsquare4.0/Test1/figs/figure-000003000.bmp",
-    "ME 436/REDACTED/REDACTED/Aero-Thermal-Fluids/Resources/436 Aero Thermal/ME 436 - JC/ME 436/Flowsquare4.0/Flowsquare4.0/Test1/figs/figure-000002800.bmp",
-    "ME 436/REDACTED/REDACTED/Aero-Thermal-Fluids/Resources/436 Aero Thermal/ME 436 - JC/ME 436/Flowsquare4.0/Flowsquare4.0/Test1/figs/figure-000002600.bmp",
-    "ME 436/REDACTED/REDACTED/Aero-Thermal-Fluids/Resources/436 Aero Thermal/ME 436 - JC/ME 436/Flowsquare4.0/Flowsquare4.0/Test1/figs/figure-000002400.bmp",
-    "ME 436/REDACTED/REDACTED/Aero-Thermal-Fluids/Resources/436 Aero Thermal/ME 436 - JC/ME 436/Flowsquare4.0/Flowsquare4.0/Test1/figs/figure-000002200.bmp",
-    "ME 436/REDACTED/REDACTED/Aero-Thermal-Fluids/Resources/436 Aero Thermal/ME 436 - JC/ME 436/Flowsquare4.0/Flowsquare4.0/Test1/figs/figure-000002000.bmp",
-    "ME 436/REDACTED/REDACTED/Aero-Thermal-Fluids/Resources/436 Aero Thermal/ME 436 - JC/ME 436/Flowsquare4.0/Flowsquare4.0/Test1/figs/figure-000001800.bmp",
-    "ME 436/REDACTED/REDACTED/Aero-Thermal-Fluids/Resources/436 Aero Thermal/ME 436 - JC/ME 436/Flowsquare4.0/Flowsquare4.0/Test1/dump/z-000002000.dat",
-    "ME 436/REDACTED/REDACTED/Aero-Thermal-Fluids/Resources/436 Aero Thermal/ME 436 - JC/ME 436/Flowsquare4.0/Flowsquare4.0/Test1/dump/z-000000000.dat",
-    "ME 436/REDACTED/REDACTED/Aero-Thermal-Fluids/Resources/436 Aero Thermal/ME 436 - JC/ME 436/Flowsquare4.0/Flowsquare4.0/Test1/dump/x-000002000.dat",
-    "ME 436/REDACTED/REDACTED/Aero-Thermal-Fluids/Resources/436 Aero Thermal/ME 436 - JC/ME 436/Flowsquare4.0/Flowsquare4.0/Test1/dump/x-000000000.dat",
-    "ME 436/REDACTED/REDACTED/Aero-Thermal-Fluids/Resources/436 Aero Thermal/ME 436 - JC/ME 436/Flowsquare4.0/Flowsquare4.0/Test1/dump/t-000002000.dat",
-    "ME 436/REDACTED/REDACTED/Aero-Thermal-Fluids/Resources/436 Aero Thermal/ME 436 - JC/ME 436/Flowsquare4.0/Flowsquare4.0/Test1/dump/t-000000000.dat",
-    "ME 436/REDACTED/REDACTED/Aero-Thermal-Fluids/Resources/436 Aero Thermal/ME 436 - JC/ME 436/Flowsquare4.0/Flowsquare4.0/Test1/dump/rv-000002000.dat",
-    "ME 436/REDACTED/REDACTED/Aero-Thermal-Fluids/Resources/436 Aero Thermal/ME 436 - JC/ME 436/Flowsquare4.0/Flowsquare4.0/Test1/dump/rv-000000000.dat",
-    "ME 436/REDACTED/REDACTED/Aero-Thermal-Fluids/Resources/436 Aero Thermal/ME 436 - JC/ME 436/Flowsquare4.0/Flowsquare4.0/Test1/dump/ru-000002000.dat",
-    "ME 436/REDACTED/REDACTED/Aero-Thermal-Fluids/Resources/436 Aero Thermal/ME 436 - JC/ME 436/Flowsquare4.0/Flowsquare4.0/Test1/dump/ru-000000000.dat",
-    "ME 436/Labs/Viscous Pipe/Viscous Pipe Flow.md",
+    "ME 436/Labs/Pelton Wheel/~WRD3503.tmp",
+    "ME 436/Labs/Pelton Wheel/~WRL0005.tmp",
+    "ME 436/Labs/Pelton Wheel/~WRD0000.tmp",
+    "ME 436/Labs/Pelton Wheel/~$remyManiago_peltonwheel.docx",
+    "ME 436/Labs/Pelton Wheel/JeremyManiago_peltonwheel.docx",
+    "ME 436/Labs/Pelton Wheel/New Microsoft Word Document.docx",
+    "Templates/Daily Notes(Task Edition)/Journal/2023/October/2023-10-06.md",
     "ME 556/ME 55600, I0800 ; Advanced Fluid Mechanics.md",
-    "ME 462/Lab HW/TurboCharger/TurboCharger.md",
-    "ME 515/HW/HW 1.md",
-    "ME 473/ME 47300 I ; Senior Design.md",
-    "ME 473/HW/Pick n Place/Pick n Place.md",
-    "ME 462/ME 46200 ; Manufacturing Processes.md",
-    "ME 462/Lecture HW/Homework 1.md",
-    "Templates/Daily Notes(Task Edition)/Journal/delete.md",
-    "ME 473/AIAA Logbook/Day 2.md",
-    "ME 556/HW/ME I0800 HW.md",
-    "ME 473/HW/Pick n Place/Project Requirements.md",
-    "Resumes & Documents/Resumes.md",
-    "INTL 201/INTL 20100 ; International Studies - A Global Perspective.md",
-    "INTL 201/Exams/Exam 1 Study Guide.md",
-    "INTL 201/Lectures/Lecture 2.md",
-    "INTL 201/Lectures/Lecture 1.md",
+    "Templates/Daily Notes(Task Edition)/Journal/2023/October/2023-10-04.md",
     "Templates/Daily Notes(Task Edition)/Journal/2023/October/2023-10-03.md",
+    "Resumes & Documents/PXL_20221204_213934399_6.jpg",
+    "Resumes & Documents/Resume_JeremyManiago_Spring2023.pdf",
+    "Resumes & Documents/Resume_JeremyManiago.docx",
+    "Resumes & Documents/~$sume_JeremyManiago_Fall2023.docx",
+    "Resumes & Documents/Resume_JeremyManiago_Spring2023.docx",
+    "Resumes & Documents/Resume_JeremyManiago_Fall2023.docx",
+    "Resumes & Documents/Resumes.md",
+    "Resumes & Documents/0002.jpg",
+    "Resumes & Documents/0001.jpg",
+    "ME 473/HW/Pick n Place/Pick n Place.md",
+    "ME 462/Lab HW/TurboCharger/TurboCharger.md",
+    "ME 436/Labs/Viscous Pipe/Viscous Pipe Flow.md",
+    "ME 436/Labs/Pelton Wheel/Pelton Wheel.md",
     "INTL 201/Lectures/Lecture 7.md",
     "INTL 201/Lectures/Lecture 6.md",
-    "INTL 201/Lectures/Lecture 4.md",
+    "Templates/Daily Notes(Task Edition)/Journal/2023/October/2023-10-02.md",
+    "INTL 201/Lectures/Lecture 5.md",
+    "INTL 201/INTL 20100 ; International Studies - A Global Perspective.md",
+    "INTL 201/Lectures/attachments/Pasted image 20231002110123.png",
+    "INTL 201/Lectures/Lecture 2.md",
+    "INTL 201/Lectures/Lecture 1.md",
+    "INTL 201/Readings/Untitled.md",
+    "INTL 201/Lectures/attachments/Pasted image 20231001182201.png",
+    "Templates/Daily Notes(Task Edition)/Journal/2023/September/2023-09-29.md",
+    "Templates/Daily Notes(Task Edition)/Journal/2023/October/2023-10-01.md",
+    "ME 473/HW/Pick n Place/Project Requirements.md",
+    "ME 462/Lecture HW/Homework 1.md",
+    "README.md",
+    "ME 462/ME 46200 ; Manufacturing Processes.md",
+    "ME 515/HW/HW4.md",
+    "Templates/Daily Notes(Task Edition)/Journal/2023/September/2023-09-26.md",
+    "ME 515/HW/attachments/Pasted image 20230925105754.png",
+    "ME 515/HW/attachments/Pasted image 20230925105737.png",
+    "ME 515/HW/attachments/Pasted image 20230919223709.png",
+    "ME 515/HW/attachments/Pasted image 20230919223706.png",
+    "ME 515/HW/attachments/Pasted image 20230919223701.png",
     "PPPL.canvas",
     "ME 433/Heat Transfer.canvas"
   ]
