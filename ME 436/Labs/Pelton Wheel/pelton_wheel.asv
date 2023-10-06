@@ -178,7 +178,8 @@ end
 title('Efficiency vs Wheel Speed | Error Bars')
 xlabel('Wheel speed (rad/s)')
 ylabel('Efficiency, \eta ')
-legend('Set 1 error', 'Set 2 error', 'Set 3 error', 'Set 4 error', 'Set 5 error');
+legend('Set 1', 'Set 2', 'Set 3', 'Set 4', 'Set 5' ...
+    )
 
 
 % figure;

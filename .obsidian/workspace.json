@@ -113,7 +113,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ME 436/Labs/Pelton Wheel/Pelton Wheel.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +129,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ME 436/Labs/Pelton Wheel/Pelton Wheel.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,9 +150,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "ME 436/Labs/Pelton Wheel/Pelton Wheel.md"
-              }
+              "state": {}
             }
           },
           {
@@ -211,12 +207,8 @@
             "id": "59eb704e826dc2c7",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Templates/Daily Notes(Task Edition)/Journal/2023/October/2023-10-06.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -247,31 +239,31 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "6945b31b3d84841c",
+  "active": "59eb704e826dc2c7",
   "lastOpenFiles": [
-    "ME 436/Labs/Pelton Wheel/~WRD3503.tmp",
-    "ME 436/Labs/Pelton Wheel/~WRL0005.tmp",
-    "ME 436/Labs/Pelton Wheel/~WRD0000.tmp",
-    "ME 436/Labs/Pelton Wheel/~$remyManiago_peltonwheel.docx",
-    "ME 436/Labs/Pelton Wheel/JeremyManiago_peltonwheel.docx",
-    "ME 436/Labs/Pelton Wheel/New Microsoft Word Document.docx",
+    "ME 436/Labs/Pelton Wheel/~WRL3550.tmp",
+    "ME 436/Labs/Pelton Wheel/~WRD3538.tmp",
+    "ME 436/Labs/Pelton Wheel/~WRL0455.tmp",
+    "ME 436/Labs/Pelton Wheel/~WRD0444.tmp",
+    "ME 436/Labs/Pelton Wheel/~WRL0857.tmp",
+    "ME 436/Labs/Pelton Wheel/~WRD0845.tmp",
+    "ME 436/Labs/Pelton Wheel/~WRL1438.tmp",
+    "ME 436/Labs/Pelton Wheel/~WRD1430.tmp",
+    "ME 436/Labs/Pelton Wheel/~WRL1898.tmp",
+    "ME 436/Labs/Pelton Wheel/~WRD1890.tmp",
+    "ME 436/Labs/Pelton Wheel/~WRL2608.tmp",
     "Templates/Daily Notes(Task Edition)/Journal/2023/October/2023-10-06.md",
+    "ME 436/Labs/Pelton Wheel/Pelton Wheel.md",
     "ME 556/ME 55600, I0800 ; Advanced Fluid Mechanics.md",
     "Templates/Daily Notes(Task Edition)/Journal/2023/October/2023-10-04.md",
     "Templates/Daily Notes(Task Edition)/Journal/2023/October/2023-10-03.md",
     "Resumes & Documents/PXL_20221204_213934399_6.jpg",
-    "Resumes & Documents/Resume_JeremyManiago_Spring2023.pdf",
-    "Resumes & Documents/Resume_JeremyManiago.docx",
-    "Resumes & Documents/~$sume_JeremyManiago_Fall2023.docx",
-    "Resumes & Documents/Resume_JeremyManiago_Spring2023.docx",
-    "Resumes & Documents/Resume_JeremyManiago_Fall2023.docx",
     "Resumes & Documents/Resumes.md",
     "Resumes & Documents/0002.jpg",
     "Resumes & Documents/0001.jpg",
     "ME 473/HW/Pick n Place/Pick n Place.md",
     "ME 462/Lab HW/TurboCharger/TurboCharger.md",
     "ME 436/Labs/Viscous Pipe/Viscous Pipe Flow.md",
-    "ME 436/Labs/Pelton Wheel/Pelton Wheel.md",
     "INTL 201/Lectures/Lecture 7.md",
     "INTL 201/Lectures/Lecture 6.md",
     "Templates/Daily Notes(Task Edition)/Journal/2023/October/2023-10-02.md",
