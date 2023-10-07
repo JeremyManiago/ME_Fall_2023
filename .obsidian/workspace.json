@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "e588db08ef02ff5c",
+        "id": "172c5973fb32d861",
         "type": "tabs",
         "children": [
           {
-            "id": "735a50943972962b",
+            "id": "0baacfa1c458ee7b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Templates/Daily Notes(Task Edition)/Journal/2023/October/2023-10-06.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               }
             }
@@ -230,12 +230,12 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "735a50943972962b",
+  "active": "0baacfa1c458ee7b",
   "lastOpenFiles": [
-    "ME 436/Labs/Pelton Wheel/~$remyManiago_peltonwheel.docx",
-    "Templates/Daily Notes(Task Edition)/Journal/2023/October/2023-10-06.md",
-    "ME 436/ME43600_Aero_Thermal_Manual.pdf",
     "conflict-files-obsidian-git.md",
+    "Templates/Daily Notes(Task Edition)/Journal/2023/October/2023-10-06.md",
+    "ME 436/Labs/Pelton Wheel/~$remyManiago_peltonwheel.docx",
+    "ME 436/ME43600_Aero_Thermal_Manual.pdf",
     "ME 436/Labs/Pelton Wheel/torque_vs_wheelspeed.png",
     "ME 436/Labs/Pelton Wheel/poweroutput_vs_wheelspeed.png",
     "ME 436/Labs/Pelton Wheel/efficiency_vs_wheelspeed_errorbars.png",
@@ -249,7 +249,6 @@
     "Resumes & Documents/~WRL2615.tmp",
     "Resumes & Documents/~WRD2611.tmp",
     "Resumes & Documents/~WRL1535.tmp",
-    "Resumes & Documents/~WRD1531.tmp",
     "Templates/Daily Notes(Task Edition)/Journal/2023/October/2023-10-04.md",
     "ME 436/ME 43600 ; Aerothermal Fluids Lab.md",
     "ME 436/Labs/Pelton Wheel/Pelton Wheel.md",
