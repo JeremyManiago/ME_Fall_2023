@@ -5,7 +5,7 @@
 
 ---
 ## Labs
-- [/] [[Pelton Wheel]] ⏫ 📅 2023-10-06 
+- [x] [[Pelton Wheel]] ⏫ 📅 2023-10-06 ✅ 2023-10-07
 - [ ] [[Viscous Pipe Flow]]
 - [ ] 
 
