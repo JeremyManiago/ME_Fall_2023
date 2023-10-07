@@ -13,9 +13,36 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/Daily Notes(Task Edition)/Journal/2023/October/2023-10-06.md",
+                "file": "ME 436/Labs/Pelton Wheel/Pelton Wheel.md",
                 "mode": "source",
                 "source": false
+              }
+            }
+          },
+          {
+            "id": "6f9c552114245835",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "ME 436/ME43600_Aero_Thermal_Manual.pdf"
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "522d926ea262d32c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cfe87a91a5419b34",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "ME 436/ME43600_Aero_Thermal_Manual.pdf"
               }
             }
           }
@@ -100,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Templates/Daily Notes(Task Edition)/Journal/2023/October/2023-10-06.md",
+                "file": "ME 436/ME43600_Aero_Thermal_Manual.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +144,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Templates/Daily Notes(Task Edition)/Journal/2023/October/2023-10-06.md",
+                "file": "ME 436/ME43600_Aero_Thermal_Manual.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +167,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/Daily Notes(Task Edition)/Journal/2023/October/2023-10-06.md"
+                "file": "ME 436/ME43600_Aero_Thermal_Manual.pdf"
               }
             }
           },
@@ -230,28 +257,29 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "0baacfa1c458ee7b",
+  "active": "cfe87a91a5419b34",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
+    "ME 436/Labs/Pelton Wheel/DD668500",
+    "ME 436/Labs/Pelton Wheel/~WRL2186.tmp",
+    "ME 436/Labs/Pelton Wheel/~WRD2174.tmp",
+    "ME 436/Labs/Pelton Wheel/~WRD2166.tmp",
+    "ME 436/Labs/Pelton Wheel/JeremyManiago_peltonwheel.pdf",
+    "ME 436/Labs/Pelton Wheel/mso1BDF.tmp",
+    "ME 436/Labs/Pelton Wheel/~WRL3913.tmp",
+    "ME 436/Labs/Pelton Wheel/~WRD3898.tmp",
+    "ME 436/Labs/Pelton Wheel/~WRL0324.tmp",
+    "ME 436/Labs/Pelton Wheel/~WRD0308.tmp",
+    "ME 436/Labs/Pelton Wheel/~WRL2389.tmp",
+    "ME 436/Labs/Pelton Wheel/Pelton Wheel.md",
     "Templates/Daily Notes(Task Edition)/Journal/2023/October/2023-10-06.md",
-    "ME 436/Labs/Pelton Wheel/~$remyManiago_peltonwheel.docx",
-    "ME 436/ME43600_Aero_Thermal_Manual.pdf",
+    "conflict-files-obsidian-git.md",
     "ME 436/Labs/Pelton Wheel/torque_vs_wheelspeed.png",
     "ME 436/Labs/Pelton Wheel/poweroutput_vs_wheelspeed.png",
     "ME 436/Labs/Pelton Wheel/efficiency_vs_wheelspeed_errorbars.png",
     "ME 436/Labs/Pelton Wheel/efficiency_vs_wheelspeed.png",
-    "ME 436/Labs/Pelton Wheel/JeremyManiago_peltonwheel.docx",
     "ME 515/ME 51500_I0820 ; Orbital Mechanics.md",
-    "Resumes & Documents/~WRL3776.tmp",
-    "Resumes & Documents/~WRD3772.tmp",
-    "Resumes & Documents/~WRL0487.tmp",
-    "Resumes & Documents/~WRD0483.tmp",
-    "Resumes & Documents/~WRL2615.tmp",
-    "Resumes & Documents/~WRD2611.tmp",
-    "Resumes & Documents/~WRL1535.tmp",
     "Templates/Daily Notes(Task Edition)/Journal/2023/October/2023-10-04.md",
     "ME 436/ME 43600 ; Aerothermal Fluids Lab.md",
-    "ME 436/Labs/Pelton Wheel/Pelton Wheel.md",
     "ME 436/REDACTED/REDACTED/Aero-Thermal-Fluids/Resources/436 Aero Thermal/ME 436 - JC/ME 436/Flowsquare4.0/Flowsquare4.0/Test1/figs/figure-000003600.bmp",
     "ME 436/REDACTED/REDACTED/Aero-Thermal-Fluids/Resources/436 Aero Thermal/ME 436 - JC/ME 436/Flowsquare4.0/Flowsquare4.0/Test1/figs/figure-000003400.bmp",
     "ME 436/REDACTED/REDACTED/Aero-Thermal-Fluids/Resources/436 Aero Thermal/ME 436 - JC/ME 436/Flowsquare4.0/Flowsquare4.0/Test1/figs/figure-000003200.bmp",
