@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "cfe87a91a5419b34",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Resumes & Documents/Resumes.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "6f9c552114245835",
             "type": "leaf",
             "state": {
@@ -28,8 +16,41 @@
                 "file": "ME 436/ME43600_Aero_Thermal_Manual.pdf"
               }
             }
+          },
+          {
+            "id": "a47b7ff1301b22bc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ME 515/ME 51500_I0820 ; Orbital Mechanics.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2fb6b6a64be70680",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "ME 515/[Elsevier Aerospace Engineering Series] Howard D. Curtis - Orbital Mechanics For Engineering Students (2020, Elsevier_Butterworth-Heinemann).pdf"
+              }
+            }
+          },
+          {
+            "id": "7d8d072d08a1940d",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "ME 515/HW/f23hw5.pdf"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -110,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Resumes & Documents/Resumes.md",
+                "file": "ME 515/HW/f23hw5.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Resumes & Documents/Resumes.md",
+                "file": "ME 515/HW/f23hw5.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +171,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Resumes & Documents/Resumes.md"
+                "file": "ME 515/HW/f23hw5.pdf"
               }
             }
           },
@@ -216,7 +237,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 384
+    "width": 401,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -240,28 +262,28 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "cfe87a91a5419b34",
+  "active": "7d8d072d08a1940d",
   "lastOpenFiles": [
-    "Resumes & Documents/~$sume_JeremyManiago_Fall2023.docx",
+    "Resumes & Documents/~WRL3561.tmp",
+    "Resumes & Documents/~WRD3545.tmp",
+    "Resumes & Documents/~WRL2735.tmp",
+    "Resumes & Documents/~WRD2720.tmp",
+    "Resumes & Documents/~WRL2621.tmp",
+    "Resumes & Documents/~WRD2606.tmp",
+    "Resumes & Documents/~WRD3867.tmp",
+    "Resumes & Documents/~WRL3172.tmp",
+    "Resumes & Documents/~WRD3164.tmp",
+    "Resumes & Documents/~WRL3189.tmp",
+    "Resumes & Documents/~WRD3181.tmp",
+    "ME 515/ME 51500_I0820 ; Orbital Mechanics.md",
     "Templates/Daily Notes(Task Edition)/Journal/2023/October/2023-10-07.md",
     "ME 436/Labs/Pelton Wheel/Pelton Wheel.md",
-    "ME 436/ME43600_Aero_Thermal_Manual.pdf",
-    "ME 436/Labs/Pelton Wheel/DD668500",
-    "ME 436/Labs/Pelton Wheel/~WRL2186.tmp",
-    "ME 436/Labs/Pelton Wheel/~WRD2174.tmp",
-    "ME 436/Labs/Pelton Wheel/~WRD2166.tmp",
-    "ME 436/Labs/Pelton Wheel/JeremyManiago_peltonwheel.pdf",
-    "ME 436/Labs/Pelton Wheel/mso1BDF.tmp",
-    "ME 436/Labs/Pelton Wheel/~WRL3913.tmp",
-    "ME 436/Labs/Pelton Wheel/~WRD3898.tmp",
-    "ME 436/Labs/Pelton Wheel/~WRL0324.tmp",
     "Templates/Daily Notes(Task Edition)/Journal/2023/October/2023-10-06.md",
     "conflict-files-obsidian-git.md",
     "ME 436/Labs/Pelton Wheel/torque_vs_wheelspeed.png",
     "ME 436/Labs/Pelton Wheel/poweroutput_vs_wheelspeed.png",
     "ME 436/Labs/Pelton Wheel/efficiency_vs_wheelspeed_errorbars.png",
     "ME 436/Labs/Pelton Wheel/efficiency_vs_wheelspeed.png",
-    "ME 515/ME 51500_I0820 ; Orbital Mechanics.md",
     "Templates/Daily Notes(Task Edition)/Journal/2023/October/2023-10-04.md",
     "ME 436/ME 43600 ; Aerothermal Fluids Lab.md",
     "ME 436/REDACTED/REDACTED/Aero-Thermal-Fluids/Resources/436 Aero Thermal/ME 436 - JC/ME 436/Flowsquare4.0/Flowsquare4.0/Test1/figs/figure-000003600.bmp",
