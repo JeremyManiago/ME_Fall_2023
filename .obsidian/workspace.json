@@ -30,17 +30,17 @@
             }
           },
           {
-            "id": "2fb6b6a64be70680",
+            "id": "e16b609414d31f5f",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "ME 515/[Elsevier Aerospace Engineering Series] Howard D. Curtis - Orbital Mechanics For Engineering Students (2020, Elsevier_Butterworth-Heinemann).pdf"
+                "file": "ME 515/Lectures/Lecture Notes 4.pdf"
               }
             }
           },
           {
-            "id": "7d8d072d08a1940d",
+            "id": "fc1db52d1900ac03",
             "type": "leaf",
             "state": {
               "type": "pdf",
@@ -48,9 +48,21 @@
                 "file": "ME 515/HW/f23hw5.pdf"
               }
             }
+          },
+          {
+            "id": "de65e73764698a80",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Templates/Daily Notes(Task Edition)/Journal/2023/October/2023-10-08.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -131,7 +143,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ME 515/HW/f23hw5.pdf",
+                "file": "ME 515/Lectures/Lecture Notes 4.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +160,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ME 515/HW/f23hw5.pdf",
+                "file": "ME 515/Lectures/Lecture Notes 4.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -171,7 +183,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ME 515/HW/f23hw5.pdf"
+                "file": "ME 515/Lectures/Lecture Notes 4.pdf"
               }
             }
           },
@@ -237,8 +249,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 401,
-    "collapsed": true
+    "width": 364
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -262,20 +273,21 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "7d8d072d08a1940d",
+  "active": "e16b609414d31f5f",
   "lastOpenFiles": [
-    "Resumes & Documents/~WRL3561.tmp",
-    "Resumes & Documents/~WRD3545.tmp",
-    "Resumes & Documents/~WRL2735.tmp",
-    "Resumes & Documents/~WRD2720.tmp",
-    "Resumes & Documents/~WRL2621.tmp",
-    "Resumes & Documents/~WRD2606.tmp",
-    "Resumes & Documents/~WRD3867.tmp",
-    "Resumes & Documents/~WRL3172.tmp",
-    "Resumes & Documents/~WRD3164.tmp",
-    "Resumes & Documents/~WRL3189.tmp",
-    "Resumes & Documents/~WRD3181.tmp",
+    "ME 515/HW/sv_from_coe.asv",
+    "ME 515/HW/sv_from_coe.m",
     "ME 515/ME 51500_I0820 ; Orbital Mechanics.md",
+    "ME 515/Lectures/Lecture Notes 5.pdf",
+    "ME 515/Lectures/Lecture Notes 2.pdf",
+    "ME 515/HW/f23hw5.pdf",
+    "ME 515/[Elsevier Aerospace Engineering Series] Howard D. Curtis - Orbital Mechanics For Engineering Students (2020, Elsevier_Butterworth-Heinemann).pdf",
+    "ME 515/HW/f23hw4s.pdf",
+    "ME 515/Lectures/Lecture Notes 3.pdf",
+    "ME 515/Lectures/Lecture Notes 4.pdf",
+    "Templates/Daily Notes(Task Edition)/Journal/2023/October/2023-10-08.md",
+    "ME 515/HW/f23hw3s.pdf",
+    "ME 515/HW/f23hw2s.pdf",
     "Templates/Daily Notes(Task Edition)/Journal/2023/October/2023-10-07.md",
     "ME 436/Labs/Pelton Wheel/Pelton Wheel.md",
     "Templates/Daily Notes(Task Edition)/Journal/2023/October/2023-10-06.md",
@@ -309,7 +321,6 @@
     "INTL 201/Exams/Exam 1 Study Guide.md",
     "INTL 201/Lectures/Lecture 2.md",
     "INTL 201/Lectures/Lecture 1.md",
-    "Templates/Daily Notes(Task Edition)/Journal/2023/October/2023-10-03.md",
     "PPPL.canvas",
     "ME 433/Heat Transfer.canvas"
   ]
