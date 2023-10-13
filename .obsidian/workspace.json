@@ -28,31 +28,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "fc1db52d1900ac03",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "ME 515/HW/f23hw5.pdf"
-              }
-            }
-          },
-          {
-            "id": "f30246d1a048a554",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Resumes & Documents/Resumes.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -133,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ME 515/HW/f23hw5.pdf",
+                "file": "ME 515/ME 51500_I0820 ; Orbital Mechanics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ME 515/HW/f23hw5.pdf",
+                "file": "ME 515/ME 51500_I0820 ; Orbital Mechanics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -173,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ME 515/HW/f23hw5.pdf"
+                "file": "ME 515/ME 51500_I0820 ; Orbital Mechanics.md"
               }
             }
           },
@@ -263,21 +241,23 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "fc1db52d1900ac03",
+  "active": "a47b7ff1301b22bc",
   "lastOpenFiles": [
     "Resumes & Documents/Resumes.md",
-    "Resumes & Documents/~WRL0366.tmp",
-    "Resumes & Documents/~WRD0354.tmp",
+    "Resumes & Documents/~WRL0003.tmp",
     "Resumes & Documents/~$sume(2)_JeremyManiago_Fall2023.docx",
-    "Resumes & Documents/~WRL0764.tmp",
-    "Resumes & Documents/~WRD0760.tmp",
-    "Resumes & Documents/~WRL3549.tmp",
-    "Resumes & Documents/~WRD3545.tmp",
-    "Resumes & Documents/~WRD2562.tmp",
-    "Resumes & Documents/Resume(2)_JeremyManiago_Fall2023.docx",
-    "Resumes & Documents/Resume_JeremyManiago_Fall2023_John_Review - Copy.docx",
-    "Templates/Daily Notes(Task Edition)/Journal/2023/October/2023-10-09.md",
+    "Templates/Daily Notes(Task Edition)/Journal/2023/October/2023-10-12.md",
+    "Templates/Daily Notes(Task Edition)/Journal/2023/October/2023-10-10.md",
+    "Resumes & Documents/mso8A4C.tmp",
+    "Resumes & Documents/mso89DE.tmp",
+    "Resumes & Documents/~WRD0002.tmp",
+    "Resumes & Documents/msoB9FF.tmp",
+    "Resumes & Documents/msoB9A0.tmp",
+    "Resumes & Documents/~WRL0001.tmp",
+    "Resumes & Documents/~WRD0000.tmp",
+    "Resumes & Documents/Resume(2)_JeremyManiago_Fall2023.pdf",
     "ME 515/ME 51500_I0820 ; Orbital Mechanics.md",
+    "Templates/Daily Notes(Task Edition)/Journal/2023/October/2023-10-09.md",
     "Templates/Daily Notes(Task Edition)/Journal/2023/October/2023-10-08.md",
     "Templates/Daily Notes(Task Edition)/Journal/2023/October/2023-10-07.md",
     "ME 436/Labs/Pelton Wheel/Pelton Wheel.md",
@@ -308,8 +288,6 @@
     "ME 556/HW/ME I0800 HW.md",
     "ME 473/HW/Pick n Place/Project Requirements.md",
     "INTL 201/INTL 20100 ; International Studies - A Global Perspective.md",
-    "INTL 201/Exams/Exam 1 Study Guide.md",
-    "INTL 201/Lectures/Lecture 2.md",
     "PPPL.canvas",
     "ME 433/Heat Transfer.canvas"
   ]

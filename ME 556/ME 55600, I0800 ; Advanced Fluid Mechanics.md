@@ -24,7 +24,7 @@
 	+ [i] [[ME 55600_I0200 HW 4 Marangoni Effect-Solution.pdf]] 
 - [x] [[ME 55600_I0200 HW 5 Lubrication Approximation.docx]] 🔼 📅 2023-10-05 ✅ 2023-10-04
 	+ [*] [[HW5_integrationcheck.m]]
-- [ ] [[HW 6- Low Re Flow.pdf]] 🔽 📅 2023-10-12 
+- [ ] [[HW 6- Low Re Flow.pdf]] 🔽 ⏳ 2023-10-11 📅 2023-10-12
 	- [ ] 
 
 
