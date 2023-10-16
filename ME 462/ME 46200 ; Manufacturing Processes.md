@@ -23,7 +23,7 @@
 - [x] [[TurboCharger.SLDASM]]
 - [x] [[Rubeen_File_1.SLDPRT]]
 - [x] Reduce Rubeen File Cam < 22 mins
-- [/] Mini Project  🔼 📅 2023-10-09 
+- [x] Mini Project 🔼 📅 2023-10-09 ✅ 2023-10-13
 	+ [x] 3D CAD
 	+ [x] CAM
 	+ [ ] 2D drawings
