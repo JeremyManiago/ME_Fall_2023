@@ -13,20 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/Daily Notes(Task Edition)/Journal/2023/October/2023-10-13.md",
+                "file": "Resumes & Documents/Resumes.md",
                 "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1b0c14a5acfb1526",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Resumes & Documents/Applications.md",
-                "mode": "source",
                 "source": false
               }
             }
@@ -43,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -125,6 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Resumes & Documents/Resumes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,6 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Resumes & Documents/Resumes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +151,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Resumes & Documents/Resumes.md"
+              }
             }
           },
           {
@@ -251,11 +242,16 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "59eb704e826dc2c7",
+  "active": "f9b90eb60b8e96b7",
   "lastOpenFiles": [
-    "Resumes & Documents/Applications.md",
-    "Resumes & Documents/Resumes.md",
     "Templates/Daily Notes(Task Edition)/Journal/2023/October/2023-10-13.md",
+    "Resumes & Documents/Resume(2)_JeremyManiago_Fall2023.pdf",
+    "ME 515/ME 51500_I0820 ; Orbital Mechanics.md",
+    "ME 556/ME 55600, I0800 ; Advanced Fluid Mechanics.md",
+    "Resumes & Documents/Applications.md",
+    "conflict-files-obsidian-git.md",
+    "Templates/Daily Notes(Task Edition)/Journal/2023/October/2023-10-12.md",
+    "Resumes & Documents/Resumes.md",
     "Resumes & Documents/~WRL1236.tmp",
     "Resumes & Documents/~WRD1221.tmp",
     "Resumes & Documents/~WRL3484.tmp",
@@ -265,7 +261,6 @@
     "Resumes & Documents/~WRL0001.tmp",
     "Resumes & Documents/~WRD0000.tmp",
     "Resumes & Documents/Resume(2)_JeremyManiago_Fall2023.docx",
-    "ME 515/HW/f23hw3s.pdf",
     "Templates/Daily Notes(Task Edition)/Journal/2023/October/2023-10-11.md",
     "ME 436/Labs/Pelton Wheel/efficiency_vs_wheelspeed_errorbars.png",
     "ME 436/Labs/Pelton Wheel/efficiency_vs_wheelspeed.png",
@@ -274,7 +269,6 @@
     "README.md",
     "ME 436/Labs/Pelton Wheel/Pelton Wheel.md",
     "Templates/Daily Notes(Task Edition)/Journal/2023/October/2023-10-06.md",
-    "ME 556/ME 55600, I0800 ; Advanced Fluid Mechanics.md",
     "Templates/Daily Notes(Task Edition)/Journal/2023/October/2023-10-04.md",
     "Templates/Daily Notes(Task Edition)/Journal/2023/October/2023-10-03.md",
     "Resumes & Documents/PXL_20221204_213934399_6.jpg",
@@ -294,10 +288,6 @@
     "INTL 201/Readings/Untitled.md",
     "INTL 201/Lectures/attachments/Pasted image 20231001182201.png",
     "Templates/Daily Notes(Task Edition)/Journal/2023/September/2023-09-29.md",
-    "Templates/Daily Notes(Task Edition)/Journal/2023/October/2023-10-01.md",
-    "ME 473/HW/Pick n Place/Project Requirements.md",
-    "ME 462/Lecture HW/Homework 1.md",
-    "ME 462/ME 46200 ; Manufacturing Processes.md",
     "ME 515/HW/attachments/Pasted image 20230925105754.png",
     "PPPL.canvas",
     "ME 433/Heat Transfer.canvas"
