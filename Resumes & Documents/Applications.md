@@ -1,5 +1,3 @@
-
----
 ## Full-time
 - [ ] Raytheon/Pratt&Whitney
 - [-] Boeing
