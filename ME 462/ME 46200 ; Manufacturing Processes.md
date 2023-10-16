@@ -26,6 +26,7 @@
 - [x] Mini Project 🔼 📅 2023-10-09 ✅ 2023-10-13
 	+ [x] 3D CAD
 	+ [x] CAM
-	+ [ ] 2D drawings
-	+ [ ] Report
-		+ [ ] improvements to design
+	+ [x] 2D drawings
+	+ [x] Report
+		+ [x] improvements to design
++ [ ] 

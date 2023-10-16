@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "e2cbb21307fc9c89",
+        "id": "172c5973fb32d861",
         "type": "tabs",
         "children": [
           {
-            "id": "f9b90eb60b8e96b7",
+            "id": "6f9c552114245835",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -18,21 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "97cef956c8de1e65",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -51,7 +38,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "byModifiedTime"
               }
             }
           },
@@ -96,7 +83,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 285
+    "width": 258
   },
   "right": {
     "id": "9aeb1fe491dff90c",
@@ -113,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Resumes & Documents/Applications.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Resumes & Documents/Applications.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "conflict-files-obsidian-git.md"
+                "file": "Resumes & Documents/Applications.md"
               }
             }
           },
@@ -219,7 +206,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 351
+    "width": 542
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -243,54 +230,54 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "97cef956c8de1e65",
+  "active": "6f9c552114245835",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
-    "Resumes & Documents/Applications.md",
-    "Resumes & Documents/Resumes.md",
-    "Templates/Daily Notes(Task Edition)/Journal/2023/October/2023-10-15.md",
-    "Templates/Daily Notes(Task Edition)/Journal/2023/October/2023-10-13.md",
-    "Resumes & Documents/Resume(2)_JeremyManiago_Fall2023.pdf",
-    "ME 515/ME 51500_I0820 ; Orbital Mechanics.md",
     "ME 556/ME 55600, I0800 ; Advanced Fluid Mechanics.md",
-    "Templates/Daily Notes(Task Edition)/Journal/2023/October/2023-10-12.md",
-    "Resumes & Documents/~WRL1236.tmp",
-    "Resumes & Documents/~WRD1221.tmp",
-    "Resumes & Documents/~WRL3484.tmp",
-    "Resumes & Documents/~WRD0005.tmp",
-    "Resumes & Documents/~WRL0004.tmp",
-    "Resumes & Documents/~WRD0002.tmp",
+    "ME 515/ME 51500_I0820 ; Orbital Mechanics.md",
+    "ME 462/ME 46200 ; Manufacturing Processes.md",
+    "Templates/Daily Notes(Task Edition)/Journal/2023/October/2023-10-13.md",
+    "Resumes & Documents/Applications.md",
+    "Templates/Daily Notes(Task Edition)/Journal/2023/October/2023-10-15.md",
+    "Resumes & Documents/Resumes.md",
+    "Resumes & Documents/Resume(2)_JeremyManiago_Fall2023.pdf",
+    "Resumes & Documents/msoEFDC.tmp",
+    "Resumes & Documents/msoEF7D.tmp",
     "Resumes & Documents/~WRL0001.tmp",
     "Resumes & Documents/~WRD0000.tmp",
-    "Resumes & Documents/Resume(2)_JeremyManiago_Fall2023.docx",
-    "Templates/Daily Notes(Task Edition)/Journal/2023/October/2023-10-11.md",
-    "ME 436/Labs/Pelton Wheel/efficiency_vs_wheelspeed_errorbars.png",
-    "ME 436/Labs/Pelton Wheel/efficiency_vs_wheelspeed.png",
-    "ME 436/Labs/Pelton Wheel/poweroutput_vs_wheelspeed.png",
-    "ME 436/Labs/Pelton Wheel/torque_vs_wheelspeed.png",
+    "Resumes & Documents/mso8D47.tmp",
+    "Templates/Daily Notes(Task Edition)/Journal/2023/October/2023-10-12.md",
+    "ME 436/ME43600_Aero_Thermal_Manual.pdf",
     "README.md",
+    "Resumes & Documents/~WRL0003.tmp",
+    "Resumes & Documents/~$sume(2)_JeremyManiago_Fall2023.docx",
+    "Templates/Daily Notes(Task Edition)/Journal/2023/October/2023-10-10.md",
+    "Resumes & Documents/mso8A4C.tmp",
+    "Templates/Daily Notes(Task Edition)/Journal/2023/October/2023-10-09.md",
+    "Templates/Daily Notes(Task Edition)/Journal/2023/October/2023-10-08.md",
+    "Templates/Daily Notes(Task Edition)/Journal/2023/October/2023-10-07.md",
     "ME 436/Labs/Pelton Wheel/Pelton Wheel.md",
     "Templates/Daily Notes(Task Edition)/Journal/2023/October/2023-10-06.md",
+    "conflict-files-obsidian-git.md",
+    "ME 436/Labs/Pelton Wheel/torque_vs_wheelspeed.png",
+    "ME 436/Labs/Pelton Wheel/poweroutput_vs_wheelspeed.png",
+    "ME 436/Labs/Pelton Wheel/efficiency_vs_wheelspeed_errorbars.png",
+    "ME 436/Labs/Pelton Wheel/efficiency_vs_wheelspeed.png",
     "Templates/Daily Notes(Task Edition)/Journal/2023/October/2023-10-04.md",
-    "Templates/Daily Notes(Task Edition)/Journal/2023/October/2023-10-03.md",
-    "Resumes & Documents/PXL_20221204_213934399_6.jpg",
-    "Resumes & Documents/0002.jpg",
-    "Resumes & Documents/0001.jpg",
-    "ME 473/HW/Pick n Place/Pick n Place.md",
-    "ME 462/Lab HW/TurboCharger/TurboCharger.md",
+    "ME 436/ME 43600 ; Aerothermal Fluids Lab.md",
+    "ME 436/REDACTED/REDACTED/Aero-Thermal-Fluids/Resources/436 Aero Thermal/ME 436 - JC/ME 436/Flowsquare4.0/Flowsquare4.0/Test1/figs/figure-000003600.bmp",
+    "ME 436/REDACTED/REDACTED/Aero-Thermal-Fluids/Resources/436 Aero Thermal/ME 436 - JC/ME 436/Flowsquare4.0/Flowsquare4.0/Test1/figs/figure-000003400.bmp",
+    "ME 436/REDACTED/REDACTED/Aero-Thermal-Fluids/Resources/436 Aero Thermal/ME 436 - JC/ME 436/Flowsquare4.0/Flowsquare4.0/Test1/figs/figure-000003200.bmp",
+    "ME 436/REDACTED/REDACTED/Aero-Thermal-Fluids/Resources/436 Aero Thermal/ME 436 - JC/ME 436/Flowsquare4.0/Flowsquare4.0/Test1/figs/figure-000003000.bmp",
+    "ME 436/REDACTED/REDACTED/Aero-Thermal-Fluids/Resources/436 Aero Thermal/ME 436 - JC/ME 436/Flowsquare4.0/Flowsquare4.0/Test1/figs/figure-000002800.bmp",
+    "ME 436/REDACTED/REDACTED/Aero-Thermal-Fluids/Resources/436 Aero Thermal/ME 436 - JC/ME 436/Flowsquare4.0/Flowsquare4.0/Test1/figs/figure-000002600.bmp",
     "ME 436/Labs/Viscous Pipe/Viscous Pipe Flow.md",
-    "INTL 201/Lectures/Lecture 7.md",
-    "INTL 201/Lectures/Lecture 6.md",
-    "Templates/Daily Notes(Task Edition)/Journal/2023/October/2023-10-02.md",
-    "INTL 201/Lectures/Lecture 5.md",
-    "INTL 201/INTL 20100 ; International Studies - A Global Perspective.md",
-    "INTL 201/Lectures/attachments/Pasted image 20231002110123.png",
-    "INTL 201/Lectures/Lecture 2.md",
-    "INTL 201/Lectures/Lecture 1.md",
-    "INTL 201/Readings/Untitled.md",
-    "INTL 201/Lectures/attachments/Pasted image 20231001182201.png",
-    "Templates/Daily Notes(Task Edition)/Journal/2023/September/2023-09-29.md",
-    "ME 515/HW/attachments/Pasted image 20230925105754.png",
+    "ME 462/Lab HW/TurboCharger/TurboCharger.md",
+    "ME 515/HW/HW 1.md",
+    "ME 473/ME 47300 I ; Senior Design.md",
+    "ME 473/HW/Pick n Place/Pick n Place.md",
+    "ME 462/Lecture HW/Homework 1.md",
+    "Templates/Daily Notes(Task Edition)/Journal/delete.md",
+    "ME 473/AIAA Logbook/Day 2.md",
     "PPPL.canvas",
     "ME 433/Heat Transfer.canvas"
   ]
