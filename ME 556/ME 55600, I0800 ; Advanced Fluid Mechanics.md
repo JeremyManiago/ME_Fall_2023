@@ -11,6 +11,7 @@
 + [[IV. Scaling & Hydrodynamic Paremeters - Word 14.pdf]]
 + [[V. Lubrication Theory -Word 14.pdf]]
 + [[VI. Low Reynolds Number Hydrodynamics +.pdf]]
++ [[VII. Boundary Layer Theory (1).pdf]]
 
 ---
 ## Homeworks
@@ -24,8 +25,11 @@
 	+ [i] [[ME 55600_I0200 HW 4 Marangoni Effect-Solution.pdf]] 
 - [x] [[ME 55600_I0200 HW 5 Lubrication Approximation.docx]] 🔼 📅 2023-10-05 ✅ 2023-10-04
 	+ [*] [[HW5_integrationcheck.m]]
+	+ [i] [[ME I0800 HW 5 Lubrication Approximation-Solution.pdf]]
 - [x] [[HW 6- Low Re Flow.pdf]] 🔽 📅 2023-10-12 ✅ 2023-10-13
-	- [ ] 
+	- [i] [[HW 6- Solution.pdf]]
+- [ ] [[ME I0800 HW 7 Boundary Layer Theory.pdf]] 🔼 📅 2023-10-19 
+	- [i] 
 
 ---
 ## Projects
