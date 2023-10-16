@@ -13,25 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Resumes & Documents/Resumes.md",
-                "mode": "preview",
+                "file": "Resumes & Documents/Applications.md",
+                "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "5ae9954a1d993b38",
+            "id": "97cef956c8de1e65",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ME 436/Labs/Pelton Wheel/Pelton Wheel.md",
+                "file": "conflict-files-obsidian-git.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -112,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Resumes & Documents/Resumes.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Resumes & Documents/Resumes.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Resumes & Documents/Resumes.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           },
@@ -242,16 +243,17 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "f9b90eb60b8e96b7",
+  "active": "97cef956c8de1e65",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "Resumes & Documents/Applications.md",
+    "Resumes & Documents/Resumes.md",
+    "Templates/Daily Notes(Task Edition)/Journal/2023/October/2023-10-15.md",
     "Templates/Daily Notes(Task Edition)/Journal/2023/October/2023-10-13.md",
     "Resumes & Documents/Resume(2)_JeremyManiago_Fall2023.pdf",
     "ME 515/ME 51500_I0820 ; Orbital Mechanics.md",
     "ME 556/ME 55600, I0800 ; Advanced Fluid Mechanics.md",
-    "Resumes & Documents/Applications.md",
-    "conflict-files-obsidian-git.md",
     "Templates/Daily Notes(Task Edition)/Journal/2023/October/2023-10-12.md",
-    "Resumes & Documents/Resumes.md",
     "Resumes & Documents/~WRL1236.tmp",
     "Resumes & Documents/~WRD1221.tmp",
     "Resumes & Documents/~WRL3484.tmp",
