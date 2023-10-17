@@ -125,7 +125,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Templates/Daily Notes(Task Edition)/Journal/2023/October/2023-10-17.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +141,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Templates/Daily Notes(Task Edition)/Journal/2023/October/2023-10-17.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -165,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/Daily Notes(Task Edition)/Journal/2023/October/2023-10-17.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           },
@@ -255,27 +253,34 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "01531bda69bfa3bb",
+  "active": "bed6014f008039c4",
   "lastOpenFiles": [
-    "ME 556/Lectures/VII. Boundary Layer Theory (1).pdf",
+    "ME 436/Labs/Viscous Pipe/Viscous Pipe Flow.md",
+    "ME 436/Labs/Viscous Pipe",
     "Templates/Daily Notes(Task Edition)/Journal/2023/October/2023-10-17.md",
-    "ME 556/ME 55600, I0800 ; Advanced Fluid Mechanics.md",
-    "ME 556/HW/HW Solutions/ME I0800 HW 5 Lubrication Approximation-Solution.pdf",
-    "ME 556/HW/ME I0800 HW 7 Boundary Layer Theory.pdf",
-    "ME 556/HW/Unconfirmed 737399.crdownload",
-    "ME 556/HW/HW Solutions/HW 6- Solution.pdf",
-    "ME 556/HW/HW Solutions/Unconfirmed 332074.crdownload",
-    "ME 556/HW/HW Solutions/Unconfirmed 459660.crdownload",
-    "ME 556/Lectures/Unconfirmed 135342.crdownload",
-    "Resumes & Documents/Applications.md",
+    "conflict-files-obsidian-git.md",
     "Templates/Daily Notes(Task Edition)/Journal/2023/October/2023-10-16.md",
+    "ME 515/HW/f23hw6s.pdf",
+    "ME 515/HW/f23hw6.pdf",
+    "ME 515/HW/f23hw5s.pdf",
+    "ME 436/attachments/Pasted image 20231016223522.png",
+    "ME 436/attachments",
+    "ME 436/Labs/Viscous Flow in a Pipe/viscous_pipe_rawdata.xlsx",
+    "ME 436/Labs/Viscous Flow in a Pipe/Viscous Flow in a Pipe.md",
+    "ME 436/Labs/Viscous Flow in a Pipe/JeremyManiago_viscouspipe.docx",
+    "ME 436/Labs/Viscous Flow in a Pipe",
+    "INTL 201/Readings/Graeber(1).pdf",
+    "INTL 201/Readings/FrankJLechnerJo_2015_Chapter59GlobalIndian_TheGlobalizationReade.pdf",
+    "INTL 201/Lectures/Lecture 9.md",
+    "INTL 201/Lectures/Lecture 8.md",
+    "INTL 201/Lectures/Lecture 10.md",
+    "ME 556/ME 55600, I0800 ; Advanced Fluid Mechanics.md",
+    "Resumes & Documents/Applications.md",
     "ME 515/ME 51500_I0820 ; Orbital Mechanics.md",
     "ME 462/ME 46200 ; Manufacturing Processes.md",
     "Templates/Daily Notes(Task Edition)/Journal/2023/October/2023-10-13.md",
     "Templates/Daily Notes(Task Edition)/Journal/2023/October/2023-10-15.md",
     "Resumes & Documents/Resumes.md",
-    "Resumes & Documents/Resume(2)_JeremyManiago_Fall2023.pdf",
-    "Resumes & Documents/msoEFDC.tmp",
     "Templates/Daily Notes(Task Edition)/Journal/2023/October/2023-10-12.md",
     "README.md",
     "Templates/Daily Notes(Task Edition)/Journal/2023/October/2023-10-10.md",
@@ -284,7 +289,6 @@
     "Templates/Daily Notes(Task Edition)/Journal/2023/October/2023-10-07.md",
     "ME 436/Labs/Pelton Wheel/Pelton Wheel.md",
     "Templates/Daily Notes(Task Edition)/Journal/2023/October/2023-10-06.md",
-    "conflict-files-obsidian-git.md",
     "ME 436/Labs/Pelton Wheel/torque_vs_wheelspeed.png",
     "ME 436/Labs/Pelton Wheel/poweroutput_vs_wheelspeed.png",
     "ME 436/Labs/Pelton Wheel/efficiency_vs_wheelspeed_errorbars.png",
@@ -296,12 +300,6 @@
     "ME 436/REDACTED/REDACTED/Aero-Thermal-Fluids/Resources/436 Aero Thermal/ME 436 - JC/ME 436/Flowsquare4.0/Flowsquare4.0/Test1/figs/figure-000003200.bmp",
     "ME 436/REDACTED/REDACTED/Aero-Thermal-Fluids/Resources/436 Aero Thermal/ME 436 - JC/ME 436/Flowsquare4.0/Flowsquare4.0/Test1/figs/figure-000003000.bmp",
     "ME 436/REDACTED/REDACTED/Aero-Thermal-Fluids/Resources/436 Aero Thermal/ME 436 - JC/ME 436/Flowsquare4.0/Flowsquare4.0/Test1/figs/figure-000002800.bmp",
-    "ME 436/REDACTED/REDACTED/Aero-Thermal-Fluids/Resources/436 Aero Thermal/ME 436 - JC/ME 436/Flowsquare4.0/Flowsquare4.0/Test1/figs/figure-000002600.bmp",
-    "ME 436/Labs/Viscous Pipe/Viscous Pipe Flow.md",
-    "ME 462/Lab HW/TurboCharger/TurboCharger.md",
-    "ME 515/HW/HW 1.md",
-    "ME 473/ME 47300 I ; Senior Design.md",
-    "ME 473/HW/Pick n Place/Pick n Place.md",
     "PPPL.canvas",
     "ME 433/Heat Transfer.canvas"
   ]
