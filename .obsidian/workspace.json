@@ -20,12 +20,26 @@
             }
           },
           {
-            "id": "037b16fc81a06269",
+            "id": "11b597d38faaf4ac",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.4.16"
+                "file": "ME 515/ME 51500_I0820 ; Orbital Mechanics.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f743d3c7255212d6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ME 556/ME 55600, I0800 ; Advanced Fluid Mechanics.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -111,6 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "ME 515/ME 51500_I0820 ; Orbital Mechanics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,6 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "ME 515/ME 51500_I0820 ; Orbital Mechanics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +164,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "ME 515/ME 51500_I0820 ; Orbital Mechanics.md"
+              }
             }
           },
           {
@@ -237,28 +255,27 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "bed6014f008039c4",
+  "active": "11b597d38faaf4ac",
   "lastOpenFiles": [
+    "ME 515/HW/f23hw6s.pdf",
+    "ME 515/ME 51500_I0820 ; Orbital Mechanics.md",
+    "ME 515/HW/Unconfirmed 486242.crdownload",
+    "ME 515/HW/f23hw6.pdf",
+    "ME 515/HW/Unconfirmed 293350.crdownload",
+    "ME 515/HW/f23hw5s.pdf",
+    "ME 515/HW/Unconfirmed 795293.crdownload",
+    "ME 556/ME 55600, I0800 ; Advanced Fluid Mechanics.md",
+    "Resumes & Documents/Applications.md",
     "ME 556/Lectures/VII. Boundary Layer Theory (1).pdf",
     "ME 556/HW/ME I0800 HW 7 Boundary Layer Theory.pdf",
     "ME 556/HW/HW Solutions/ME I0800 HW 5 Lubrication Approximation-Solution.pdf",
     "ME 556/HW/HW Solutions/HW 6- Solution.pdf",
     "Templates/Daily Notes(Task Edition)/Journal/2023/October/2023-10-16.md",
-    "ME 556/ME 55600, I0800 ; Advanced Fluid Mechanics.md",
-    "ME 515/ME 51500_I0820 ; Orbital Mechanics.md",
     "ME 462/ME 46200 ; Manufacturing Processes.md",
     "Templates/Daily Notes(Task Edition)/Journal/2023/October/2023-10-13.md",
-    "Resumes & Documents/Applications.md",
     "Templates/Daily Notes(Task Edition)/Journal/2023/October/2023-10-15.md",
     "Resumes & Documents/Resumes.md",
-    "Resumes & Documents/Resume(2)_JeremyManiago_Fall2023.pdf",
-    "Resumes & Documents/msoEFDC.tmp",
-    "Resumes & Documents/msoEF7D.tmp",
-    "Resumes & Documents/~WRL0001.tmp",
-    "Resumes & Documents/~WRD0000.tmp",
-    "Resumes & Documents/mso8D47.tmp",
     "Templates/Daily Notes(Task Edition)/Journal/2023/October/2023-10-12.md",
-    "ME 436/ME43600_Aero_Thermal_Manual.pdf",
     "README.md",
     "Templates/Daily Notes(Task Edition)/Journal/2023/October/2023-10-10.md",
     "Templates/Daily Notes(Task Edition)/Journal/2023/October/2023-10-09.md",
