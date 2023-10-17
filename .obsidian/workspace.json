@@ -35,9 +35,11 @@
             "id": "01531bda69bfa3bb",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "ME 556/Lectures/VII. Boundary Layer Theory (1).pdf"
+                "file": "Templates/Daily Notes(Task Edition)/Journal/2023/October/2023-10-17.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -123,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ME 556/Lectures/VII. Boundary Layer Theory (1).pdf",
+                "file": "Templates/Daily Notes(Task Edition)/Journal/2023/October/2023-10-17.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ME 556/Lectures/VII. Boundary Layer Theory (1).pdf",
+                "file": "Templates/Daily Notes(Task Edition)/Journal/2023/October/2023-10-17.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +165,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ME 556/Lectures/VII. Boundary Layer Theory (1).pdf"
+                "file": "Templates/Daily Notes(Task Edition)/Journal/2023/October/2023-10-17.md"
               }
             }
           },
@@ -255,6 +257,8 @@
   },
   "active": "01531bda69bfa3bb",
   "lastOpenFiles": [
+    "ME 556/Lectures/VII. Boundary Layer Theory (1).pdf",
+    "Templates/Daily Notes(Task Edition)/Journal/2023/October/2023-10-17.md",
     "ME 556/ME 55600, I0800 ; Advanced Fluid Mechanics.md",
     "ME 556/HW/HW Solutions/ME I0800 HW 5 Lubrication Approximation-Solution.pdf",
     "ME 556/HW/ME I0800 HW 7 Boundary Layer Theory.pdf",
@@ -262,7 +266,6 @@
     "ME 556/HW/HW Solutions/HW 6- Solution.pdf",
     "ME 556/HW/HW Solutions/Unconfirmed 332074.crdownload",
     "ME 556/HW/HW Solutions/Unconfirmed 459660.crdownload",
-    "ME 556/Lectures/VII. Boundary Layer Theory (1).pdf",
     "ME 556/Lectures/Unconfirmed 135342.crdownload",
     "Resumes & Documents/Applications.md",
     "Templates/Daily Notes(Task Edition)/Journal/2023/October/2023-10-16.md",
@@ -299,7 +302,6 @@
     "ME 515/HW/HW 1.md",
     "ME 473/ME 47300 I ; Senior Design.md",
     "ME 473/HW/Pick n Place/Pick n Place.md",
-    "ME 462/Lecture HW/Homework 1.md",
     "PPPL.canvas",
     "ME 433/Heat Transfer.canvas"
   ]
