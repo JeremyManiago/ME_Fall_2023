@@ -125,6 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Templates/Daily Notes(Task Edition)/Journal/2023/October/2023-10-17.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,6 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Templates/Daily Notes(Task Edition)/Journal/2023/October/2023-10-17.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +165,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "conflict-files-obsidian-git.md"
+                "file": "Templates/Daily Notes(Task Edition)/Journal/2023/October/2023-10-17.md"
               }
             }
           },
@@ -253,7 +255,7 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "bed6014f008039c4",
+  "active": "01531bda69bfa3bb",
   "lastOpenFiles": [
     "ME 436/Labs/Viscous Pipe/Viscous Pipe Flow.md",
     "ME 436/Labs/Viscous Pipe",
