@@ -32,6 +32,18 @@
             }
           },
           {
+            "id": "aceca31c3861ae7e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Templates/Daily Notes(Task Edition)/Journal/2023/October/2023-10-16.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "f743d3c7255212d6",
             "type": "leaf",
             "state": {
@@ -44,7 +56,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -125,7 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ME 515/ME 51500_I0820 ; Orbital Mechanics.md",
+                "file": "Templates/Daily Notes(Task Edition)/Journal/2023/October/2023-10-16.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +154,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ME 515/ME 51500_I0820 ; Orbital Mechanics.md",
+                "file": "Templates/Daily Notes(Task Edition)/Journal/2023/October/2023-10-16.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -165,7 +177,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ME 515/ME 51500_I0820 ; Orbital Mechanics.md"
+                "file": "Templates/Daily Notes(Task Edition)/Journal/2023/October/2023-10-16.md"
               }
             }
           },
@@ -255,22 +267,27 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "11b597d38faaf4ac",
+  "active": "aceca31c3861ae7e",
   "lastOpenFiles": [
-    "ME 515/HW/f23hw6s.pdf",
+    "Templates/Daily Notes(Task Edition)/Journal/2023/October/2023-10-09.md",
+    "Templates/Daily Notes(Task Edition)/Journal/2023/October/2023-10-16.md",
+    "INTL 201/INTL 20100 ; International Studies - A Global Perspective.md",
     "ME 515/ME 51500_I0820 ; Orbital Mechanics.md",
-    "ME 515/HW/Unconfirmed 486242.crdownload",
-    "ME 515/HW/f23hw6.pdf",
-    "ME 515/HW/Unconfirmed 293350.crdownload",
-    "ME 515/HW/f23hw5s.pdf",
-    "ME 515/HW/Unconfirmed 795293.crdownload",
+    "INTL 201/Lectures/Lecture 8.md",
+    "INTL 201/Lectures/Lecture 10.md",
+    "INTL 201/Lectures/Lecture 9.md",
+    "INTL 201/Lectures/Week6_lecture_2021_SU2023_Lecture10.pdf",
+    "INTL 201/Lectures/Unconfirmed 286942.crdownload",
+    "INTL 201/Lectures/Week7_lecture_SU2023_Lecture9(1).pdf",
+    "INTL 201/Week7_lecture_SU2023_Lecture9(1).pdf",
+    "INTL 201/Readings/Biao_Body_Shop100-115.pdf",
+    "INTL 201/Readings/Unconfirmed 263399.crdownload",
+    "INTL 201/Readings/Castells_Networke_Society.pdf",
+    "INTL 201/Readings/Unconfirmed 827672.crdownload",
+    "INTL 201/Readings/FrankJLechnerJo_2015_Chapter59GlobalIndian_TheGlobalizationReade.pdf",
+    "INTL 201/Readings/Unconfirmed 948602.crdownload",
     "ME 556/ME 55600, I0800 ; Advanced Fluid Mechanics.md",
     "Resumes & Documents/Applications.md",
-    "ME 556/Lectures/VII. Boundary Layer Theory (1).pdf",
-    "ME 556/HW/ME I0800 HW 7 Boundary Layer Theory.pdf",
-    "ME 556/HW/HW Solutions/ME I0800 HW 5 Lubrication Approximation-Solution.pdf",
-    "ME 556/HW/HW Solutions/HW 6- Solution.pdf",
-    "Templates/Daily Notes(Task Edition)/Journal/2023/October/2023-10-16.md",
     "ME 462/ME 46200 ; Manufacturing Processes.md",
     "Templates/Daily Notes(Task Edition)/Journal/2023/October/2023-10-13.md",
     "Templates/Daily Notes(Task Edition)/Journal/2023/October/2023-10-15.md",
@@ -278,7 +295,6 @@
     "Templates/Daily Notes(Task Edition)/Journal/2023/October/2023-10-12.md",
     "README.md",
     "Templates/Daily Notes(Task Edition)/Journal/2023/October/2023-10-10.md",
-    "Templates/Daily Notes(Task Edition)/Journal/2023/October/2023-10-09.md",
     "Templates/Daily Notes(Task Edition)/Journal/2023/October/2023-10-08.md",
     "Templates/Daily Notes(Task Edition)/Journal/2023/October/2023-10-07.md",
     "ME 436/Labs/Pelton Wheel/Pelton Wheel.md",
@@ -299,9 +315,6 @@
     "ME 436/Labs/Viscous Pipe/Viscous Pipe Flow.md",
     "ME 462/Lab HW/TurboCharger/TurboCharger.md",
     "ME 515/HW/HW 1.md",
-    "ME 473/ME 47300 I ; Senior Design.md",
-    "ME 473/HW/Pick n Place/Pick n Place.md",
-    "ME 462/Lecture HW/Homework 1.md",
     "PPPL.canvas",
     "ME 433/Heat Transfer.canvas"
   ]

@@ -44,7 +44,25 @@
 - [ ] ***[[Lecture 7]]***
 	- [ ] Video: https://youtu.be/ktb0B-i4HEQ
 	- [ ] Lecture: [[Week6_lecture_SU2023_Lecture7(1).pdf]]
+	- [ ] Required Reading: None
+
+- [ ] ***[[Lecture 8]]***
+	- [ ] Video: https://youtu.be/o8eJAwJq7qQ
+	- [ ] Lecture: [[Week7_lecture_SU2023_Lecture8.pdf]]
+	- [ ] Required Reading: Graeber, David. “Value: Anthropological Theories of Value,” in A Handbook of Economic Anthropology, edited by James Carrier, (Northampton, MA: Edward Elgar, 2005), 439-454. [[Graeber(1).pdf]]
+
+- [ ] ***[[Lecture 9]]***
+	- [ ] Video: https://youtu.be/mfn8Gf5xeAc
+	- [ ] Lecture: 
 	- [ ] Required Reading: 
+		- Required Reading 1. • Radhakrishnan, Smitha. Global/Indian. Cultural Politics in the IT Workplace. In Lechner, Frank J. and Boli, John. The Globalization Reader. 5th ed. (Wiley, 2014) (Chapter 59, pp.469-476). [[FrankJLechnerJo_2015_Chapter59GlobalIndian_TheGlobalizationReade.pdf]]
+		- Required Reading 2. • Manuel Castells, 1996. The Transformation of Work and Employment: Networkers, Jobless, and Flextimers. In: The Rise of the Network Society. Blackwell. (pp. 281-283 and 300-302). [[Castells_Networke_Society.pdf]]
+		- Required Reading 3. Biao, Xiang 2007. From: Global “Body Shopping:” An Indian labor System in the Information Technology Industry”. Princeton University Press (pp. 100-102; 109-115). [[Biao_Body_Shop100-115.pdf]]
+
+- [ ] ***[[Lecture 10]]***
+	- [ ] Video: https://youtu.be/LcUlpJ0aWbM
+	- [ ] Lecture: [[Week6_lecture_2021_SU2023_Lecture10.pdf]]
+	- [ ] Required Reading: Steger, Manfred. Globalization: A Very Short Introduction. 5th ed. Oxford, 2020. (pp. 37-54; 59-62)
 
 
 ---
