@@ -1,6 +1,6 @@
 ## Full-time
 
-- [ ] Raytheon/Pratt&Whitney ⏫ 
+- [ ] Raytheon/Pratt&Whitney ⏫
 	- [ ] [P&W Engineering Jobs - USA Canada (rtx.com)](https://careers.rtx.com/pratt-and-whitney-engineering-jobs)
 		- Design
 		- Structural

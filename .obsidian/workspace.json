@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "56c493fb065adf5a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Resumes & Documents/Resumes.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "11b597d38faaf4ac",
             "type": "leaf",
             "state": {
@@ -32,14 +44,70 @@
             }
           },
           {
-            "id": "aceca31c3861ae7e",
+            "id": "edd3f446b099fad8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/Daily Notes(Task Edition)/Journal/2023/October/2023-10-16.md",
-                "mode": "preview",
+                "file": "INTL 201/INTL 20100 ; International Studies - A Global Perspective.md",
+                "mode": "source",
                 "source": false
+              }
+            }
+          },
+          {
+            "id": "a080f3a5e7d08e24",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ME 462/ME 46200 ; Manufacturing Processes.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "13bd112198dbdd0b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ME 436/ME 43600 ; Aerothermal Fluids Lab.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "14e8913d1365b99f",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "ME 436/Intro_Lecture.pdf"
+              }
+            }
+          },
+          {
+            "id": "918feb00147f402c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ME 436/Labs/Viscous Flow in a Pipe/Viscous Flow in a Pipe.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "975dae27606fb93e",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "ME 436/ME43600_Aero_Thermal_Manual.pdf"
               }
             }
           },
@@ -56,7 +124,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -137,7 +205,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Templates/Daily Notes(Task Edition)/Journal/2023/October/2023-10-16.md",
+                "file": "Resumes & Documents/Resumes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -154,7 +222,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Templates/Daily Notes(Task Edition)/Journal/2023/October/2023-10-16.md",
+                "file": "Resumes & Documents/Resumes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -177,7 +245,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/Daily Notes(Task Edition)/Journal/2023/October/2023-10-16.md"
+                "file": "Resumes & Documents/Resumes.md"
               }
             }
           },
@@ -267,28 +335,33 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "aceca31c3861ae7e",
+  "active": "56c493fb065adf5a",
   "lastOpenFiles": [
-    "Templates/Daily Notes(Task Edition)/Journal/2023/October/2023-10-09.md",
-    "Templates/Daily Notes(Task Edition)/Journal/2023/October/2023-10-16.md",
+    "Resumes & Documents/Applications.md",
+    "ME 436/ME 43600 ; Aerothermal Fluids Lab.md",
+    "ME 436/Labs/Viscous Flow in a Pipe/~WRL0001.tmp",
+    "ME 436/Labs/Viscous Flow in a Pipe/~WRD0000.tmp",
+    "ME 436/attachments/Pasted image 20231016223522.png",
+    "ME 436/attachments",
+    "ME 436/Intro_Lecture.pdf",
+    "ME 436/ME43600_Aero_Thermal_Manual.pdf",
+    "ME 436/Labs/Viscous Flow in a Pipe/Viscous Flow in a Pipe.md",
+    "ME 436/Labs/Viscous Flow in a Pipe/~$remyManiago_viscouspipe.docx",
+    "ME 436/Labs/Viscous Flow in a Pipe/JeremyManiago_viscouspipe.docx",
+    "ME 436/Labs/Viscous Flow in a Pipe/JeremyManiago_peltonwheel.docx",
+    "ME 436/Labs/Viscous Flow in a Pipe/JeremyManiago_viscouspipe.docx.md",
+    "ME 436/Datasheets/Viscous Pipe Experiment Data Sheet.pdf",
+    "ME 436/Labs/Pelton Wheel/Pelton Wheel.md",
+    "ME 436/Labs/Pelton Wheel/JeremyManiago_peltonwheel.pdf",
+    "ME 462/ME 46200 ; Manufacturing Processes.md",
     "INTL 201/INTL 20100 ; International Studies - A Global Perspective.md",
     "ME 515/ME 51500_I0820 ; Orbital Mechanics.md",
+    "Templates/Daily Notes(Task Edition)/Journal/2023/October/2023-10-16.md",
+    "Templates/Daily Notes(Task Edition)/Journal/2023/October/2023-10-09.md",
     "INTL 201/Lectures/Lecture 8.md",
     "INTL 201/Lectures/Lecture 10.md",
     "INTL 201/Lectures/Lecture 9.md",
-    "INTL 201/Lectures/Week6_lecture_2021_SU2023_Lecture10.pdf",
-    "INTL 201/Lectures/Unconfirmed 286942.crdownload",
-    "INTL 201/Lectures/Week7_lecture_SU2023_Lecture9(1).pdf",
-    "INTL 201/Week7_lecture_SU2023_Lecture9(1).pdf",
-    "INTL 201/Readings/Biao_Body_Shop100-115.pdf",
-    "INTL 201/Readings/Unconfirmed 263399.crdownload",
-    "INTL 201/Readings/Castells_Networke_Society.pdf",
-    "INTL 201/Readings/Unconfirmed 827672.crdownload",
-    "INTL 201/Readings/FrankJLechnerJo_2015_Chapter59GlobalIndian_TheGlobalizationReade.pdf",
-    "INTL 201/Readings/Unconfirmed 948602.crdownload",
     "ME 556/ME 55600, I0800 ; Advanced Fluid Mechanics.md",
-    "Resumes & Documents/Applications.md",
-    "ME 462/ME 46200 ; Manufacturing Processes.md",
     "Templates/Daily Notes(Task Edition)/Journal/2023/October/2023-10-13.md",
     "Templates/Daily Notes(Task Edition)/Journal/2023/October/2023-10-15.md",
     "Resumes & Documents/Resumes.md",
@@ -297,7 +370,6 @@
     "Templates/Daily Notes(Task Edition)/Journal/2023/October/2023-10-10.md",
     "Templates/Daily Notes(Task Edition)/Journal/2023/October/2023-10-08.md",
     "Templates/Daily Notes(Task Edition)/Journal/2023/October/2023-10-07.md",
-    "ME 436/Labs/Pelton Wheel/Pelton Wheel.md",
     "Templates/Daily Notes(Task Edition)/Journal/2023/October/2023-10-06.md",
     "conflict-files-obsidian-git.md",
     "ME 436/Labs/Pelton Wheel/torque_vs_wheelspeed.png",
@@ -305,16 +377,11 @@
     "ME 436/Labs/Pelton Wheel/efficiency_vs_wheelspeed_errorbars.png",
     "ME 436/Labs/Pelton Wheel/efficiency_vs_wheelspeed.png",
     "Templates/Daily Notes(Task Edition)/Journal/2023/October/2023-10-04.md",
-    "ME 436/ME 43600 ; Aerothermal Fluids Lab.md",
     "ME 436/REDACTED/REDACTED/Aero-Thermal-Fluids/Resources/436 Aero Thermal/ME 436 - JC/ME 436/Flowsquare4.0/Flowsquare4.0/Test1/figs/figure-000003600.bmp",
     "ME 436/REDACTED/REDACTED/Aero-Thermal-Fluids/Resources/436 Aero Thermal/ME 436 - JC/ME 436/Flowsquare4.0/Flowsquare4.0/Test1/figs/figure-000003400.bmp",
     "ME 436/REDACTED/REDACTED/Aero-Thermal-Fluids/Resources/436 Aero Thermal/ME 436 - JC/ME 436/Flowsquare4.0/Flowsquare4.0/Test1/figs/figure-000003200.bmp",
     "ME 436/REDACTED/REDACTED/Aero-Thermal-Fluids/Resources/436 Aero Thermal/ME 436 - JC/ME 436/Flowsquare4.0/Flowsquare4.0/Test1/figs/figure-000003000.bmp",
     "ME 436/REDACTED/REDACTED/Aero-Thermal-Fluids/Resources/436 Aero Thermal/ME 436 - JC/ME 436/Flowsquare4.0/Flowsquare4.0/Test1/figs/figure-000002800.bmp",
-    "ME 436/REDACTED/REDACTED/Aero-Thermal-Fluids/Resources/436 Aero Thermal/ME 436 - JC/ME 436/Flowsquare4.0/Flowsquare4.0/Test1/figs/figure-000002600.bmp",
-    "ME 436/Labs/Viscous Pipe/Viscous Pipe Flow.md",
-    "ME 462/Lab HW/TurboCharger/TurboCharger.md",
-    "ME 515/HW/HW 1.md",
     "PPPL.canvas",
     "ME 433/Heat Transfer.canvas"
   ]

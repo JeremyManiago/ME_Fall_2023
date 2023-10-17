@@ -29,4 +29,10 @@
 	+ [x] 2D drawings
 	+ [x] Report
 		+ [x] improvements to design
-+ [ ] 
+
+
+---
+## Project
+- [ ] Make a solar system using a crankshaft to turn a planetary gear system 
+	- [ ] Drawings in 2D and 3D CAD 🔼 📅 2023-10-23 
+	- [ ] Materials needed
