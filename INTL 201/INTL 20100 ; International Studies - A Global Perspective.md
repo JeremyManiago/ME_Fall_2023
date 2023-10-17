@@ -53,7 +53,7 @@
 
 - [ ] ***[[Lecture 9]]***
 	- [ ] Video: https://youtu.be/mfn8Gf5xeAc
-	- [ ] Lecture: 
+	- [ ] Lecture: [[Week7_lecture_SU2023_Lecture9(1).pdf]]
 	- [ ] Required Reading: 
 		- Required Reading 1. • Radhakrishnan, Smitha. Global/Indian. Cultural Politics in the IT Workplace. In Lechner, Frank J. and Boli, John. The Globalization Reader. 5th ed. (Wiley, 2014) (Chapter 59, pp.469-476). [[FrankJLechnerJo_2015_Chapter59GlobalIndian_TheGlobalizationReade.pdf]]
 		- Required Reading 2. • Manuel Castells, 1996. The Transformation of Work and Employment: Networkers, Jobless, and Flextimers. In: The Rise of the Network Society. Blackwell. (pp. 281-283 and 300-302). [[Castells_Networke_Society.pdf]]

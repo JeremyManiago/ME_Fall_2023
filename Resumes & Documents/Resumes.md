@@ -1,4 +1,4 @@
-## Applications
+## [[Applications]]
 
 ![[Applications]]
 
