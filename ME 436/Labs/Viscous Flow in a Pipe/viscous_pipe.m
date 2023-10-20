@@ -39,7 +39,7 @@ end
 title('Pressure drop along pipe')
 xlabel('Distance (m)')
 ylabel('Pressure (Pa)')
-legend('Set 1', 'Set 2')
+legend('Set 1 (45Hz)', 'Set 2 (47Hz)')
 grid on
 hold off
 
@@ -69,13 +69,13 @@ for i = 1: length(set)
     n = 7;
     r = linspace(-da/2, da/2, 100);
     set(i).veltheor = set(i).velmax * ( 1 - ((r).^2)/((da/2)^2) ).^(1/n);
-    plot(set(i).veltheor, r)
+    plot(set(i).veltheor, r, 'r')
 end
 
 title('Velocity vs radius of pipe')
 xlabel('Velocity (m/s)')
 ylabel('Radius (m)')
-legend('Set 1', 'Set 2', 'Theoretical')
+legend('Set 1 (45 Hz)', '', 'Set 2 (47Hz)', 'Theoretical')
 grid on
 hold off
 
@@ -86,11 +86,26 @@ syms ventdelp delp
 for i = 1: length(set)
     % Venturi flow rate error
     venturiQ = sqrt( (2/(((da/db)^4) - 1)).*(ventdelp/rho) ) * (pi()*(db/2)^2);
-    pdelp = subs(diff(venturiQ, ventdelp), ventdelp, set(i).ventdelp);
+    pventdelp = subs(diff(venturiQ, ventdelp), ventdelp, set(i).ventdelp);
 
-    venturiQ_err = sqrt( (pdelp .* u_mano).^2 );
-    venturiQ_err = double(venturiQ_err);
+    venturiQ_err = sqrt( (pventdelp .* u_mano).^2 );
+    venturiQ_err = double(venturiQ_err)
 
     % Pitot velocity profile error
     vel = sqrt( 2*(delp/rho) );
+    pdelp = subs(diff(vel, delp), delp, set(i).delp(2:11));
+
+    pdelp_err = sqrt( (pdelp*u_mano).^2 );
+    pdelp_err = double(pdelp_err)
+    
+    errorbar(set(i).vel(2:11), set(i).r(2:11), pdelp_err, 'horizontal')
+    hold on
+    plot(set(i).veltheor, r, 'r')
 end
+
+title('Velocity vs radius of pipe errorbars')
+xlabel('Velocity (m/s)')
+ylabel('Radius (m)')
+legend('Set 1 (45 Hz)', '', 'Set 2 (47Hz)', 'Theoretical')
+grid on
+hold off
