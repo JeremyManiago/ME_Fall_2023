@@ -20,30 +20,6 @@
             }
           },
           {
-            "id": "11b597d38faaf4ac",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ME 515/ME 51500_I0820 ; Orbital Mechanics.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f743d3c7255212d6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ME 556/ME 55600, I0800 ; Advanced Fluid Mechanics.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "edd3f446b099fad8",
             "type": "leaf",
             "state": {
@@ -80,18 +56,6 @@
             }
           },
           {
-            "id": "8e774092d0b72bae",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ME 436/ME 43600 ; Aerothermal Fluids Lab.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "975dae27606fb93e",
             "type": "leaf",
             "state": {
@@ -102,7 +66,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -183,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ME 436/ME 43600 ; Aerothermal Fluids Lab.md",
+                "file": "ME 436/Labs/Viscous Flow in a Pipe/Viscous Flow in a Pipe.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -200,7 +164,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ME 436/ME 43600 ; Aerothermal Fluids Lab.md",
+                "file": "ME 436/Labs/Viscous Flow in a Pipe/Viscous Flow in a Pipe.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -223,7 +187,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ME 436/ME 43600 ; Aerothermal Fluids Lab.md"
+                "file": "ME 436/Labs/Viscous Flow in a Pipe/Viscous Flow in a Pipe.md"
               }
             }
           },
@@ -313,34 +277,35 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "8e774092d0b72bae",
+  "active": "13bd112198dbdd0b",
   "lastOpenFiles": [
-    "ME 436/Labs/Viscous Flow in a Pipe/Viscous Flow in a Pipe.md",
-    "ME 436/ME43600_Aero_Thermal_Manual.pdf",
-    "Templates/Daily Notes(Task Edition)/Journal/2023/October/2023-10-20.md",
-    "ME 436/Labs/Viscous Flow in a Pipe/~$viscous_pipe_rawdata.xlsx",
+    "ME 436/Labs/Viscous Flow in a Pipe/~WRL2930.tmp",
+    "ME 436/Labs/Viscous Flow in a Pipe/~WRD2895.tmp",
+    "ME 436/Labs/Viscous Flow in a Pipe/JeremyManiago_viscouspipe.pdf",
+    "ME 436/Labs/Viscous Flow in a Pipe/mso6CE.tmp",
+    "ME 436/Labs/Viscous Flow in a Pipe/~WRL0825.tmp",
+    "ME 436/Labs/Viscous Flow in a Pipe/~WRD0786.tmp",
+    "ME 436/Labs/Viscous Flow in a Pipe/~WRL2112.tmp",
+    "ME 436/Labs/Viscous Flow in a Pipe/~WRD2085.tmp",
+    "ME 436/Labs/Viscous Flow in a Pipe/~WRL3536.tmp",
+    "ME 436/Labs/Viscous Flow in a Pipe/~WRD3493.tmp",
+    "ME 436/Labs/Viscous Flow in a Pipe/~WRL0911.tmp",
     "ME 436/ME 43600 ; Aerothermal Fluids Lab.md",
+    "ME 436/Labs/Viscous Flow in a Pipe/Viscous Flow in a Pipe.md",
+    "INTL 201/INTL 20100 ; International Studies - A Global Perspective.md",
+    "ME 462/ME 46200 ; Manufacturing Processes.md",
+    "Resumes & Documents/Applications.md",
+    "ME 556/ME 55600, I0800 ; Advanced Fluid Mechanics.md",
+    "ME 515/ME 51500_I0820 ; Orbital Mechanics.md",
+    "Templates/Daily Notes(Task Edition)/Journal/2023/October/2023-10-20.md",
     "ME 436/Labs/Pelton Wheel/Pelton Wheel.md",
-    "ME 436/Labs/Viscous Flow in a Pipe/viscous_pipe.asv",
-    "ME 436/Labs/Viscous Flow in a Pipe/~$remyManiago_viscouspipe.docx",
     "Templates/Daily Notes(Task Edition)/Journal/2023/October/2023-10-19.md",
     "conflict-files-obsidian-git.md",
-    "ME 436/Labs/Viscous Flow in a Pipe/viscous_pipe.m",
     "Templates/Daily Notes(Task Edition)/Journal/2023/October/2023-10-17.md",
-    "ME 436/Labs/Viscous Flow in a Pipe/110FE310",
-    "ME 556/ME 55600, I0800 ; Advanced Fluid Mechanics.md",
-    "Resumes & Documents/Applications.md",
-    "ME 436/Labs/Viscous Flow in a Pipe/F9B9E310",
     "Resumes & Documents/Resumes.md",
-    "ME 436/Labs/Viscous Flow in a Pipe/8093E310",
-    "ME 436/Labs/Viscous Flow in a Pipe/E302E310",
-    "ME 436/Labs/Viscous Flow in a Pipe/0941E310",
     "ME 436/Labs/Viscous Flow in a Pipe/viscous_pipe.m.md",
-    "ME 462/ME 46200 ; Manufacturing Processes.md",
-    "INTL 201/INTL 20100 ; International Studies - A Global Perspective.md",
     "ME 436/attachments/Pasted image 20231016223522.png",
     "ME 436/Labs/Viscous Flow in a Pipe/JeremyManiago_viscouspipe.docx.md",
-    "ME 515/ME 51500_I0820 ; Orbital Mechanics.md",
     "Templates/Daily Notes(Task Edition)/Journal/2023/October/2023-10-16.md",
     "Templates/Daily Notes(Task Edition)/Journal/2023/October/2023-10-09.md",
     "INTL 201/Lectures/Lecture 8.md",

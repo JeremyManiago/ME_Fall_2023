@@ -78,3 +78,4 @@
 	- [x] <u>Multiple Choice (Part 1 of 2)</u> ✅ 2023-10-01
 	- [x] <u>Essay (Part 2 of 2)</u> - **How did the Core and the Periphery shift over time? Consider the history of our connected world. Provide explicit details examples of the shift from your readings and lecture notes. In your answer make sure to explain the Core and Periphery relationship, as proposed by Wallerstein. Please also describe the factors that contributed to the shift, according to the class lectures and course readings.** 1.5 to 3 pages double spaced, not including text of essay question [[JeremyManiago_Exam1_Part2_Essay.docx]] ✅ 2023-10-03
 
+- [ ] Exam 2 | [Lecture Exam 2 Directions](https://youtu.be/9v5-Uc8ayxw) | [[Exam 2 Study Guide_SU2023.docx]] | ⏫ 

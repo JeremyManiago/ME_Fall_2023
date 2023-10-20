@@ -58,19 +58,16 @@ for i = 1: length(set)
     % Venturi flow rate
     set(i).ventdelp = set(i).p(11) - set(i).p(10);
     set(i).Umean = sqrt( (2/(((da/db)^4) - 1)).*(set(i).ventdelp/rho) );
-    set(i).venturiQ = set(i).Umean .* (pi()*(db/2)^2);
-    set(i).venturiQ = double(set(i).venturiQ);
+    set(i).venturiQ = set(i).Umean .* (pi()*(db/2)^2)
 
     % Pitot flow rate
     set(i).delp = set(i).delp .* convp;
-    set(i).r = (set(i).r - 1) .* convx;
-    set(i).vel = sqrt( 2.*(set(i).delp ./ rho) );
-    % u_times_r = set(i).vel * r;
-    % pitotQ = 2*pi()*( -int(u_times_r, [-da/2 0]) + int(u_times_r, [0 da/2]) );
-    % set(i).pitotQ = double(pitotQ);
-    set(i).pitotQ = 2*pi()*trapz(da/20, set(i).vel.*set(i).r);
-    set(i).pitotQ = double(set(i).pitotQ);
-    set(i).r = set(i).r - da/2;
+    set(i).r = (set(i).r - 1) .* convx - da/2;
+    set(i).vel = sqrt( 2*(set(i).delp/rho) );
+    % set(i).pitotQ = 2*pi() .* ( set(i).vel .* set(i).r(11) )
+    pitotQ = set(i).vel * r
+    pitotQ = 2*pi()*int(pitotQ, [0 da])
+    set(i).pitotQ = double(pitot)
 end
 
 %% 3 | Theoretical and experimental velocity profiles in pipe
@@ -113,14 +110,14 @@ for i = 1: length(set)
     pventdelp = subs(diff(venturiQ, ventdelp), ventdelp, set(i).ventdelp);
 
     venturiQ_err = sqrt( (pventdelp .* u_mano).^2 );
-    venturiQ_err = double(venturiQ_err);
+    venturiQ_err = double(venturiQ_err)
 
     % Pitot velocity profile error
     vel = sqrt( 2*(delp/rho) );
     pdelp = subs(diff(vel, delp), delp, set(i).delp(2:11));
 
     pdelp_err = sqrt( (pdelp*u_mano).^2 );
-    pdelp_err = double(pdelp_err);
+    pdelp_err = double(pdelp_err)
 end
 
 e1 = errorbar(set(1).vel(2:11), set(1).r(2:11), pdelp_err, 'horizontal');
