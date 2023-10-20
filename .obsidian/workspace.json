@@ -80,6 +80,18 @@
             }
           },
           {
+            "id": "8e774092d0b72bae",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ME 436/ME 43600 ; Aerothermal Fluids Lab.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "975dae27606fb93e",
             "type": "leaf",
             "state": {
@@ -90,7 +102,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -171,7 +183,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ME 436/Labs/Viscous Flow in a Pipe/Viscous Flow in a Pipe.md",
+                "file": "ME 436/ME 43600 ; Aerothermal Fluids Lab.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -188,7 +200,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ME 436/Labs/Viscous Flow in a Pipe/Viscous Flow in a Pipe.md",
+                "file": "ME 436/ME 43600 ; Aerothermal Fluids Lab.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -211,7 +223,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ME 436/Labs/Viscous Flow in a Pipe/Viscous Flow in a Pipe.md"
+                "file": "ME 436/ME 43600 ; Aerothermal Fluids Lab.md"
               }
             }
           },
@@ -301,13 +313,14 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "13bd112198dbdd0b",
+  "active": "8e774092d0b72bae",
   "lastOpenFiles": [
+    "ME 436/Labs/Viscous Flow in a Pipe/Viscous Flow in a Pipe.md",
+    "ME 436/ME43600_Aero_Thermal_Manual.pdf",
+    "Templates/Daily Notes(Task Edition)/Journal/2023/October/2023-10-20.md",
     "ME 436/Labs/Viscous Flow in a Pipe/~$viscous_pipe_rawdata.xlsx",
     "ME 436/ME 43600 ; Aerothermal Fluids Lab.md",
     "ME 436/Labs/Pelton Wheel/Pelton Wheel.md",
-    "ME 436/Labs/Viscous Flow in a Pipe/Viscous Flow in a Pipe.md",
-    "ME 436/ME43600_Aero_Thermal_Manual.pdf",
     "ME 436/Labs/Viscous Flow in a Pipe/viscous_pipe.asv",
     "ME 436/Labs/Viscous Flow in a Pipe/~$remyManiago_viscouspipe.docx",
     "Templates/Daily Notes(Task Edition)/Journal/2023/October/2023-10-19.md",
@@ -338,7 +351,6 @@
     "Templates/Daily Notes(Task Edition)/Journal/2023/October/2023-10-12.md",
     "README.md",
     "Templates/Daily Notes(Task Edition)/Journal/2023/October/2023-10-10.md",
-    "Templates/Daily Notes(Task Edition)/Journal/2023/October/2023-10-08.md",
     "ME 436/Labs/Pelton Wheel/torque_vs_wheelspeed.png",
     "ME 436/Labs/Pelton Wheel/poweroutput_vs_wheelspeed.png",
     "ME 436/Labs/Pelton Wheel/efficiency_vs_wheelspeed_errorbars.png",
