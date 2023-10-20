@@ -85,7 +85,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/Daily Notes(Task Edition)/Journal/2023/October/2023-10-17.md",
+                "file": "Templates/Daily Notes(Task Edition)/Journal/2023/October/2023-10-19.md",
                 "mode": "source",
                 "source": false
               }
@@ -102,7 +102,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -183,7 +183,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ME 436/ME 43600 ; Aerothermal Fluids Lab.md",
+                "file": "Templates/Daily Notes(Task Edition)/Journal/2023/October/2023-10-19.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -200,7 +200,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ME 436/ME 43600 ; Aerothermal Fluids Lab.md",
+                "file": "Templates/Daily Notes(Task Edition)/Journal/2023/October/2023-10-19.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -223,7 +223,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ME 436/ME 43600 ; Aerothermal Fluids Lab.md"
+                "file": "Templates/Daily Notes(Task Edition)/Journal/2023/October/2023-10-19.md"
               }
             }
           },
@@ -313,10 +313,12 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "13bd112198dbdd0b",
+  "active": "b88cadc23d9c20c0",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
     "Templates/Daily Notes(Task Edition)/Journal/2023/October/2023-10-17.md",
+    "Templates/Daily Notes(Task Edition)/Journal/2023/October/2023-10-19.md",
+    "ME 436/ME 43600 ; Aerothermal Fluids Lab.md",
+    "conflict-files-obsidian-git.md",
     "ME 436/Labs/Viscous Flow in a Pipe/Viscous Flow in a Pipe.md",
     "ME 436/Labs/Viscous Flow in a Pipe/110FE310",
     "ME 436/Labs/Viscous Flow in a Pipe/~$viscous_pipe_rawdata.xlsx",
@@ -331,7 +333,6 @@
     "ME 436/Labs/Viscous Flow in a Pipe/C33FD310",
     "ME 436/Labs/Viscous Flow in a Pipe/D14DC310",
     "ME 436/Labs/Viscous Flow in a Pipe/viscous_pipe_rawdata.xlsx",
-    "ME 436/ME 43600 ; Aerothermal Fluids Lab.md",
     "ME 436/Labs/Viscous Flow in a Pipe/viscous_pipe.m.md",
     "ME 462/ME 46200 ; Manufacturing Processes.md",
     "INTL 201/INTL 20100 ; International Studies - A Global Perspective.md",
@@ -351,7 +352,6 @@
     "Templates/Daily Notes(Task Edition)/Journal/2023/October/2023-10-10.md",
     "Templates/Daily Notes(Task Edition)/Journal/2023/October/2023-10-08.md",
     "Templates/Daily Notes(Task Edition)/Journal/2023/October/2023-10-07.md",
-    "Templates/Daily Notes(Task Edition)/Journal/2023/October/2023-10-06.md",
     "ME 436/Labs/Pelton Wheel/torque_vs_wheelspeed.png",
     "ME 436/Labs/Pelton Wheel/poweroutput_vs_wheelspeed.png",
     "ME 436/Labs/Pelton Wheel/efficiency_vs_wheelspeed_errorbars.png",
