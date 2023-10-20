@@ -44,18 +44,6 @@
             }
           },
           {
-            "id": "13bd112198dbdd0b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ME 436/Labs/Viscous Flow in a Pipe/Viscous Flow in a Pipe.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "975dae27606fb93e",
             "type": "leaf",
             "state": {
@@ -66,7 +54,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -147,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ME 436/Labs/Viscous Flow in a Pipe/Viscous Flow in a Pipe.md",
+                "file": "ME 462/ME 46200 ; Manufacturing Processes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ME 436/Labs/Viscous Flow in a Pipe/Viscous Flow in a Pipe.md",
+                "file": "ME 462/ME 46200 ; Manufacturing Processes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -187,7 +175,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ME 436/Labs/Viscous Flow in a Pipe/Viscous Flow in a Pipe.md"
+                "file": "ME 462/ME 46200 ; Manufacturing Processes.md"
               }
             }
           },
@@ -277,8 +265,9 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "13bd112198dbdd0b",
+  "active": "a080f3a5e7d08e24",
   "lastOpenFiles": [
+    "ME 436/Labs/Viscous Flow in a Pipe/Viscous Flow in a Pipe.md",
     "ME 436/Labs/Viscous Flow in a Pipe/~WRL2930.tmp",
     "ME 436/Labs/Viscous Flow in a Pipe/~WRD2895.tmp",
     "ME 436/Labs/Viscous Flow in a Pipe/JeremyManiago_viscouspipe.pdf",
@@ -289,9 +278,7 @@
     "ME 436/Labs/Viscous Flow in a Pipe/~WRD2085.tmp",
     "ME 436/Labs/Viscous Flow in a Pipe/~WRL3536.tmp",
     "ME 436/Labs/Viscous Flow in a Pipe/~WRD3493.tmp",
-    "ME 436/Labs/Viscous Flow in a Pipe/~WRL0911.tmp",
     "ME 436/ME 43600 ; Aerothermal Fluids Lab.md",
-    "ME 436/Labs/Viscous Flow in a Pipe/Viscous Flow in a Pipe.md",
     "INTL 201/INTL 20100 ; International Studies - A Global Perspective.md",
     "ME 462/ME 46200 ; Manufacturing Processes.md",
     "Resumes & Documents/Applications.md",
