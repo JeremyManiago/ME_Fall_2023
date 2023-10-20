@@ -19,6 +19,8 @@
 	- [ ] [New in Career - Mechanical/Aero Engineer - Structural Analysis - Careers | Naval Nuclear Laboratory (energy.gov)](https://navalnuclearlab.energy.gov/job-search/job-detail/?job-id=2372)
 	- [ ] [New in Career - Mechanical/Nuclear Engineer - Thermal Hydraulics - Careers | Naval Nuclear Laboratory (energy.gov)](https://navalnuclearlab.energy.gov/job-search/job-detail/?job-id=2373)
 
+- [ ] Orano (Nuclear)
+
 - [ ] US Dept. of State
 
 - [ ] GD Boat
