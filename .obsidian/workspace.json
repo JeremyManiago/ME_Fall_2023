@@ -42,9 +42,17 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "53ea6b5a2797d633",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -125,7 +133,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Templates/Daily Notes(Task Edition)/Journal/2023/October/2023-10-21.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +149,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Templates/Daily Notes(Task Edition)/Journal/2023/October/2023-10-21.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -164,9 +170,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Templates/Daily Notes(Task Edition)/Journal/2023/October/2023-10-21.md"
-              }
+              "state": {}
             }
           },
           {
@@ -223,12 +227,8 @@
             "id": "59eb704e826dc2c7",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Templates/Daily Notes(Task Edition)/Journal/2023/October/2023-10-21.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -259,15 +259,15 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "59eb704e826dc2c7",
+  "active": "53ea6b5a2797d633",
   "lastOpenFiles": [
-    "Templates/Daily Notes(Task Edition)/Journal/2023/October/2023-10-21.md",
+    "ME 462/ME 46200 ; Manufacturing Processes.md",
     "INTL 201/Exams/Exam 2 Study Guide.md",
+    "Templates/Daily Notes(Task Edition)/Journal/2023/October/2023-10-21.md",
     "INTL 201/~$am 2 Study Guide_SU2023.docx",
     "INTL 201/INTL 20100 ; International Studies - A Global Perspective.md",
     "ME 436/Labs/Viscous Flow in a Pipe/Viscous Flow in a Pipe.md",
     "ME 436/ME 43600 ; Aerothermal Fluids Lab.md",
-    "ME 462/ME 46200 ; Manufacturing Processes.md",
     "ME 436/ME43600_Aero_Thermal_Manual.pdf",
     "ME 436/Labs/Viscous Flow in a Pipe/~WRL2930.tmp",
     "ME 436/Labs/Viscous Flow in a Pipe/~WRD2895.tmp",
