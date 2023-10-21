@@ -47,8 +47,11 @@
             "id": "53ea6b5a2797d633",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "diff-view",
+              "state": {
+                "file": ".obsidian/workspace.json",
+                "staged": false
+              }
             }
           }
         ],
@@ -261,6 +264,7 @@
   },
   "active": "53ea6b5a2797d633",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
     "ME 462/ME 46200 ; Manufacturing Processes.md",
     "INTL 201/Exams/Exam 2 Study Guide.md",
     "Templates/Daily Notes(Task Edition)/Journal/2023/October/2023-10-21.md",
@@ -283,7 +287,6 @@
     "Templates/Daily Notes(Task Edition)/Journal/2023/October/2023-10-20.md",
     "ME 436/Labs/Pelton Wheel/Pelton Wheel.md",
     "Templates/Daily Notes(Task Edition)/Journal/2023/October/2023-10-19.md",
-    "conflict-files-obsidian-git.md",
     "Templates/Daily Notes(Task Edition)/Journal/2023/October/2023-10-17.md",
     "Resumes & Documents/Resumes.md",
     "ME 436/Labs/Viscous Flow in a Pipe/viscous_pipe.m.md",
