@@ -42,20 +42,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "53ea6b5a2797d633",
-            "type": "leaf",
-            "state": {
-              "type": "diff-view",
-              "state": {
-                "file": ".obsidian/workspace.json",
-                "staged": false
-              }
-            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -136,6 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "ME 462/ME 46200 ; Manufacturing Processes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,6 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "ME 462/ME 46200 ; Manufacturing Processes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -173,7 +164,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "ME 462/ME 46200 ; Manufacturing Processes.md"
+              }
             }
           },
           {
@@ -262,10 +255,10 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "53ea6b5a2797d633",
+  "active": "a080f3a5e7d08e24",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
     "ME 462/ME 46200 ; Manufacturing Processes.md",
+    "conflict-files-obsidian-git.md",
     "INTL 201/Exams/Exam 2 Study Guide.md",
     "Templates/Daily Notes(Task Edition)/Journal/2023/October/2023-10-21.md",
     "INTL 201/~$am 2 Study Guide_SU2023.docx",
