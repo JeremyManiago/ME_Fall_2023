@@ -125,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "INTL 201/Exams/Exam 2 Study Guide.md",
+                "file": "Templates/Daily Notes(Task Edition)/Journal/2023/October/2023-10-21.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "INTL 201/Exams/Exam 2 Study Guide.md",
+                "file": "Templates/Daily Notes(Task Edition)/Journal/2023/October/2023-10-21.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -165,7 +165,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "INTL 201/Exams/Exam 2 Study Guide.md"
+                "file": "Templates/Daily Notes(Task Edition)/Journal/2023/October/2023-10-21.md"
               }
             }
           },
@@ -259,12 +259,12 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "edd3f446b099fad8",
+  "active": "59eb704e826dc2c7",
   "lastOpenFiles": [
+    "Templates/Daily Notes(Task Edition)/Journal/2023/October/2023-10-21.md",
+    "INTL 201/Exams/Exam 2 Study Guide.md",
     "INTL 201/~$am 2 Study Guide_SU2023.docx",
     "INTL 201/INTL 20100 ; International Studies - A Global Perspective.md",
-    "INTL 201/Exams/Exam 2 Study Guide.md",
-    "Templates/Daily Notes(Task Edition)/Journal/2023/October/2023-10-21.md",
     "ME 436/Labs/Viscous Flow in a Pipe/Viscous Flow in a Pipe.md",
     "ME 436/ME 43600 ; Aerothermal Fluids Lab.md",
     "ME 462/ME 46200 ; Manufacturing Processes.md",
@@ -277,7 +277,6 @@
     "ME 436/Labs/Viscous Flow in a Pipe/~WRD0786.tmp",
     "ME 436/Labs/Viscous Flow in a Pipe/~WRL2112.tmp",
     "ME 436/Labs/Viscous Flow in a Pipe/~WRD2085.tmp",
-    "ME 436/Labs/Viscous Flow in a Pipe/~WRL3536.tmp",
     "Resumes & Documents/Applications.md",
     "ME 556/ME 55600, I0800 ; Advanced Fluid Mechanics.md",
     "ME 515/ME 51500_I0820 ; Orbital Mechanics.md",
