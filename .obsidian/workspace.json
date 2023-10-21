@@ -146,7 +146,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Templates/Daily Notes(Task Edition)/Journal/2023/October/2023-10-21.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +162,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Templates/Daily Notes(Task Edition)/Journal/2023/October/2023-10-21.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +184,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/Daily Notes(Task Edition)/Journal/2023/October/2023-10-21.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           },
@@ -276,10 +274,16 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "a8d45c30e3ee76e2",
+  "active": "bed6014f008039c4",
   "lastOpenFiles": [
-    "Resumes & Documents/Applications.md",
     "Templates/Daily Notes(Task Edition)/Journal/2023/October/2023-10-21.md",
+    "conflict-files-obsidian-git.md",
+    "Templates/Daily Notes(Task Edition)/Journal/2023/October/2023-10-20.md",
+    "Templates/Daily Notes(Task Edition)/Journal/2023/October/2023-10-19.md",
+    "ME 436/Labs/Viscous Flow in a Pipe/JeremyManiago_viscouspipe.pdf",
+    "INTL 201/Exams/Exam 2 Study Guide.md",
+    "INTL 201/Exam 2 Study Guide_SU2023.docx",
+    "Resumes & Documents/Applications.md",
     "ME 436/Labs/Viscous Flow in a Pipe/F3A2CD40",
     "ME 436/Labs/Viscous Flow in a Pipe/3EAB4D40",
     "ME 436/Labs/Viscous Flow in a Pipe/55381D40",
@@ -292,13 +296,10 @@
     "ME 436/Labs/Viscous Flow in a Pipe/viscous_pipe.m",
     "ME 436/Labs/Pelton Wheel/Pelton Wheel.md",
     "ME 436/ME 43600 ; Aerothermal Fluids Lab.md",
-    "ME 436/Labs/Viscous Flow in a Pipe/~$remyManiago_viscouspipe.docx",
-    "ME 436/Labs/Viscous Flow in a Pipe/~$viscous_pipe_rawdata.xlsx",
     "ME 556/ME 55600, I0800 ; Advanced Fluid Mechanics.md",
     "Templates/Daily Notes(Task Edition)/Journal/2023/October/2023-10-18.md",
     "INTL 201/INTL 20100 ; International Studies - A Global Perspective.md",
     "Templates/Daily Notes(Task Edition)/Journal/2023/October/2023-10-17.md",
-    "conflict-files-obsidian-git.md",
     "ME 436/Labs/Viscous Pipe/Viscous Pipe Flow.md",
     "Templates/Daily Notes(Task Edition)/Journal/2023/October/2023-10-16.md",
     "ME 436/attachments/Pasted image 20231016223522.png",
@@ -312,9 +313,6 @@
     "Templates/Daily Notes(Task Edition)/Journal/2023/October/2023-10-12.md",
     "README.md",
     "Templates/Daily Notes(Task Edition)/Journal/2023/October/2023-10-10.md",
-    "Templates/Daily Notes(Task Edition)/Journal/2023/October/2023-10-09.md",
-    "Templates/Daily Notes(Task Edition)/Journal/2023/October/2023-10-08.md",
-    "Templates/Daily Notes(Task Edition)/Journal/2023/October/2023-10-07.md",
     "ME 436/Labs/Pelton Wheel/torque_vs_wheelspeed.png",
     "ME 436/Labs/Pelton Wheel/poweroutput_vs_wheelspeed.png",
     "ME 436/Labs/Pelton Wheel/efficiency_vs_wheelspeed_errorbars.png",
