@@ -34,5 +34,5 @@
 ---
 ## Project
 - [ ] Make a solar system using a crankshaft to turn a planetary gear system 
-	- [ ] Drawings in 2D and 3D CAD 🔼 📅 2023-10-23 🛫 2023-10-20 
+	- [x] Drawings in 2D and 3D CAD 🔼 🛫 2023-10-20 📅 2023-10-23 ✅ 2023-10-25
 	- [ ] Materials needed
