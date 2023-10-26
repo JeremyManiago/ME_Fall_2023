@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ME 462/ME 46200 ; Manufacturing Processes.md",
+                "file": "ME 436/Labs/Viscous Flow in a Pipe/Viscous Flow in a Pipe.md",
                 "mode": "source",
                 "source": false
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ME 462/ME 46200 ; Manufacturing Processes.md",
+                "file": "ME 436/Labs/Viscous Flow in a Pipe/Viscous Flow in a Pipe.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ME 462/ME 46200 ; Manufacturing Processes.md",
+                "file": "ME 436/Labs/Viscous Flow in a Pipe/Viscous Flow in a Pipe.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -165,7 +165,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ME 462/ME 46200 ; Manufacturing Processes.md"
+                "file": "ME 436/Labs/Viscous Flow in a Pipe/Viscous Flow in a Pipe.md"
               }
             }
           },
@@ -231,7 +231,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 456
+    "width": 419
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -257,14 +257,15 @@
   },
   "active": "a080f3a5e7d08e24",
   "lastOpenFiles": [
+    "ME 436/ME 43600 ; Aerothermal Fluids Lab.md",
+    "Templates/Daily Notes(Task Edition)/Journal/2023/October/2023-10-23.md",
+    "Templates/Daily Notes(Task Edition)/Journal/2023/October/2023-10-21.md",
     "ME 462/ME 46200 ; Manufacturing Processes.md",
     "conflict-files-obsidian-git.md",
     "INTL 201/Exams/Exam 2 Study Guide.md",
-    "Templates/Daily Notes(Task Edition)/Journal/2023/October/2023-10-21.md",
     "INTL 201/~$am 2 Study Guide_SU2023.docx",
     "INTL 201/INTL 20100 ; International Studies - A Global Perspective.md",
     "ME 436/Labs/Viscous Flow in a Pipe/Viscous Flow in a Pipe.md",
-    "ME 436/ME 43600 ; Aerothermal Fluids Lab.md",
     "ME 436/ME43600_Aero_Thermal_Manual.pdf",
     "ME 436/Labs/Viscous Flow in a Pipe/~WRL2930.tmp",
     "ME 436/Labs/Viscous Flow in a Pipe/~WRD2895.tmp",
