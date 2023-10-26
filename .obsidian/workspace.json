@@ -125,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ME 462/ME 46200 ; Manufacturing Processes.md",
+                "file": "Templates/Daily Notes(Task Edition)/Journal/2023/October/2023-10-25.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ME 462/ME 46200 ; Manufacturing Processes.md",
+                "file": "Templates/Daily Notes(Task Edition)/Journal/2023/October/2023-10-25.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -165,7 +165,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ME 462/ME 46200 ; Manufacturing Processes.md"
+                "file": "Templates/Daily Notes(Task Edition)/Journal/2023/October/2023-10-25.md"
               }
             }
           },
@@ -223,8 +223,12 @@
             "id": "59eb704e826dc2c7",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Templates/Daily Notes(Task Edition)/Journal/2023/October/2023-10-25.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -255,8 +259,9 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "a080f3a5e7d08e24",
+  "active": "59eb704e826dc2c7",
   "lastOpenFiles": [
+    "Templates/Daily Notes(Task Edition)/Journal/2023/October/2023-10-25.md",
     "ME 462/ME 46200 ; Manufacturing Processes.md",
     "conflict-files-obsidian-git.md",
     "INTL 201/Exams/Exam 2 Study Guide.md",
