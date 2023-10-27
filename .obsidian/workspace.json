@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "2b15569b5a8f6038",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "INTL 201/INTL 20100 ; International Studies - A Global Perspective.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "edd3f446b099fad8",
             "type": "leaf",
             "state": {
@@ -44,7 +56,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -125,6 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "INTL 201/Exams/Exam 2 Study Guide.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,6 +154,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "INTL 201/Exams/Exam 2 Study Guide.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +177,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "conflict-files-obsidian-git.md"
+                "file": "INTL 201/Exams/Exam 2 Study Guide.md"
               }
             }
           },
@@ -253,10 +267,11 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "bed6014f008039c4",
+  "active": "edd3f446b099fad8",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
+    "INTL 201/INTL 20100 ; International Studies - A Global Perspective.md",
     "INTL 201/Exams/Exam 2 Study Guide.md",
+    "conflict-files-obsidian-git.md",
     "Templates/Daily Notes(Task Edition)/Journal/2023/October/2023-10-25.md",
     "ME 436/Labs/Viscous Flow in a Pipe/Viscous Flow in a Pipe.md",
     "Resumes & Documents/Applications.md",
@@ -268,7 +283,6 @@
     "Templates/Daily Notes(Task Edition)/Journal/2023/October/2023-10-21.md",
     "ME 462/ME 46200 ; Manufacturing Processes.md",
     "INTL 201/~$am 2 Study Guide_SU2023.docx",
-    "INTL 201/INTL 20100 ; International Studies - A Global Perspective.md",
     "ME 436/ME43600_Aero_Thermal_Manual.pdf",
     "ME 436/Labs/Viscous Flow in a Pipe/~WRL2930.tmp",
     "ME 436/Labs/Viscous Flow in a Pipe/~WRD2895.tmp",
