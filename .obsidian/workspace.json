@@ -44,14 +44,52 @@
             }
           },
           {
-            "id": "5159cdc306677913",
+            "id": "367aeda74b2b00c5",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Templates/Daily Notes(Task Edition)/Journal/2023/October/2023-10-27.md",
-                "mode": "preview",
-                "source": false
+                "file": "INTL 201/Readings/Biao_Body_Shop100-115.pdf"
+              }
+            }
+          },
+          {
+            "id": "ecf6f5d0418b8def",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "INTL 201/Readings/Castells_Networke_Society.pdf"
+              }
+            }
+          },
+          {
+            "id": "ac6a00a43165a6f9",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "INTL 201/Readings/FrankJLechnerJo_2015_Chapter59GlobalIndian_TheGlobalizationReade.pdf"
+              }
+            }
+          },
+          {
+            "id": "869b21df2fa4489c",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "INTL 201/Lectures/Week6_lecture_2021_SU2023_Lecture10.pdf"
+              }
+            }
+          },
+          {
+            "id": "4052b694f4ef6eca",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "INTL 201/Readings/Graeber(1).pdf"
               }
             }
           }
@@ -243,7 +281,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 339
+    "width": 349
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -271,11 +309,21 @@
   "lastOpenFiles": [
     "INTL 201/INTL 20100 ; International Studies - A Global Perspective.md",
     "INTL 201/Exams/Exam 2 Study Guide.md",
+    "INTL 201/Lectures/Week6_lecture_SU2023_Lecture7(1).pdf",
+    "Templates/Daily Notes(Task Edition)/Journal/2023/October/2023-10-27.md",
+    "INTL 201/Readings/Castells_Networke_Society.pdf",
+    "INTL 201/Readings/FrankJLechnerJo_2015_Chapter59GlobalIndian_TheGlobalizationReade.pdf",
+    "INTL 201/Readings/Biao_Body_Shop100-115.pdf",
+    "INTL 201/Lectures/Week6_lecture_2021_SU2023_Lecture10.pdf",
+    "INTL 201/Readings/Graeber(1).pdf",
+    "INTL 201/Lectures/Lecture 4.md",
+    "INTL 201/Lectures/Lecture 3.md",
+    "INTL 201/Lectures/Lecture 2.md",
+    "INTL 201/Lectures/Lecture 1.md",
     "conflict-files-obsidian-git.md",
     "Templates/Daily Notes(Task Edition)/Journal/2023/October/2023-10-25.md",
     "ME 436/Labs/Viscous Flow in a Pipe/Viscous Flow in a Pipe.md",
     "Resumes & Documents/Applications.md",
-    "Templates/Daily Notes(Task Edition)/Journal/2023/October/2023-10-27.md",
     "ME 436/Labs/Viscous Flow in a Pipe/JeremyManiago_viscouspipe.pdf",
     "ME 436/ME 43600 ; Aerothermal Fluids Lab.md",
     "Templates/Daily Notes(Task Edition)/Journal/2023/October/2023-10-26.md",
@@ -285,12 +333,6 @@
     "INTL 201/~$am 2 Study Guide_SU2023.docx",
     "ME 436/ME43600_Aero_Thermal_Manual.pdf",
     "ME 436/Labs/Viscous Flow in a Pipe/~WRL2930.tmp",
-    "ME 436/Labs/Viscous Flow in a Pipe/~WRD2895.tmp",
-    "ME 436/Labs/Viscous Flow in a Pipe/mso6CE.tmp",
-    "ME 436/Labs/Viscous Flow in a Pipe/~WRL0825.tmp",
-    "ME 436/Labs/Viscous Flow in a Pipe/~WRD0786.tmp",
-    "ME 436/Labs/Viscous Flow in a Pipe/~WRL2112.tmp",
-    "ME 436/Labs/Viscous Flow in a Pipe/~WRD2085.tmp",
     "ME 556/ME 55600, I0800 ; Advanced Fluid Mechanics.md",
     "ME 515/ME 51500_I0820 ; Orbital Mechanics.md",
     "Templates/Daily Notes(Task Edition)/Journal/2023/October/2023-10-20.md",
@@ -301,11 +343,6 @@
     "ME 436/Labs/Viscous Flow in a Pipe/viscous_pipe.m.md",
     "ME 436/attachments/Pasted image 20231016223522.png",
     "ME 436/Labs/Viscous Flow in a Pipe/JeremyManiago_viscouspipe.docx.md",
-    "Templates/Daily Notes(Task Edition)/Journal/2023/October/2023-10-16.md",
-    "Templates/Daily Notes(Task Edition)/Journal/2023/October/2023-10-09.md",
-    "INTL 201/Lectures/Lecture 8.md",
-    "INTL 201/Lectures/Lecture 10.md",
-    "INTL 201/Lectures/Lecture 9.md",
     "ME 436/Labs/Pelton Wheel/torque_vs_wheelspeed.png",
     "ME 436/Labs/Pelton Wheel/poweroutput_vs_wheelspeed.png",
     "ME 436/Labs/Pelton Wheel/efficiency_vs_wheelspeed_errorbars.png",
