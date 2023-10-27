@@ -24,19 +24,6 @@ Stock of Wealth - capitalism requires a surplus of wealth to start and function
 
 ## [[Lecture 7]]
 
-
-
-## [[Lecture 8]]
-
-
-## [[Lecture 9]]
-
-
-
-## [[Lecture 10]]
-
-
-
 Means of Production (different from Mode of Production) -
 + Historically specific: did not exist in 1400 and spread with industrialization
 + Private ownership of the means of productions (capitalists). i.e. machines and tools
@@ -60,23 +47,39 @@ Use Value - Value of a product. Its emphasis is on the utility of a product to t
 
 Exchange Value - "The proportion in which values in use of one sort or exchange for those of another sort" ~ Karl Marx. The exchange value of a product is not the intrinsic to the product or the qualities, rather it is relative and is dependent on time in space, dependent on who will buy it for how much, which depends on where and when it's sold. 
 
-Labor Value - All commodities are the products of labor, therefore all products contain labor value. Labor is the only intrinsic source of value according to Marx
+Labor Value - All commodities are the products of labor, therefore all products contain labor value. Labor is the only intrinsic source of value according to Marx. The true value of a product is measured by the duration of time it takes to produce because it is the measure of the labor involved in producing the product according to Marx. All different types of labor and qualities of labor become reduced to a single uniform measurement.
 
 Commodity (definition) - Something produced for exchange. 
 
-Socially-Determined Labor Time -
+Socially-Determined Labor Time - Flattening of distinct qualities and types of labor to a uniform measure. "The value of labor time in a good is not the number of hours of work that went into making the good, rather it is the proportion of total amount of labor in the entire economy that went into making the good" ~ Marx.
+
+## [[Lecture 8]]
+
+
+
+## [[Lecture 9]]
+
+
+
+## [[Lecture 10]]
+
+
+
 
 Subsistence Wages - 
++ Wages are always driven toward subsistence under Capitalism
++ Empirically accurate theoretical insight of Marx
++ There are always unemployed in a competitive economy, and because workers have no alternative options, they will accept subsistence wages
 
 How Capitalism Generates Value - 
 
-Surplus Value (definition) - 
+Surplus Value (definition) - relative to the total value produced by the worker
 
-Rate of Exploitation (definition) - 
+Rate of Exploitation (definition) - surplus produced by each worker
 
-Why Capitalists Fear Other Capitalists - 
+Why Capitalists Fear Other Capitalists - the less exploitative capitalist can't sell their product without going broke. They do not fear their workers. Capitalists compete against each other, so if one capitalist is able to have more money in their pocket in the end of the day, it means you can lower your price, thus consumers buy your product over the less exploitative capitalist and thus the less exploitative will be put out of business.
 
-Graber’s definition of Value - 
+Graber’s definition of Value - defines the world in terms of what is meaningful, desirable, and worthwhile.
 
 Body Shopping - 
 

@@ -175,7 +175,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "INTL 201/Exams/Exam 2 Study Guide.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -192,7 +191,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "INTL 201/Exams/Exam 2 Study Guide.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -214,9 +212,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "INTL 201/Exams/Exam 2 Study Guide.md"
-              }
+              "state": {}
             }
           },
           {
@@ -305,10 +301,10 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "edd3f446b099fad8",
+  "active": "59eb704e826dc2c7",
   "lastOpenFiles": [
-    "INTL 201/INTL 20100 ; International Studies - A Global Perspective.md",
     "INTL 201/Exams/Exam 2 Study Guide.md",
+    "INTL 201/INTL 20100 ; International Studies - A Global Perspective.md",
     "INTL 201/Lectures/Week6_lecture_SU2023_Lecture7(1).pdf",
     "Templates/Daily Notes(Task Edition)/Journal/2023/October/2023-10-27.md",
     "INTL 201/Readings/Castells_Networke_Society.pdf",
