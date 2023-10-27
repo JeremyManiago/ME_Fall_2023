@@ -18,7 +18,7 @@
 
 
 Colonialism
-Mercantilism
+Mercantilism - economic ideology. value contained in the world is fixed
 Mercantilism as bridge to Capitalism 
 Mode of Production (definition)
 Kin-Ordered Mode of Production
