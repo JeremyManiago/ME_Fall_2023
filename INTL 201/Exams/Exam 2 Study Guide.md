@@ -58,11 +58,11 @@ Division of Labor - most important feature of capitalism. It is the engine of pr
 
 Use Value - Value of a product. Its emphasis is on the utility of a product to the living person consuming it. Associates the product's value with the idea that we own what we make. 
 
-Exchange Value - "The proportion in which values in use of one sort or exchange for those of another sort" ~ Karl Marx. The exchange value of a product is not the intrinsic to the product or the qualities, rather it is relative and is dependent on time in space, dependent on who will buy it for how much, which depends on where and when it's sold.
+Exchange Value - "The proportion in which values in use of one sort or exchange for those of another sort" ~ Karl Marx. The exchange value of a product is not the intrinsic to the product or the qualities, rather it is relative and is dependent on time in space, dependent on who will buy it for how much, which depends on where and when it's sold. 
 
-Labor Value - 
+Labor Value - All commodities are the products of labor, therefore all products contain labor value. Labor is the only intrinsic source of value according to Marx
 
-Commodity (definition) - 
+Commodity (definition) - Something produced for exchange. 
 
 Socially-Determined Labor Time -
 
