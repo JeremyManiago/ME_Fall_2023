@@ -4,6 +4,9 @@
 - [[Matlab R2023a for ME Students.pdf]]
 - [[[Elsevier Aerospace Engineering Series] Howard D. Curtis - Orbital Mechanics For Engineering Students (2020, Elsevier_Butterworth-Heinemann).pdf]]
 
+---
+## Exam Practice
+- [[f22ex1s.pdf|Exam 1]]
 
 ---
 ## Lectures
@@ -14,6 +17,10 @@
 - [[Lecture Notes 5.pdf]]
 - [[Lecture Notes 6.pdf]]
 - [[Lecture Notes 7.pdf]]
+- [[Lecture Notes 8.pdf]]
+- [[Lecture Notes 9(1).pdf]]
+- [[Lecture Notes 10.pdf]]
+- [[Lecture Notes 11.pdf]]
 
 
 ---
@@ -31,3 +38,4 @@
 	- [i] [[f23hw5s.pdf]] 
 - [x] [[f23hw6.pdf]] 🔼 📅 2023-10-19 ✅ 2023-10-19
 	- [i] [[f23hw6s.pdf]]
+- [ ] [[f23hw7.pdf]] 📅 2023-10-26 
