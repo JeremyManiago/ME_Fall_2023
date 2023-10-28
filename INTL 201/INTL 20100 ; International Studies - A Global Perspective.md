@@ -4,7 +4,6 @@
 	- **Book is Physical**
 - Citation - [Citation Machine®: APA Format & APA Citation Generator](https://www.citationmachine.net/apa)
 	- Steger, M. B. (2020). _Globalization: A very short introduction_ (5th ed.). Oxford University Press.
-	- 
 
 ---
 ## *Lectures*
