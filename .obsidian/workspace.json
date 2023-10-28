@@ -20,18 +20,6 @@
             }
           },
           {
-            "id": "2b15569b5a8f6038",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "INTL 201/INTL 20100 ; International Studies - A Global Perspective.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "edd3f446b099fad8",
             "type": "leaf",
             "state": {
@@ -44,57 +32,31 @@
             }
           },
           {
-            "id": "367aeda74b2b00c5",
+            "id": "c1b9ecd0c653760c",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "INTL 201/Readings/Biao_Body_Shop100-115.pdf"
+                "file": "ME 515/ME 51500_I0820 ; Orbital Mechanics.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
           {
-            "id": "ecf6f5d0418b8def",
+            "id": "ac857794383a0a13",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "INTL 201/Readings/Castells_Networke_Society.pdf"
-              }
-            }
-          },
-          {
-            "id": "ac6a00a43165a6f9",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "INTL 201/Readings/FrankJLechnerJo_2015_Chapter59GlobalIndian_TheGlobalizationReade.pdf"
-              }
-            }
-          },
-          {
-            "id": "869b21df2fa4489c",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "INTL 201/Lectures/Week6_lecture_2021_SU2023_Lecture10.pdf"
-              }
-            }
-          },
-          {
-            "id": "4052b694f4ef6eca",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "INTL 201/Readings/Graeber(1).pdf"
+                "file": "Templates/Daily Notes(Task Edition)/Journal/2023/October/2023-10-27.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -175,6 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "INTL 201/Exams/Exam 2 Study Guide.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -191,6 +154,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "INTL 201/Exams/Exam 2 Study Guide.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -212,7 +176,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "INTL 201/Exams/Exam 2 Study Guide.md"
+              }
             }
           },
           {
@@ -269,15 +235,19 @@
             "id": "59eb704e826dc2c7",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Templates/Daily Notes(Task Edition)/Journal/2023/October/2023-10-28.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 349
+    "width": 456
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -301,36 +271,33 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "59eb704e826dc2c7",
+  "active": "edd3f446b099fad8",
   "lastOpenFiles": [
+    "Templates/Daily Notes(Task Edition)/Journal/2023/October/2023-10-28.md",
     "INTL 201/Exams/Exam 2 Study Guide.md",
-    "INTL 201/INTL 20100 ; International Studies - A Global Perspective.md",
-    "INTL 201/Lectures/Week6_lecture_SU2023_Lecture7(1).pdf",
-    "Templates/Daily Notes(Task Edition)/Journal/2023/October/2023-10-27.md",
-    "INTL 201/Readings/Castells_Networke_Society.pdf",
-    "INTL 201/Readings/FrankJLechnerJo_2015_Chapter59GlobalIndian_TheGlobalizationReade.pdf",
-    "INTL 201/Readings/Biao_Body_Shop100-115.pdf",
-    "INTL 201/Lectures/Week6_lecture_2021_SU2023_Lecture10.pdf",
-    "INTL 201/Readings/Graeber(1).pdf",
-    "INTL 201/Lectures/Lecture 4.md",
-    "INTL 201/Lectures/Lecture 3.md",
-    "INTL 201/Lectures/Lecture 2.md",
-    "INTL 201/Lectures/Lecture 1.md",
-    "conflict-files-obsidian-git.md",
-    "Templates/Daily Notes(Task Edition)/Journal/2023/October/2023-10-25.md",
-    "ME 436/Labs/Viscous Flow in a Pipe/Viscous Flow in a Pipe.md",
-    "Resumes & Documents/Applications.md",
-    "ME 436/Labs/Viscous Flow in a Pipe/JeremyManiago_viscouspipe.pdf",
-    "ME 436/ME 43600 ; Aerothermal Fluids Lab.md",
     "Templates/Daily Notes(Task Edition)/Journal/2023/October/2023-10-26.md",
     "Templates/Daily Notes(Task Edition)/Journal/2023/October/2023-10-23.md",
-    "Templates/Daily Notes(Task Edition)/Journal/2023/October/2023-10-21.md",
-    "ME 462/ME 46200 ; Manufacturing Processes.md",
-    "INTL 201/~$am 2 Study Guide_SU2023.docx",
-    "ME 436/ME43600_Aero_Thermal_Manual.pdf",
-    "ME 436/Labs/Viscous Flow in a Pipe/~WRL2930.tmp",
-    "ME 556/ME 55600, I0800 ; Advanced Fluid Mechanics.md",
+    "Templates/Daily Notes(Task Edition)/Journal/2023/October/2023-10-27.md",
+    "ME 515/HW/f23hw7.pdf",
     "ME 515/ME 51500_I0820 ; Orbital Mechanics.md",
+    "ME 515/Exam Practice/f22ex1s.pdf",
+    "ME 515/HW/Unconfirmed 733246.crdownload",
+    "ME 515/Lectures/Lecture Notes 11.pdf",
+    "ME 515/Lectures/Unconfirmed 656048.crdownload",
+    "ME 515/Lectures/Lecture Notes 10.pdf",
+    "ME 515/Lectures/Unconfirmed 798449.crdownload",
+    "ME 515/Lectures/Lecture Notes 9(1).pdf",
+    "ME 515/Lectures/Unconfirmed 799873.crdownload",
+    "ME 515/Exam Practice/Unconfirmed 532780.crdownload",
+    "Resumes & Documents/Applications.md",
+    "Templates/Daily Notes(Task Edition)/Journal/2023/October/2023-10-25.md",
+    "ME 462/ME 46200 ; Manufacturing Processes.md",
+    "conflict-files-obsidian-git.md",
+    "Templates/Daily Notes(Task Edition)/Journal/2023/October/2023-10-21.md",
+    "INTL 201/INTL 20100 ; International Studies - A Global Perspective.md",
+    "ME 436/Labs/Viscous Flow in a Pipe/Viscous Flow in a Pipe.md",
+    "ME 436/ME 43600 ; Aerothermal Fluids Lab.md",
+    "ME 556/ME 55600, I0800 ; Advanced Fluid Mechanics.md",
     "Templates/Daily Notes(Task Edition)/Journal/2023/October/2023-10-20.md",
     "ME 436/Labs/Pelton Wheel/Pelton Wheel.md",
     "Templates/Daily Notes(Task Edition)/Journal/2023/October/2023-10-19.md",
@@ -339,6 +306,10 @@
     "ME 436/Labs/Viscous Flow in a Pipe/viscous_pipe.m.md",
     "ME 436/attachments/Pasted image 20231016223522.png",
     "ME 436/Labs/Viscous Flow in a Pipe/JeremyManiago_viscouspipe.docx.md",
+    "Templates/Daily Notes(Task Edition)/Journal/2023/October/2023-10-16.md",
+    "Templates/Daily Notes(Task Edition)/Journal/2023/October/2023-10-09.md",
+    "INTL 201/Lectures/Lecture 8.md",
+    "INTL 201/Lectures/Lecture 10.md",
     "ME 436/Labs/Pelton Wheel/torque_vs_wheelspeed.png",
     "ME 436/Labs/Pelton Wheel/poweroutput_vs_wheelspeed.png",
     "ME 436/Labs/Pelton Wheel/efficiency_vs_wheelspeed_errorbars.png",

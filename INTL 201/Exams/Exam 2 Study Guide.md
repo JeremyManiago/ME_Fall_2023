@@ -51,7 +51,7 @@ Labor Value - All commodities are the products of labor, therefore all products 
 
 Commodity (definition) - Something produced for exchange. 
 
-Socially-Determined Labor Time - Flattening of distinct qualities and types of labor to a uniform measure. "The value of labor time in a good is not the number of hours of work that went into making the good, rather it is the proportion of total amount of labor in the entire economy that went into making the good" ~ Marx.
+
 
 ## [[Lecture 8]]
 
@@ -64,7 +64,7 @@ Socially-Determined Labor Time - Flattening of distinct qualities and types of l
 ## [[Lecture 10]]
 
 
-
+Socially-Determined Labor Time - Flattening of distinct qualities and types of labor to a uniform measure. "The value of labor time in a good is not the number of hours of work that went into making the good, rather it is the proportion of total amount of labor in the entire economy that went into making the good" ~ Marx.
 
 Subsistence Wages - 
 + Wages are always driven toward subsistence under Capitalism
