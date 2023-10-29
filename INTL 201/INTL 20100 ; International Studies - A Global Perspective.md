@@ -58,7 +58,7 @@
 	- [ ] Required Reading: 
 		- [x] Required Reading 1. • Radhakrishnan, Smitha. Global/Indian. Cultural Politics in the IT Workplace. In Lechner, Frank J. and Boli, John. The Globalization Reader. 5th ed. (Wiley, 2014) (Chapter 59, pp.469-476). [[FrankJLechnerJo_2015_Chapter59GlobalIndian_TheGlobalizationReade.pdf]] ✅ 2023-10-28
 		- [x] Required Reading 2. • Manuel Castells, 1996. The Transformation of Work and Employment: Networkers, Jobless, and Flextimers. In: The Rise of the Network Society. Blackwell. (pp. 281-283 and 300-302). [[Castells_Networke_Society.pdf]] ✅ 2023-10-28
-		- [ ] Required Reading 3. Biao, Xiang 2007. From: Global “Body Shopping:” An Indian labor System in the Information Technology Industry”. Princeton University Press (pp. 100-102; 109-115). [[Biao_Body_Shop100-115.pdf]]
+		- [x] Required Reading 3. Biao, Xiang 2007. From: Global “Body Shopping:” An Indian labor System in the Information Technology Industry”. Princeton University Press (pp. 100-102; 109-115). [[Biao_Body_Shop100-115.pdf]] ✅ 2023-10-29
 
 - [ ] ***[[Lecture 10]]***
 	- [x] Video: https://youtu.be/LcUlpJ0aWbM ✅ 2023-10-28

@@ -33,4 +33,4 @@
 
 ---
 ## Projects
-- [ ] [[ME 55600_I0200 Lubrication Project.pdf]]  📅 2023-12-01 🔼 
+- [ ] [[ME 55600_I0200 Lubrication Project.pdf]]  📅 2023-12-01 🔼 🛫 2023-11-16
