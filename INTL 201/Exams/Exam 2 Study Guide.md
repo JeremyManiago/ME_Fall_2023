@@ -5,7 +5,7 @@
 
 Mercantilism as bridge to Capitalism - ^^^
 
-<u>Mode of Production (definition)</u> - The political economic social way production is organized by humans
+<u>Mode of Production (definition)</u> - The political economic social way production is organized by humans. 
 
 <u>Kin-Ordered Mode of Production</u> - Production and consumption organized through kinship (real or fictitious). Kinship may or may not restrict access to resources needed to produce goods.
 
@@ -14,6 +14,13 @@ Mercantilism as bridge to Capitalism - ^^^
 <u>Tribute Mode of Production</u> - The laborer has access to the means of production with the obligation of tribute to a lord or a ruling elite. "Labor is...mobilized and committed to the transformation of nature primarily through the exercise of power and domination"
 
 <u>Capitalism Exchange System</u> - Capitalism is often thought of as an economic system in which private actors own and control property in accord with their interests, and demand and supply freely set prices in markets in a way that can serve the best interests of society. The essential feature of capitalism is the motive to make a profit
++ "European expansion created a vast network of mercantile relations anchored in non-capitalist modes of production. The expansion of global trade did not in and of itself create Capitalism." ~ Wolf
++ The second necessary element that contributed, according to Wolf, to the shift to a global capitalist system was "the conversion of means of production and labor power into factors to be bought and sold on the market created by an all embracing, self regulating market of the economists".
++ "The capitalist mode produced at one and the same a new form of deploying social labor and a change from a mercantile to a capitalist market. The rise of capitalist relations of exchange is as predicated upon the development of the capitalist mode of production, not the reverse." ~ (Wolf, 298, as cited by Dennis, Lecture)
++ Under capitalism, you engage in productive activity and in exchange "the expectation of profit by the utilization of opportunities for exchange. Action , which is in the last analysis, oriented to profits from exchange" (Weber, as cited by Dennis, Lecture)
+	+ Capitalism is motivated by profit that is obtained by means of exchanging goods
++ "Capitalist mode of production is a qualitatively different mode of committing social labor to the transformation of nature." ~ Wolf
+	+ Way that labor is used and society is organized has a different quality compared to other modes of production
 
 <u>Labor Power</u> - the capacity to do work
 
@@ -110,7 +117,7 @@ Graeber's Summary of Labor under Capitalism -
 
 ## [[Lecture 10]]
 
-<u>Neoliberalism</u> - political economic arrangement that allows capitalists to continuously expand market. 
+<u>Neoliberalism</u> - political economic arrangement that allows capitalists to continuously expand market. Neoliberal state should favor strong individual private property rights. There is a fundamental good of free trade and markets. Private enterprise and entrepreneurship are keys to innovation and wealth creation, creating clear private property by enclosure of public goods so they can be put to the most productive uses. Competition is encouraged.
 
 <u>Liberalism (definition)</u> - political idea that the individuals and individual freedom is of the greatest importance. Government should protect individual freedom, which can mean upholding individual rights and also protecting individuals form the encroachment on their rights by other entities.
 

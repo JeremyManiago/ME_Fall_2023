@@ -34,43 +34,40 @@
 	+ [x] Required Reading: 
 		+ [x]  1. Living Anthropologically (Wolf Review) [[Eric Wolf_Review_Europe and the People Without History (Rediscovered)(1).pdf]]
 		+ [x]  2. Diamond, Jared. Guns, Germs, and Steel. (Chapter 3). [[Jared M. Diamond-Guns, Germs and Steel-Cpt 3.pdf]]
-	     
-	     
 
-- [ ] ***[[Lecture 6]]***
+- [x] ***[[Lecture 6]]*** ✅ 2023-10-29
 	- [x] Video: https://youtu.be/Oz283CO2u5w ✅ 2023-10-28
 	- [x] Lecture: [[Week5_lecture_SU2023_Lecture6(1).pdf]] ✅ 2023-10-28
 	- [x] Required Reading: Karl Marx, Capital, reprinted in The Marx-Engels Reader [1867], pp. 302-308. Please read only pages 302-308. [[Marx_selections.pdf]] ✅ 2023-10-28
 
-- [ ] ***[[Lecture 7]]***
+- [x] ***[[Lecture 7]]*** ✅ 2023-10-29
 	- [x] Video: https://youtu.be/ktb0B-i4HEQ ✅ 2023-10-28
 	- [x] Lecture: [[Week6_lecture_SU2023_Lecture7(1).pdf]] ✅ 2023-10-28
 	- [x] Required Reading: None ✅ 2023-10-28
 
-- [ ] ***[[Lecture 8]]***
+- [x] ***[[Lecture 8]]*** ✅ 2023-10-29
 	- [x] Video: https://youtu.be/o8eJAwJq7qQ ✅ 2023-10-28
 	- [x] Lecture: [[Week7_lecture_SU2023_Lecture8.pdf]] ✅ 2023-10-28
 	- [x] Required Reading: Graeber, David. “Value: Anthropological Theories of Value,” in A Handbook of Economic Anthropology, edited by James Carrier, (Northampton, MA: Edward Elgar, 2005), 439-454. [[Graeber(1).pdf]] ✅ 2023-10-28
 
-- [ ] ***[[Lecture 9]]***
+- [x] ***[[Lecture 9]]*** ✅ 2023-10-29
 	- [x] Video: https://youtu.be/mfn8Gf5xeAc ✅ 2023-10-28
 	- [x] Lecture: [[Week7_lecture_SU2023_Lecture9(1).pdf]] ✅ 2023-10-28
-	- [ ] Required Reading: 
+	- [x] Required Reading: ✅ 2023-10-29
 		- [x] Required Reading 1. • Radhakrishnan, Smitha. Global/Indian. Cultural Politics in the IT Workplace. In Lechner, Frank J. and Boli, John. The Globalization Reader. 5th ed. (Wiley, 2014) (Chapter 59, pp.469-476). [[FrankJLechnerJo_2015_Chapter59GlobalIndian_TheGlobalizationReade.pdf]] ✅ 2023-10-28
 		- [x] Required Reading 2. • Manuel Castells, 1996. The Transformation of Work and Employment: Networkers, Jobless, and Flextimers. In: The Rise of the Network Society. Blackwell. (pp. 281-283 and 300-302). [[Castells_Networke_Society.pdf]] ✅ 2023-10-28
 		- [x] Required Reading 3. Biao, Xiang 2007. From: Global “Body Shopping:” An Indian labor System in the Information Technology Industry”. Princeton University Press (pp. 100-102; 109-115). [[Biao_Body_Shop100-115.pdf]] ✅ 2023-10-29
 
-- [ ] ***[[Lecture 10]]***
+- [x] ***[[Lecture 10]]*** ✅ 2023-10-29
 	- [x] Video: https://youtu.be/LcUlpJ0aWbM ✅ 2023-10-28
 	- [x] Lecture: [[Week6_lecture_2021_SU2023_Lecture10.pdf]] ✅ 2023-10-28
-	- [ ] Required Reading: Steger, Manfred. Globalization: A Very Short Introduction. 5th ed. Oxford, 2020. (pp. 37-54; 59-62)
+	- [x] Required Reading: Steger, Manfred. Globalization: A Very Short Introduction. 5th ed. Oxford, 2020. (pp. 37-54; 59-62) ✅ 2023-10-29
 
 
 ---
 ## *Homeworks*
 + [x] [[Assignment 1]]
 + [x] [[Assignment 2]]
-+ [ ] 
 
 
 ---
@@ -82,5 +79,5 @@
 - [ ] Exam 2 | [Lecture Exam 2 Directions](https://youtu.be/9v5-Uc8ayxw) | [[Exam 2 Study Guide_SU2023.docx]] | [[Exam 2 Study Guide]], 📅 2023-10-25 ⏫ 
 	- [x] <u>Multiple Choice (Part 1 of 2)</u> ✅ 2023-10-28
 	- [ ] <u>Essay (Part 2 of 2)</u>
-		- [ ] **1. Consider the different Modes of Production that have been described in class. Define "Mode of Production" as explained in the lecture. Explain the characteristics that make Capitalism a unique Mode of Production?**
+		- [x] **1. Consider the different Modes of Production that have been described in class. Define "Mode of Production" as explained in the lecture. Explain the characteristics that make Capitalism a unique Mode of Production?** ✅ 2023-10-29
 		- [ ] **2. Explain the main characteristics of the Neoliberal economic system. Identify three specific national or international institutions or Neoliberal policies and explain how they contribute to creating a neoliberal system. Explain why neoliberal policies contribute to globalization.**
