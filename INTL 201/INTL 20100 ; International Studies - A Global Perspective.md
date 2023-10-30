@@ -78,6 +78,6 @@
 
 - [ ] Exam 2 | [Lecture Exam 2 Directions](https://youtu.be/9v5-Uc8ayxw) | [[Exam 2 Study Guide_SU2023.docx]] | [[Exam 2 Study Guide]], 📅 2023-10-25 ⏫ 
 	- [x] <u>Multiple Choice (Part 1 of 2)</u> ✅ 2023-10-28
-	- [ ] <u>Essay (Part 2 of 2)</u>
+	- [x] <u>Essay (Part 2 of 2)</u> ✅ 2023-10-29
 		- [x] **1. Consider the different Modes of Production that have been described in class. Define "Mode of Production" as explained in the lecture. Explain the characteristics that make Capitalism a unique Mode of Production?** ✅ 2023-10-29
-		- [ ] **2. Explain the main characteristics of the Neoliberal economic system. Identify three specific national or international institutions or Neoliberal policies and explain how they contribute to creating a neoliberal system. Explain why neoliberal policies contribute to globalization.**
+		- [x] **2. Explain the main characteristics of the Neoliberal economic system. Identify three specific national or international institutions or Neoliberal policies and explain how they contribute to creating a neoliberal system. Explain why neoliberal policies contribute to globalization.** ✅ 2023-10-29
