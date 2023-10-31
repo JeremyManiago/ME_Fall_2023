@@ -20,18 +20,6 @@
             }
           },
           {
-            "id": "2b15569b5a8f6038",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "INTL 201/INTL 20100 ; International Studies - A Global Perspective.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "edd3f446b099fad8",
             "type": "leaf",
             "state": {
@@ -42,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "23a3b016a1330f32",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "INTL 201/INTL 20100 ; International Studies - A Global Perspective.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -255,9 +255,14 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "2b15569b5a8f6038",
+  "active": "23a3b016a1330f32",
   "lastOpenFiles": [
+    "INTL 201/Exams/~$remyManiago_Exam2_Part2_Essays.docx",
     "INTL 201/Exams/Exam 2 Study Guide.md",
+    "Resumes & Documents/Applications.md",
+    "Templates/Daily Notes(Task Edition)/Journal/2023/October/2023-10-31.md",
+    "Templates/Daily Notes(Task Edition)/Journal/2023/October/2023-10-30.md",
+    "INTL 201/INTL 20100 ; International Studies - A Global Perspective.md",
     "INTL 201/Readings/FrankJLechnerJo_2015_Chapter59GlobalIndian_TheGlobalizationReade.pdf",
     "INTL 201/Readings/Castells_Networke_Society.pdf",
     "Templates/Daily Notes(Task Edition)/Journal/2023/October/2023-10-29.md",
@@ -270,7 +275,6 @@
     "ME 515/Exam Practice/f22ex1s.pdf",
     "ME 515/Exam Practice",
     "INTL 201/Exams/JeremyManiago_Exam2_Part2_Essays.docx",
-    "INTL 201/INTL 20100 ; International Studies - A Global Perspective.md",
     "Templates/Daily Notes(Task Edition)/Journal/2023/October/2023-10-27.md",
     "INTL 201/Lectures/Lecture 4.md",
     "INTL 201/Lectures/Lecture 3.md",
@@ -279,7 +283,6 @@
     "conflict-files-obsidian-git.md",
     "Templates/Daily Notes(Task Edition)/Journal/2023/October/2023-10-25.md",
     "ME 436/Labs/Viscous Flow in a Pipe/Viscous Flow in a Pipe.md",
-    "Resumes & Documents/Applications.md",
     "ME 436/ME 43600 ; Aerothermal Fluids Lab.md",
     "Templates/Daily Notes(Task Edition)/Journal/2023/October/2023-10-26.md",
     "Templates/Daily Notes(Task Edition)/Journal/2023/October/2023-10-23.md",
@@ -290,8 +293,6 @@
     "Templates/Daily Notes(Task Edition)/Journal/2023/October/2023-10-20.md",
     "ME 436/Labs/Pelton Wheel/Pelton Wheel.md",
     "Templates/Daily Notes(Task Edition)/Journal/2023/October/2023-10-19.md",
-    "Templates/Daily Notes(Task Edition)/Journal/2023/October/2023-10-17.md",
-    "Resumes & Documents/Resumes.md",
     "ME 436/attachments/Pasted image 20231016223522.png",
     "ME 436/Labs/Pelton Wheel/torque_vs_wheelspeed.png",
     "ME 436/Labs/Pelton Wheel/poweroutput_vs_wheelspeed.png",
