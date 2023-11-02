@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "172c5973fb32d861",
+        "id": "2c525c66af693b5a",
         "type": "tabs",
         "children": [
           {
@@ -13,38 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Resumes & Documents/Applications.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "edd3f446b099fad8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "INTL 201/Exams/Exam 2 Study Guide.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "23a3b016a1330f32",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "INTL 201/INTL 20100 ; International Studies - A Global Perspective.md",
+                "file": "ME 515/ME 51500_I0820 ; Orbital Mechanics.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -117,7 +92,6 @@
       {
         "id": "276f57e2d7b44bfd",
         "type": "tabs",
-        "dimension": 49.70930232558139,
         "children": [
           {
             "id": "449df220a32c85f8",
@@ -125,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "INTL 201/INTL 20100 ; International Studies - A Global Perspective.md",
+                "file": "ME 515/ME 51500_I0820 ; Orbital Mechanics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "INTL 201/INTL 20100 ; International Studies - A Global Perspective.md",
+                "file": "ME 515/ME 51500_I0820 ; Orbital Mechanics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -165,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "INTL 201/INTL 20100 ; International Studies - A Global Perspective.md"
+                "file": "ME 515/ME 51500_I0820 ; Orbital Mechanics.md"
               }
             }
           },
@@ -194,14 +168,6 @@
             }
           },
           {
-            "id": "990822c4e267e842",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
             "id": "92531f696ecda1f0",
             "type": "leaf",
             "state": {
@@ -215,12 +181,11 @@
         "currentTab": 4
       },
       {
-        "id": "1e82b52bf91194c4",
+        "id": "056ee98a92a843db",
         "type": "tabs",
-        "dimension": 50.29069767441861,
         "children": [
           {
-            "id": "59eb704e826dc2c7",
+            "id": "990822c4e267e842",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -231,7 +196,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 349
+    "width": 441
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -255,45 +220,45 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "23a3b016a1330f32",
+  "active": "56c493fb065adf5a",
   "lastOpenFiles": [
-    "INTL 201/Exams/~$remyManiago_Exam2_Part2_Essays.docx",
-    "INTL 201/Exams/Exam 2 Study Guide.md",
-    "Resumes & Documents/Applications.md",
-    "Templates/Daily Notes(Task Edition)/Journal/2023/October/2023-10-31.md",
-    "Templates/Daily Notes(Task Edition)/Journal/2023/October/2023-10-30.md",
-    "INTL 201/INTL 20100 ; International Studies - A Global Perspective.md",
-    "INTL 201/Readings/FrankJLechnerJo_2015_Chapter59GlobalIndian_TheGlobalizationReade.pdf",
-    "INTL 201/Readings/Castells_Networke_Society.pdf",
-    "Templates/Daily Notes(Task Edition)/Journal/2023/October/2023-10-29.md",
-    "Templates/Daily Notes(Task Edition)/Journal/2023/October/2023-10-28.md",
-    "ME 515/Lectures/Lecture Notes 9(1).pdf",
-    "ME 515/Lectures/Lecture Notes 8.pdf",
-    "ME 515/Lectures/Lecture Notes 11.pdf",
-    "ME 515/Lectures/Lecture Notes 10.pdf",
-    "ME 515/HW/f23hw7.pdf",
+    "ME 515/HW/f23hw4s.pdf",
+    "ME 515/HW/f23hw5s.pdf",
+    "ME 515/HW/f23hw8s.pdf",
+    "ME 515/HW/f23hw7s.pdf",
+    "ME 515/HW/f23hw6s.pdf",
+    "ME 515/HW/f23hw8p4s(1).pdf",
+    "ME 515/ME 51500_I0820 ; Orbital Mechanics.md",
+    "ME 515/HW/f23hw3s.pdf",
+    "ME 515/HW/f23hw2s.pdf",
+    "ME 515/HW/f23hw1s.pdf",
     "ME 515/Exam Practice/f22ex1s.pdf",
-    "ME 515/Exam Practice",
-    "INTL 201/Exams/JeremyManiago_Exam2_Part2_Essays.docx",
+    "ME 515/HW/Unconfirmed 626565.crdownload",
+    "INTL 201/INTL 20100 ; International Studies - A Global Perspective.md",
+    "Resumes & Documents/Applications.md",
+    "INTL 201/Exams/Exam 2 Study Guide.md",
+    "Templates/Daily Notes(Task Edition)/Journal/2023/November/2023-11-01.md",
+    "Templates/Daily Notes(Task Edition)/Journal/2023/October/2023-10-29.md",
+    "ME 556/ME 55600, I0800 ; Advanced Fluid Mechanics.md",
+    "Templates/Daily Notes(Task Edition)/Journal/2023/October/2023-10-28.md",
     "Templates/Daily Notes(Task Edition)/Journal/2023/October/2023-10-27.md",
-    "INTL 201/Lectures/Lecture 4.md",
-    "INTL 201/Lectures/Lecture 3.md",
-    "INTL 201/Lectures/Lecture 2.md",
-    "INTL 201/Lectures/Lecture 1.md",
-    "conflict-files-obsidian-git.md",
-    "Templates/Daily Notes(Task Edition)/Journal/2023/October/2023-10-25.md",
-    "ME 436/Labs/Viscous Flow in a Pipe/Viscous Flow in a Pipe.md",
-    "ME 436/ME 43600 ; Aerothermal Fluids Lab.md",
     "Templates/Daily Notes(Task Edition)/Journal/2023/October/2023-10-26.md",
     "Templates/Daily Notes(Task Edition)/Journal/2023/October/2023-10-23.md",
-    "Templates/Daily Notes(Task Edition)/Journal/2023/October/2023-10-21.md",
+    "Templates/Daily Notes(Task Edition)/Journal/2023/October/2023-10-25.md",
     "ME 462/ME 46200 ; Manufacturing Processes.md",
-    "ME 556/ME 55600, I0800 ; Advanced Fluid Mechanics.md",
-    "ME 515/ME 51500_I0820 ; Orbital Mechanics.md",
+    "conflict-files-obsidian-git.md",
+    "Templates/Daily Notes(Task Edition)/Journal/2023/October/2023-10-21.md",
+    "ME 436/Labs/Viscous Flow in a Pipe/Viscous Flow in a Pipe.md",
+    "ME 436/ME 43600 ; Aerothermal Fluids Lab.md",
     "Templates/Daily Notes(Task Edition)/Journal/2023/October/2023-10-20.md",
     "ME 436/Labs/Pelton Wheel/Pelton Wheel.md",
     "Templates/Daily Notes(Task Edition)/Journal/2023/October/2023-10-19.md",
+    "Templates/Daily Notes(Task Edition)/Journal/2023/October/2023-10-17.md",
+    "Resumes & Documents/Resumes.md",
+    "ME 436/Labs/Viscous Flow in a Pipe/viscous_pipe.m.md",
     "ME 436/attachments/Pasted image 20231016223522.png",
+    "ME 436/Labs/Viscous Flow in a Pipe/JeremyManiago_viscouspipe.docx.md",
+    "Templates/Daily Notes(Task Edition)/Journal/2023/October/2023-10-16.md",
     "ME 436/Labs/Pelton Wheel/torque_vs_wheelspeed.png",
     "ME 436/Labs/Pelton Wheel/poweroutput_vs_wheelspeed.png",
     "ME 436/Labs/Pelton Wheel/efficiency_vs_wheelspeed_errorbars.png",
