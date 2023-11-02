@@ -29,7 +29,7 @@
 - [x] [[HW 6- Low Re Flow.pdf]] 🔽 📅 2023-10-12 ✅ 2023-10-13
 	- [i] [[HW 6- Solution.pdf]]
 - [x] [[ME I0800 HW 7 Boundary Layer Theory.pdf]] 🔼 📅 2023-10-19 ✅ 2023-10-19
-	- [i] 
+	- [i] [[ME I0800 HW 7 Boundary Layer Theory-Solution.pdf]]
 
 ---
 ## Projects
