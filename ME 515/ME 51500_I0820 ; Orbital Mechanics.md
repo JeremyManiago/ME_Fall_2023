@@ -45,4 +45,4 @@
 	- [i] [[f23hw8s.pdf]]
 	- [i] [[f23hw8p4s(1).pdf]]
 - [ ] [[f23hw9.pdf]]
-	- [i] [[HW9_Geosynchronous_Orbit.script]]
+	- [x] [[HW9_Geosynchronous_Orbit.script]] ✅ 2023-11-04
