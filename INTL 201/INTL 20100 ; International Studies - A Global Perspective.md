@@ -63,6 +63,19 @@
 	- [x] Lecture: [[Week6_lecture_2021_SU2023_Lecture10.pdf]] ✅ 2023-10-28
 	- [x] Required Reading: Steger, Manfred. Globalization: A Very Short Introduction. 5th ed. Oxford, 2020. (pp. 37-54; 59-62) ✅ 2023-10-29
 
+- [ ] ***[[Lecture 11]]***
+	- [ ] Video: https://youtu.be/FavfjdDbiNk
+	- [ ] Lecture: [[Week10_lecture_2021_SU2023_Lecture11.pdf]]
+	- [x] Required Reading: None ✅ 2023-11-05
+
+- [ ] ***[[Lecture 12]]***
+	- [ ] Video: https://youtu.be/dhgNBYB-FgE
+	- [ ] Lecture: [[Week11_lecture_2021_SU2023_Lecture12.pdf]]
+	- [ ] Required Reading:
+		- [ ] Required Reading 1. Multiple Authors. Chapter 8: Europe and Russia: Nationalism and Transnationalism. In Juergensmeyer, Mark. Thinking Globally: a Global Studies Reader. 1st ed. Berkeley: University of California Press, 2014. (pp.163-168). [[MarkJuergensmey_cpt_8EuropeAndRussiaNatio_ThinkingGloballyAGlob.pdf]]
+		- [ ] Required Reading 2. Part V. Globalization and the Nation State. In Lechner, Frank J. and Boli, John. The Globalization Reader. 5th ed. (Wiley, 2014) (pp. 228-231). [[FrankJLechner_Globalization_and_NationState_Introduction.pdf]]
+
+
 
 ---
 ## *Homeworks*
