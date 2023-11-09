@@ -6,6 +6,10 @@
 		- Structural
 		- AeroThermal
 	- [ ] [Engineer I - Mechanical Systems, Externals and Nacelles (MSEN) Systems Engineer (Hybrid) in East Hartford, Connecticut, United States of America | Engineering at RTX](https://careers.rtx.com/global/en/job/01644918/Engineer-I-Mechanical-Systems-Externals-and-Nacelles-MSEN-Systems-Engineer-Hybrid)
+	- [ ] [Engineer I: LS-Dyna Practitioner (Hybrid) in East Hartford, Connecticut, United States of America | Engineering at RTX](https://careers.rtx.com/global/en/job/01636275/Engineer-I-LS-Dyna-Practitioner-Hybrid)
+	- [ ] [Design Engineer I - Gearbox and Turbine Products(On-site) in Rockford, Illinois, United States of America | Engineering at RTX](https://careers.rtx.com/global/en/job/01653466/Design-Engineer-I-Gearbox-and-Turbine-Products-On-site)
+	- [ ] [Associate Systems Engineer Rotary Wing - Onsite in Cedar Rapids, Iowa, United States of America | Engineering at RTX](https://careers.rtx.com/global/en/job/01636052/Associate-Systems-Engineer-Rotary-Wing-Onsite)
+	- [ ] [Ram Air Turbine Product Engineer (Onsite) in Rockford, Illinois, United States of America | Engineering at RTX](https://careers.rtx.com/global/en/job/01659161/Ram-Air-Turbine-Product-Engineer-Onsite)
 
 - [ ] Blue Origin [Candidate Home (myworkdayjobs.com)](https://blueorigin.wd5.myworkdayjobs.com/en-US/BlueOrigin/userHome?q=new%20graduate&jobFamilyGroup=5f32d2b8465201d2518e5cd93717dc43) ⏫  📅 2023-10-30 🛫 2023-10-16 
 	- [-] [New Graduate / Early Career Engineer (Spring / Summer / Fall 2024 Start Date) – Fluid Systems](https://blueorigin.wd5.myworkdayjobs.com/en-US/BlueOrigin/job/Seattle-WA/New-Graduate---Early-Career-Engineer--Spring---Summer---Fall-2024-Start-Date----Fluid-Systems_R36299?q=new%20graduate&jobFamilyGroup=5f32d2b8465201d2518e5cd93717dc43)
@@ -23,7 +27,8 @@
 
 - [/] Naval Nuclear Laboratory ⏫ 
 	- [ ] [New in Career - Mechanical/Aero Engineer - Structural Analysis - Careers | Naval Nuclear Laboratory (energy.gov)](https://navalnuclearlab.energy.gov/job-search/job-detail/?job-id=2372)
-	- [ ] [New in Career - Mechanical/Nuclear Engineer - Thermal Hydraulics - Careers | Naval Nuclear Laboratory (energy.gov)](https://navalnuclearlab.energy.gov/job-search/job-detail/?job-id=2373)
+	- [x] [New in Career - Mechanical/Nuclear Engineer - Thermal Hydraulics - Careers | Naval Nuclear Laboratory (energy.gov)](https://navalnuclearlab.energy.gov/job-search/job-detail/?job-id=2373) ✅ 2023-11-08
+	- [ ] 
 
 - [ ] Orano (Nuclear)
 
