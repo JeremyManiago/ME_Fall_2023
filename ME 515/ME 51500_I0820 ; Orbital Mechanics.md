@@ -45,5 +45,6 @@
 - [x] [[f23hw8.pdf]] ✅ 2023-11-01
 	- [i] [[f23hw8s.pdf]]
 	- [i] [[f23hw8p4s(1).pdf]]
-- [ ] [[f23hw9.pdf]]
+- [x] [[f23hw9.pdf]] ✅ 2023-11-11
 	- [x] [[HW9_Geosynchronous_Orbit.script]] ✅ 2023-11-04
+	- [i] 
