@@ -22,6 +22,8 @@
 - [[Lecture Notes 10.pdf]]
 - [[Lecture Notes 11.pdf]]
 - [[Lecture Notes 12(1).pdf]]
+- [[Lecture Notes 13.pdf]]
+- [[Lecture Notes 14.pdf]]
 
 
 ---
@@ -47,4 +49,6 @@
 	- [i] [[f23hw8p4s(1).pdf]]
 - [x] [[f23hw9.pdf]] ✅ 2023-11-11
 	- [x] [[HW9_Geosynchronous_Orbit.script]] ✅ 2023-11-04
-	- [i] 
+	- [i] [[f23hw9s.pdf]]
+- [ ] [[f23hw10(2).pdf]] 📅 2023-11-16
+	- [i] [[f23hw10s.pdf]]

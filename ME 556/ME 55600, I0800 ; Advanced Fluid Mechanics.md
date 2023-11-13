@@ -12,6 +12,7 @@
 + [[V. Lubrication Theory -Word 14.pdf]]
 + [[VI. Low Reynolds Number Hydrodynamics +.pdf]]
 + [[VII. Boundary Layer Theory (1).pdf]]
++ [[VIII. Potential Flow .pdf]]
 
 ---
 ## Homeworks
@@ -30,6 +31,11 @@
 	- [i] [[HW 6- Solution.pdf]]
 - [x] [[ME I0800 HW 7 Boundary Layer Theory.pdf]] 🔼 📅 2023-10-19 ✅ 2023-10-19
 	- [i] [[ME I0800 HW 7 Boundary Layer Theory-Solution.pdf]]
+- [ ] [[HW 8a- Potential Flow.pdf]] 📅 2023-11-16 
+	- [i] 
+- [ ] [[HW 8b Potential Flow.pdf]]
+	- [i] 
+
 
 ---
 ## Projects
