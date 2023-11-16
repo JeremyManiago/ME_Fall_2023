@@ -9,6 +9,10 @@
 - [[f22ex1s.pdf|Exam 1]]
 
 ---
+## Project
+- [ ] [[f23project.pdf]] 📅 2023-12-11 5:00pm ⏫ 🔁 every week 
+
+---
 ## Lectures
 - [[Lecture Notes 1.pdf]]
 - [[Lecture Notes 2.pdf]]
@@ -24,7 +28,7 @@
 - [[Lecture Notes 12(1).pdf]]
 - [[Lecture Notes 13.pdf]]
 - [[Lecture Notes 14.pdf]]
-
+- [[Hyperbola Relations.pdf]]
 
 ---
 ## Homeworks
@@ -50,5 +54,5 @@
 - [x] [[f23hw9.pdf]] ✅ 2023-11-11
 	- [x] [[HW9_Geosynchronous_Orbit.script]] ✅ 2023-11-04
 	- [i] [[f23hw9s.pdf]]
-- [ ] [[f23hw10(2).pdf]] 📅 2023-11-16
+- [x] [[f23hw10(2).pdf]] 📅 2023-11-16 ✅ 2023-11-15
 	- [i] [[f23hw10s.pdf]]

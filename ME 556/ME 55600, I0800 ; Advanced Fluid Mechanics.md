@@ -13,6 +13,7 @@
 + [[VI. Low Reynolds Number Hydrodynamics +.pdf]]
 + [[VII. Boundary Layer Theory (1).pdf]]
 + [[VIII. Potential Flow .pdf]]
++ [[IX. Turbulent Flow .pdf]]
 
 ---
 ## Homeworks
@@ -35,6 +36,7 @@
 	- [i] 
 - [ ] [[HW 8b Potential Flow.pdf]]
 	- [i] 
+- [ ] [[HW 9- Turbulent BL.pdf]]
 
 
 ---
