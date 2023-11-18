@@ -29,6 +29,7 @@
 - [[Lecture Notes 13.pdf]]
 - [[Lecture Notes 14.pdf]]
 - [[Hyperbola Relations.pdf]]
+- [[Lecture Notes 15.pdf]]
 
 ---
 ## Homeworks
@@ -56,3 +57,5 @@
 	- [i] [[f23hw9s.pdf]]
 - [x] [[f23hw10(2).pdf]] 📅 2023-11-16 ✅ 2023-11-15
 	- [i] [[f23hw10s.pdf]]
+- [ ] [[f23hw11.pdf]] 📅 2023-11-30
+	- [i] 

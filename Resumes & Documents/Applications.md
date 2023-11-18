@@ -36,4 +36,12 @@
 
 - [ ] GD Boat
 
-- [ ] 
+- [ ] Nuclear Fusion Jobs
+	- [ ] CommonWealth Fusion Systems (CFS)
+	- [ ] Thea Stellarators (previously Princeton Stellarators)
+	- [ ] Type One Energy
+	- [ ] Helion (lol)
+	- [ ] SULI Labs
+	- [ ] 
+	- [ ] Tokamak Fusion (UK)
+	- [ ] Pulsar Fusion (UK)

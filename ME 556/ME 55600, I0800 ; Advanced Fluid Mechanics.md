@@ -16,6 +16,10 @@
 + [[IX. Turbulent Flow .pdf]]
 
 ---
+## Projects
+- [ ] [[ME 55600_I0200 Lubrication Project.pdf]]  📅 2023-12-01 🔼 🛫 2023-11-16
+
+---
 ## Homeworks
 + [x] [[ME I0800 HW1 Governing Equations.docx]]
 	+ [i] [[ME 55600_I0200 HW 1 Governing Equations-Solution (1).docx]]
@@ -26,19 +30,16 @@
 + [x] [[ME 55600_I0200 HW 4 Marangoni Effect.docx]]
 	+ [i] [[ME 55600_I0200 HW 4 Marangoni Effect-Solution.pdf]] 
 - [x] [[ME 55600_I0200 HW 5 Lubrication Approximation.docx]] 🔼 📅 2023-10-05 ✅ 2023-10-04
-	+ [*] [[HW5_integrationcheck.m]]
+	+ [-] [[HW5_integrationcheck.m]]
 	+ [i] [[ME I0800 HW 5 Lubrication Approximation-Solution.pdf]]
 - [x] [[HW 6- Low Re Flow.pdf]] 🔽 📅 2023-10-12 ✅ 2023-10-13
 	- [i] [[HW 6- Solution.pdf]]
 - [x] [[ME I0800 HW 7 Boundary Layer Theory.pdf]] 🔼 📅 2023-10-19 ✅ 2023-10-19
 	- [i] [[ME I0800 HW 7 Boundary Layer Theory-Solution.pdf]]
-- [ ] [[HW 8a- Potential Flow.pdf]] 📅 2023-11-16 
-	- [i] 
-- [ ] [[HW 8b Potential Flow.pdf]]
+- [x] [[HW 8a- Potential Flow.pdf]] 📅 2023-11-16 ✅ 2023-11-18
+	- [i] [[ME 55600_I0200 Solutions HW 8a.pdf]]
+- [ ] [[HW 8b Potential Flow.pdf]] 📅 2023-11-30
 	- [i] 
 - [ ] [[HW 9- Turbulent BL.pdf]]
+	- [i] 
 
-
----
-## Projects
-- [ ] [[ME 55600_I0200 Lubrication Project.pdf]]  📅 2023-12-01 🔼 🛫 2023-11-16
