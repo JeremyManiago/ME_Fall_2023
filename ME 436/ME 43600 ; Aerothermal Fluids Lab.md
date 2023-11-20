@@ -11,6 +11,6 @@
 - [x] [[Viscous Flow in a Pipe]] ⏫ 📅 2023-10-20 ✅ 2023-10-20
 - [ ] [[Constant Cross-Section Fin]]
 - [ ] [[Heat Exchanger]]
-- [ ] [[Wind Tunnel]]
+- [-] [[Wind Tunnel]]
 
 ---

@@ -3,10 +3,10 @@
 	- [[fin_rawdata.xlsx]]
 
 ## Manual
-- Chapter 6 (p. 39)
-	- 6.6 Report (p. 46)
+- Chapter 8 (p. 56)
+	- 8.5 Report (p. 58)
 ## MATLAB
-- [[]]
+- [[constant_fin.m]]
 
 ## Report
 - [[]]
