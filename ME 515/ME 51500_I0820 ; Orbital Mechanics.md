@@ -11,6 +11,7 @@
 ---
 ## Project
 - [ ] [[f23project.pdf]] 📅 2023-12-11 5:00pm ⏫ 🔁 every week 
+	- [ ] [[Project.script]]
 
 ---
 ## Lectures
