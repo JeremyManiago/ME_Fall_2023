@@ -1,6 +1,6 @@
 ## Data Sheet
-- [[FinData.txt]] | [[Uncertainty.txt]]
-	- [[fin_rawdata.xlsx]]
++ [[FinData.txt]] | [[Uncertainty.txt]]
+	+ [-] [[fin_rawdata.xlsx]]
 
 ## Manual
 - Chapter 8 (p. 56)
@@ -10,4 +10,4 @@
 
 ## Report
 - [[Fin_lab.docx]]
-	- ![[]]
+	- ![[Fin_lab.pdf]]
