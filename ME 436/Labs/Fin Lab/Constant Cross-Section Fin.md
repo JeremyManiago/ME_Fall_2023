@@ -6,9 +6,8 @@
 - Chapter 8 (p. 56)
 	- 8.5 Report (p. 58)
 ## MATLAB
-- [[constant_fin.m]]
 - [[constant_fin.mlx]]
 
 ## Report
-- [[]]
+- [[Fin_lab.docx]]
 	- ![[]]

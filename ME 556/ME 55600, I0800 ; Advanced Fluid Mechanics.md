@@ -4,6 +4,10 @@
 - [[Pijush K. Kundu, Ira M. Cohen - Fluid mechanics (2001, Academic Press) - libgen.li.pdf|Textbook]]
 
 ---
+## Projects
+- [ ] [[ME 55600_I0200 Lubrication Project.pdf]]  📅 2023-12-01 🔼 🛫 2023-11-16
+
+---
 ## Lectures
 + [[I. Introduction .pdf]]
 + [[II. Equations of Motion .pdf]]
@@ -14,10 +18,6 @@
 + [[VII. Boundary Layer Theory (1).pdf]]
 + [[VIII. Potential Flow .pdf]]
 + [[IX. Turbulent Flow .pdf]]
-
----
-## Projects
-- [ ] [[ME 55600_I0200 Lubrication Project.pdf]]  📅 2023-12-01 🔼 🛫 2023-11-16
 
 ---
 ## Homeworks

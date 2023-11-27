@@ -10,7 +10,7 @@
 
 ---
 ## Project
-- [ ] [[f23project.pdf]] 📅 2023-12-11 5:00pm ⏫ 🔁 every week 
+- [ ] [[f23project.pdf]] 📅 2023-12-11 ⏫ 🛫 2023-11-27 
 	- [ ] [[Project.script]]
 
 ---
