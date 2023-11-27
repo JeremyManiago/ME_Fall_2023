@@ -7,6 +7,7 @@
 	- 8.5 Report (p. 58)
 ## MATLAB
 - [[constant_fin.mlx]]
+	- [[constant_fin.m]] (lab report Appendix D)
 
 ## Report
 - [[Fin_lab.docx]]
