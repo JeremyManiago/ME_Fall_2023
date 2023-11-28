@@ -9,8 +9,8 @@
 ## Labs
 - [x] [[Pelton Wheel]] ⏫ 📅 2023-10-06 ✅ 2023-10-07
 - [x] [[Viscous Flow in a Pipe]] ⏫ 📅 2023-10-20 ✅ 2023-10-20
-- [ ] [[Constant Cross-Section Fin]]
-- [ ] [[Heat Exchanger]]
+- [x] [[Constant Cross-Section Fin]] ✅ 2023-11-27
+- [ ] [[Heat Pump]] 📅 2023-12-10 🔼 
 - [-] [[Wind Tunnel]]
 
 ---

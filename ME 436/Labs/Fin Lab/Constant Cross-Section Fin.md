@@ -10,5 +10,5 @@
 	- [[constant_fin.m]] (lab report Appendix D)
 
 ## Report
-- [[Fin_lab.docx]]
-	- ![[Fin_lab.pdf]]
+- [[JeremyManiago_fin.docx]]
+	- ![[JeremyManiago_fin.pdf]]
