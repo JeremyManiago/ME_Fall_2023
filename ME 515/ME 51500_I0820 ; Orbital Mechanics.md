@@ -7,11 +7,14 @@
 ---
 ## Exam Practice
 - [[f22ex1s.pdf|Exam 1]]
+- [[f22ex2s.pdf|Exam 2]]
 
 ---
 ## Project
 - [ ] [[f23project.pdf]] 📅 2023-12-11 ⏫ 🛫 2023-11-27 
 	- [ ] [[Project.script]]
+	- [ ] [[Lecture Notes 17.pdf]]
+	- [ ] [[project.mlx]]
 
 ---
 ## Lectures
@@ -31,6 +34,8 @@
 - [[Lecture Notes 14.pdf]]
 - [[Hyperbola Relations.pdf]]
 - [[Lecture Notes 15.pdf]]
+- [[Lecture Notes 16.pdf]]
+- [[Lecture Notes 17.pdf]]
 
 ---
 ## Homeworks
