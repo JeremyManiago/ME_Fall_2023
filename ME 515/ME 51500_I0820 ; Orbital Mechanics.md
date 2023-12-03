@@ -8,6 +8,9 @@
 ## Exam Practice
 - [[f22ex1s.pdf|Exam 1]]
 - [[f22ex2s.pdf|Exam 2]]
+	- Orbital Maneuvers, Interception and Rendezvous
+	- Relative motion of two vehicles, Linear Orbit Theory
+	- Orbit Perturbations, Atmospheric Drag, Planetary Oblateness
 
 ---
 ## Project
