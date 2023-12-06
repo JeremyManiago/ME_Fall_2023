@@ -5,7 +5,8 @@
 
 ---
 ## Projects
-- [ ] [[ME 55600_I0200 Lubrication Project.pdf]]  📅 2023-12-01 🔼 🛫 2023-11-16
+- [ ] [[ME 55600_I0200 Lubrication Project.pdf]]  📅 2023-12-07 🔼 🛫 2023-11-16
+	- [[lubrication_project.mlx]] 
 
 ---
 ## Lectures
