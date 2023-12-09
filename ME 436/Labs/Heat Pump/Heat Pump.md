@@ -11,11 +11,9 @@
 - ![[Experiment_Heat Pump Lab.pdf]]
 ## MATLAB
 - [[heat_pump.mlx]]
-	- [[heat_pump.m]] (lab report Appendix D)
 
 ## Excalidraw
 - P-H Diagram
 ![[Heat Pump P-H Diagrams.excalidraw|900]]
 ## Report
 - [[JeremyManiago_heatpump.docx]]
-	- ![[JeremyManiago_heatpump.pdf]]
