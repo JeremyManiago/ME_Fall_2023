@@ -16,4 +16,4 @@
 ## HW
 + [x] [[Pick n Place]]
 + [x] [[Project Requirements.pdf]]
-+ [/] Stapler Design
++ [x] Stapler Design ✅ 2023-12-09

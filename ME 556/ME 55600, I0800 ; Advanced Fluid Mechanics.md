@@ -41,6 +41,6 @@
 	- [i] [[ME 55600_I0200 Solutions HW 8a.pdf]]
 - [ ] [[HW 8b Potential Flow.pdf]] 📅 2023-11-30
 	- [i] 
-- [ ] [[HW 9- Turbulent BL.pdf]]
+- [x] [[HW 9- Turbulent BL.pdf]] ✅ 2023-12-09
 	- [i] 
 
