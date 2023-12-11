@@ -18,6 +18,7 @@
 	- [-] [[Project.script]]
 	- [x] [[Lecture Notes 17.pdf]] ✅ 2023-12-10
 	- [x] [[project.mlx]] ✅ 2023-12-10
+	- [ ] [[JeremyManiago_Orbital_Project.docx]]
 
 ---
 ## Lectures
