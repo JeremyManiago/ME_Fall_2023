@@ -15,9 +15,9 @@
 ---
 ## Project
 - [ ] [[f23project.pdf]] 📅 2023-12-11 ⏫ 🛫 2023-11-27 
-	- [ ] [[Project.script]]
-	- [ ] [[Lecture Notes 17.pdf]]
-	- [ ] [[project.mlx]]
+	- [-] [[Project.script]]
+	- [x] [[Lecture Notes 17.pdf]] ✅ 2023-12-10
+	- [x] [[project.mlx]] ✅ 2023-12-10
 
 ---
 ## Lectures
