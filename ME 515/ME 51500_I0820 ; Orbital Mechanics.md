@@ -14,11 +14,12 @@
 
 ---
 ## Project
-- [ ] [[f23project.pdf]] 📅 2023-12-11 ⏫ 🛫 2023-11-27 
+- [x] [[f23project.pdf]] ⏫ 🛫 2023-11-27 📅 2023-12-11 ✅ 2023-12-11
 	- [-] [[Project.script]]
 	- [x] [[Lecture Notes 17.pdf]] ✅ 2023-12-10
 	- [x] [[project.mlx]] ✅ 2023-12-10
-	- [ ] [[JeremyManiago_Orbital_Project.docx]]
+	- [x] [[JeremyManiago_Orbital_Project.docx]] ✅ 2023-12-11
+	- [ ] ![[JeremyManiago_Orbital_Project.pdf]]
 
 ---
 ## Lectures
