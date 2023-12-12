@@ -5,7 +5,7 @@
 
 ---
 ## Projects
-- [ ] [[ME 55600_I0200 Lubrication Project.pdf]]  📅 2023-12-07 🔼 🛫 2023-11-16
+- [x] [[ME 55600_I0200 Lubrication Project.pdf]] 🔼 🛫 2023-11-16 📅 2023-12-07 ✅ 2023-12-11
 	- [[lubrication_project.mlx]] 
 
 ---
@@ -39,8 +39,8 @@
 	- [i] [[ME I0800 HW 7 Boundary Layer Theory-Solution.pdf]]
 - [x] [[HW 8a- Potential Flow.pdf]] 📅 2023-11-16 ✅ 2023-11-18
 	- [i] [[ME 55600_I0200 Solutions HW 8a.pdf]]
-- [ ] [[HW 8b Potential Flow.pdf]] 📅 2023-11-30
+- [x] [[HW 8b Potential Flow.pdf]] 📅 2023-11-30 ✅ 2023-12-11
 	- [i] 
-- [ ] [[HW 9- Turbulent BL.pdf]]
+- [x] [[HW 9- Turbulent BL.pdf]] ✅ 2023-12-09
 	- [i] 
 

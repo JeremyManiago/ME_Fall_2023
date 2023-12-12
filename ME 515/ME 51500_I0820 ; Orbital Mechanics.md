@@ -11,13 +11,18 @@
 	- Orbital Maneuvers, Interception and Rendezvous
 	- Relative motion of two vehicles, Linear Orbit Theory
 	- Orbit Perturbations, Atmospheric Drag, Planetary Oblateness
+- Final Exam
+
+- ![[Orbital Mechanics Reference Sheets - Equations and Algorithms.pdf]]
 
 ---
 ## Project
-- [ ] [[f23project.pdf]] 📅 2023-12-11 ⏫ 🛫 2023-11-27 
-	- [ ] [[Project.script]]
-	- [ ] [[Lecture Notes 17.pdf]]
-	- [ ] [[project.mlx]]
+- [x] [[f23project.pdf]] ⏫ 🛫 2023-11-27 📅 2023-12-11 ✅ 2023-12-11
+	- [-] [[Project.script]]
+	- [x] [[Lecture Notes 17.pdf]] ✅ 2023-12-10
+	- [x] [[project.mlx]] ✅ 2023-12-10
+	- [x] [[JeremyManiago_Orbital_Project.docx]] ✅ 2023-12-11
+	- [x] ![[JeremyManiago_Orbital_Project.pdf]] ✅ 2023-12-11
 
 ---
 ## Lectures

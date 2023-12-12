@@ -10,7 +10,7 @@
 - [x] [[Pelton Wheel]] ⏫ 📅 2023-10-06 ✅ 2023-10-07
 - [x] [[Viscous Flow in a Pipe]] ⏫ 📅 2023-10-20 ✅ 2023-10-20
 - [x] [[Constant Cross-Section Fin]] ✅ 2023-11-27
-- [ ] [[Heat Pump]] 📅 2023-12-10 🔼 
+- [x] [[Heat Pump]] 🔼 📅 2023-12-10 ✅ 2023-12-09
 - [-] [[Wind Tunnel]]
 
 ---
