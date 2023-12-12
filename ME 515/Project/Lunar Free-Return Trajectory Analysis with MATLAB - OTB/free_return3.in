@@ -1,0 +1,38 @@
+=================================
+input file for free_return.m
+free_return1.in  January 18, 2014
+=================================
+
+gravitational constant of the earth (kilometers^3/second^2)
+398600.4415
+
+gravitational constant of the moon (kilometers^3/second^2)
+4902.8
+
+radius of the earth (kilometers)
+6378.14
+
+radius of the moon (kilometers)
+1738.0
+
+distance from the earth to the moon (kilometers)
+384400.0
+
+lunar sphere-of-influence radius (kilometers)
+64000.0
+
+altitude of the circular earth park orbit (kilometers)
+463.0
+
+altitude of the circular lunar arrival orbit (kilometers)
+13400.0
+
+initial guess for geocentric angular location of the tli delta-v (degrees)
+-119.4
+
+initial guess for tli delta-v magnitude (kilometers/second)
+3.074
+
+initial guess for total time of flight (days)
+4.227
+

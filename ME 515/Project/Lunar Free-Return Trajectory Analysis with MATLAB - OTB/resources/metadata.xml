@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<addOn>
+  <identifier>050b98c1-521f-431e-a18e-9829a6bcf05c</identifier>
+  <displayType>Collection</displayType>
+  <translatedDisplayType>
+    <en_US>Collection</en_US>
+    <es_ES>Collection</es_ES>
+    <es_MX>Collection</es_MX>
+    <ja_JP>コレクション</ja_JP>
+    <ko_KR>컬렉션</ko_KR>
+    <zh_CN>集合</zh_CN>
+  </translatedDisplayType>
+  <name>Lunar Free-Return Trajectory Analysis with MATLAB - OTB</name>
+  <author>David Eagle</author>
+  <version>1.0.0</version>
+  <downloadUrl>https://www.mathworks.com/matlabcentral/mlc-downloads/downloads/050b98c1-521f-431e-a18e-9829a6bcf05c/4c7809f8-2110-4d39-a4c8-b9d8b23c21ce/packages/zip?src=addons_ml_desktop_install&amp;profile_id=19393184&amp;license=1111017&amp;release_family=R2023a</downloadUrl>
+  <licenseUrl>https://addons.mathworks.com/registry/v1/050b98c1-521f-431e-a18e-9829a6bcf05c/1.0.0.0/-/license</licenseUrl>
+  <previewImageUrl>https://www.mathworks.com/responsive_image/160/120/0/0/0/cache/matlabcentral/images/default_screenshot.jpg</previewImageUrl>
+  <releaseNotesUrl>https://www.mathworks.com/add-ons/050b98c1-521f-431e-a18e-9829a6bcf05c/4c7809f8-2110-4d39-a4c8-b9d8b23c21ce/releaseNotes</releaseNotesUrl>
+  <installationFolder>Collections</installationFolder>
+</addOn>
