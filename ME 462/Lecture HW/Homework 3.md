@@ -1,4 +1,6 @@
-## Investigate High Frequency Welding and how non-ferrous metals are welded.
+Jeremy Maniago
+ME 46200 : Manufacturing 
+## Homework 3: Investigate High Frequency Welding and how non-ferrous metals are welded.
 
 High-frequency welding (HFW) is a metal welding technique which utilizes high-frequency electricity. Although it is usually applied to carbon steel, it can also be used on non-ferrous metals like copper and aluminum.
 
