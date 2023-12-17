@@ -75,7 +75,41 @@
 		- [ ] Required Reading 1. Multiple Authors. Chapter 8: Europe and Russia: Nationalism and Transnationalism. In Juergensmeyer, Mark. Thinking Globally: a Global Studies Reader. 1st ed. Berkeley: University of California Press, 2014. (pp.163-168). [[MarkJuergensmey_cpt_8EuropeAndRussiaNatio_ThinkingGloballyAGlob.pdf]]
 		- [ ] Required Reading 2. Part V. Globalization and the Nation State. In Lechner, Frank J. and Boli, John. The Globalization Reader. 5th ed. (Wiley, 2014) (pp. 228-231). [[FrankJLechner_Globalization_and_NationState_Introduction.pdf]]
 
+- [ ] ***Lecture 13***
+	- [ ] Video: 
+	- [ ] Lecture: [[Week11_lecture_2021_SU2023_Lecture13(2).pdf]]
+	- [ ] Required Reading: Juris, John. 2018. The Nationalist Revival: Trade, Immigration, and the Revolt Against Globalization. Columbia Global Reports. (pp.14-46). [[Judis_The_Nationalist_Revival_Pg_14--46.pdf]]
 
+- [ ] ***Lecture 14***
+	- [ ] Video: 
+	- [ ] Lecture: 
+	- [ ] Required Reading: 
+
+- [ ] ***Lecture 15***
+	- [ ] Video: 
+	- [ ] Lecture: 
+	- [ ] Required Reading: 
+
+
+- [ ] ***Lecture 20 (Nov. 27)***
+	- [ ] Video: 
+	- [ ] Lecture: 
+	- [ ] Required Reading: 
+
+- [ ] ***Lecture 21 (Nov. 29)***
+	- [ ] Video: 
+	- [ ] Lecture: 
+	- [ ] Required Reading: 
+
+- [ ] ***Lecture 16***
+	- [ ] Video: 
+	- [ ] Lecture: 
+	- [ ] Required Reading: 
+
+- [ ] ***Lecture 19***
+	- [ ] Video: 
+	- [ ] Lecture: 
+	- [ ] Required Reading: 
 
 ---
 ## *Homeworks*
@@ -95,3 +129,7 @@
 		- [x] **1. Consider the different Modes of Production that have been described in class. Define "Mode of Production" as explained in the lecture. Explain the characteristics that make Capitalism a unique Mode of Production?** ✅ 2023-10-29
 		- [x] **2. Explain the main characteristics of the Neoliberal economic system. Identify three specific national or international institutions or Neoliberal policies and explain how they contribute to creating a neoliberal system. Explain why neoliberal policies contribute to globalization.** ✅ 2023-10-29
 		- [x] [[JeremyManiago_Exam2_Part2_Essays.docx]] ✅ 2023-10-31
+- [ ] Exam 3 | [[Exam 3 Study Guide_SU2023.docx]] | [[Exam 3 Study Guide]] | **SUBMIT ON BLACKBOARD *AND* EMAIL ESSAY TO PROFESSOR evan.dennis@ccny.cuny.edu**🔼 📅 2023-12-18 
+	- [ ] <u>Multiple Choice (Part 1 of 2)</u>
+	- [ ] <u>Essay (part 2 of 2)</u>
+		 **1. Consider the different Modes of Production that have been described in class. Define "Mode of Production" as explained in the lecture. Explain the characteristics that make Capitalism a unique Mode of Production?**
