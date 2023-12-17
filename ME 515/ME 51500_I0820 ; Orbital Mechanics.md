@@ -11,6 +11,7 @@
 	- Orbital Maneuvers, Interception and Rendezvous
 	- Relative motion of two vehicles, Linear Orbit Theory
 	- Orbit Perturbations, Atmospheric Drag, Planetary Oblateness
+	- [[f23ex2s.pdf|Solutions]]
 - [[f22fin.pdf|Final Exam]]
 
 - [[Orbital Mechanics Reference Sheets - Equations and Algorithms.pdf|Equation Sheet]]
@@ -76,4 +77,4 @@
 - [x] [[f23hw11.pdf]] 📅 2023-11-30 ✅ 2023-12-03
 	- [i] [[f23hw11s.pdf]]
 - [ ] [[f23hw12.pdf]] 📅 2023-12-19
-	- [i] 
+	- [i] [[f23hw12s.pdf]]
