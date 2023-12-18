@@ -161,7 +161,7 @@
 			
 			Boli, John and Thomas, George. World Culture in the World Polity: A Century of International Non-Governmental Organization. In Lechner, Frank J. and Boli, John. The Globalization Reader. 5th ed. (Wiley, 2014) (Chapter 42, pp.334-342)​
 		- [ ] **3. In your opinion, did networks of governance erode the power of the nation-state of Malaysia with respect to the problem of Sarawak deforestation? Why or why not?**
-		- [ ] 
+		- [ ] [[JeremyManiago_Exam3_Part2_Essays.docx]]
 
 
 
