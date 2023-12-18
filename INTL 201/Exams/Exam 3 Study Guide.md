@@ -65,3 +65,4 @@ Global environmental collective action problems (definition)
 Public Good
 
 Public Bad
+
