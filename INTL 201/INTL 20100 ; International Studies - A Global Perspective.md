@@ -142,17 +142,17 @@
 		- [x] **2. Explain the main characteristics of the Neoliberal economic system. Identify three specific national or international institutions or Neoliberal policies and explain how they contribute to creating a neoliberal system. Explain why neoliberal policies contribute to globalization.** ✅ 2023-10-29
 		- [x] [[JeremyManiago_Exam2_Part2_Essays.docx]] ✅ 2023-10-31
 
-- [ ] Exam 3 | [[Exam 3 Study Guide_SU2023.docx]] | [[Exam 3 Study Guide]] | **SUBMIT ON BLACKBOARD *AND* EMAIL ESSAY TO PROFESSOR evan.dennis@ccny.cuny.edu**🔼 📅 2023-12-18 
+- [x] Exam 3 | [[Exam 3 Study Guide_SU2023.docx]] | [[Exam 3 Study Guide]] | **SUBMIT ON BLACKBOARD *AND* EMAIL ESSAY TO PROFESSOR evan.dennis@ccny.cuny.edu** 🔼 📅 2023-12-18 ✅ 2023-12-18
       For the final exam, you are being asked to synthesize and apply the concepts and approaches learned in the Political Dimensions of Globalization and Applications section of the class to analyze a case of environmental activism. The causes of, consequences of, and advocacy around deforestation in Sarawak, Malaysia is connected in many different ways to Globalization. The Sarawak case is described in detail in the assigned reading for Week 16: Keck, Margaret and Sikkink, Kathryn. Environmental Advocacy Networks. In Lechner, Frank J. and Boli, John.  The Globalization Reader. 5th ed. (Wiley,  2014) (Chapter 65, pp.510-519).
-	- [ ] <u>Multiple Choice (Part 1 of 2)</u>
-	- [ ] <u>Essay (part 2 of 2)</u>
-		- [ ] **1. Explain the effects of the actions taken by governance networks on the strategies of the various entities and actors mentioned in Keck et al.. Mention whether they were successful or not. Explain the following:
+	- [x] <u>Multiple Choice (Part 1 of 2)</u> ✅ 2023-12-18
+	- [x] <u>Essay (part 2 of 2)</u> ✅ 2023-12-18
+		- [x] **1. Explain the effects of the actions taken by governance networks on the strategies of the various entities and actors mentioned in Keck et al.. Mention whether they were successful or not. Explain the following: ✅ 2023-12-18
 			- Local indigenous community interactions
 			- IGOs interactions
 			- INGOs interactions
 			- The country of Malaysia interactions
 			- Any other actors or entities that you believe were important
-		- [ ] **2. In your option, did “global culture” or “global society” influence the strategies of actors and entities involved in the particular events and outcomes that occurred in Sarawak, Malaysia?**
+		- [x] **2. In your option, did “global culture” or “global society” influence the strategies of actors and entities involved in the particular events and outcomes that occurred in Sarawak, Malaysia?** ✅ 2023-12-18
 			- Please define “global culture” and “global society”
 			- Provide examples to support your argument
 			For "world society" and "world culture", I suggest reviewing the following readings:
@@ -160,8 +160,8 @@
 			Meyer, John et al. World Society and the Nation State. In Lechner, Frank J. and Boli, John. The Globalization Reader. 5th ed. (Wiley, 2014) (Chapter 9, pp. 77-86).
 			
 			Boli, John and Thomas, George. World Culture in the World Polity: A Century of International Non-Governmental Organization. In Lechner, Frank J. and Boli, John. The Globalization Reader. 5th ed. (Wiley, 2014) (Chapter 42, pp.334-342)​
-		- [ ] **3. In your opinion, did networks of governance erode the power of the nation-state of Malaysia with respect to the problem of Sarawak deforestation? Why or why not?**
-		- [ ] [[JeremyManiago_Exam3_Part2_Essays.docx]]
+		- [x] **3. In your opinion, did networks of governance erode the power of the nation-state of Malaysia with respect to the problem of Sarawak deforestation? Why or why not?** ✅ 2023-12-18
+		- [x] [[JeremyManiago_Exam3_Part2_Essays.docx]] ✅ 2023-12-18
 
 
 
