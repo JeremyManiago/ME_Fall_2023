@@ -1,6 +1,7 @@
 ## [[Applications]]
 
 ---
+- [[Resume(2)_JeremyManiago_Spring2024.pdf]]
 
 - [[Resume(2)_JeremyManiago_Fall2023.docx]]
 	- [[Resume(2)_JeremyManiago_Fall2023.pdf]]
