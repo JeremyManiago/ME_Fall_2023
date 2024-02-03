@@ -1,10 +1,12 @@
 ## [[Applications]]
 
 ---
-- [[Resume(2)_JeremyManiago_Spring2024.pdf]]
+- [[Resume_JeremyManiago_Spring2024.docx]]
+	- [[Resume_JeremyManiago_Spring2024.pdf]]
 
 - [[Resume(2)_JeremyManiago_Fall2023.docx]]
 	- [[Resume(2)_JeremyManiago_Fall2023.pdf]]
+	- [[Resume(2)_JeremyManiago_Spring2024.pdf]]
 
 - [x] [[Resume_JeremyManiago_Fall2023.docx]] ⏫ 📅 2023-10-07 ✅ 2023-10-09
 	- [i] [[Resume_JeremyManiago_Fall2023_John_Review.docx]]
