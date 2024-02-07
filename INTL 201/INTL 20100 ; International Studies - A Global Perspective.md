@@ -20,8 +20,7 @@
 + [x] ***[[Lecture 3]]***
 	+ [x] Video: ~~[Lecture 3 video](https://youtu.be/uFYZsHdO7XQ)~~ [[yt1s.com - Lecture3 SU23_360p.mp4]]
 	+ [x] Lecture: [[Week2_lecture_SU2023_Lecture3.pdf]]
-	+ [x] Required Reading: [[Juergensmeyer_Chapter_1.pdf]] 
-	      Please pay careful attention to the pages that you are required to read from the PDF. You are only required to read pages 1-7 and 10-17 (the Jergensmeyer and the Friedman excerpts).
+	+ [x] Required Reading: [[Juergensmeyer_Chapter_1.pdf]]  Please pay careful attention to the pages that you are required to read from the PDF. You are only required to read pages 1-7 and 10-17 (the Jergensmeyer and the Friedman excerpts).
 
 + [x] ***[[Lecture 4]]***
 	+ [x] Video: ~~[Lecture 4 video](https://youtu.be/zd_GI6s8R24)~~ [[yt1s.com - Lecture4 SU23_720p.mp4]]
@@ -63,19 +62,66 @@
 	- [x] Lecture: [[Week6_lecture_2021_SU2023_Lecture10.pdf]] ✅ 2023-10-28
 	- [x] Required Reading: Steger, Manfred. Globalization: A Very Short Introduction. 5th ed. Oxford, 2020. (pp. 37-54; 59-62) ✅ 2023-10-29
 
-- [ ] ***[[Lecture 11]]***
-	- [ ] Video: https://youtu.be/FavfjdDbiNk
-	- [ ] Lecture: [[Week10_lecture_2021_SU2023_Lecture11.pdf]]
-	- [x] Required Reading: None ✅ 2023-11-05
+- [x] ***[[Lecture 11]]*** ✅ 2023-12-17
+	- [x] Video: https://youtu.be/FavfjdDbiNk ✅ 2023-12-17
+	- [x] Lecture: [[Week10_lecture_2021_SU2023_Lecture11.pdf]] ✅ 2023-12-17
+	- [x] Required Reading: *none* ✅ 2023-11-05
 
-- [ ] ***[[Lecture 12]]***
-	- [ ] Video: https://youtu.be/dhgNBYB-FgE
-	- [ ] Lecture: [[Week11_lecture_2021_SU2023_Lecture12.pdf]]
-	- [ ] Required Reading:
-		- [ ] Required Reading 1. Multiple Authors. Chapter 8: Europe and Russia: Nationalism and Transnationalism. In Juergensmeyer, Mark. Thinking Globally: a Global Studies Reader. 1st ed. Berkeley: University of California Press, 2014. (pp.163-168). [[MarkJuergensmey_cpt_8EuropeAndRussiaNatio_ThinkingGloballyAGlob.pdf]]
-		- [ ] Required Reading 2. Part V. Globalization and the Nation State. In Lechner, Frank J. and Boli, John. The Globalization Reader. 5th ed. (Wiley, 2014) (pp. 228-231). [[FrankJLechner_Globalization_and_NationState_Introduction.pdf]]
+- [x] ***[[Lecture 12]]*** ✅ 2023-12-17
+	- [x] Video: https://youtu.be/dhgNBYB-FgE ✅ 2023-12-17
+	- [x] Lecture: [[Week11_lecture_2021_SU2023_Lecture12.pdf]] ✅ 2023-12-17
+	- [x] Required Reading: ✅ 2023-12-17
+		- [x] Required Reading 1. Multiple Authors. Chapter 8: Europe and Russia: Nationalism and Transnationalism. In Juergensmeyer, Mark. Thinking Globally: a Global Studies Reader. 1st ed. Berkeley: University of California Press, 2014. (pp.163-168). [[MarkJuergensmey_cpt_8EuropeAndRussiaNatio_ThinkingGloballyAGlob.pdf]] ✅ 2023-12-17
+		- [x] Required Reading 2. Part V. Globalization and the Nation State. In Lechner, Frank J. and Boli, John. The Globalization Reader. 5th ed. (Wiley, 2014) (pp. 228-231). [[FrankJLechner_Globalization_and_NationState_Introduction.pdf]] ✅ 2023-12-17
+
+- [x] ***Lecture 13*** ✅ 2023-12-17
+	- [x] Video: [Lecture 13 video](https://youtu.be/OJGeqeGpi0U) ✅ 2023-12-17
+	- [x] Lecture: [[Week11_lecture_2021_SU2023_Lecture13(2).pdf]] ✅ 2023-12-17
+	- [x] Required Reading: Juris, John. 2018. The Nationalist Revival: Trade, Immigration, and the Revolt Against Globalization. Columbia Global Reports. (pp.14-46). [[Judis_The_Nationalist_Revival_Pg_14--46.pdf]] ✅ 2023-12-17
+
+- [x] ***Lecture 14*** ✅ 2023-12-17
+	- [x] Video: [Lecture 14 video](https://youtu.be/9JBinnEayVY) ✅ 2023-12-17
+	- [x] Lecture: [[Week10_lecture_SU2023_Lecture14.pdf]] ✅ 2023-12-17
+	- [x] Required Reading: ✅ 2023-12-17
+		- [x] Required Reading 1. • Multiple Authors. “Chapter 11: The Erosion of the Nation-state” Juergensmeyer, Mark. Thinking Globally: a Global Studies Reader. 1st ed. Berkeley: University of California Press, 2014. (pp. 216-229) [[MarkJuergensmey_Cpt_11TheErosionOfTheNati_ThinkingGloballyAGlob.pdf]] ✅ 2023-12-17
+		- [x] Required Reading 2. • Meyer, John et al. World Society and the Nation State. In Lechner, Frank J. and Boli, John. The Globalization Reader. 5th ed. (Wiley, 2014) (Chapter 9, pp. 77-86). [[FrankJLechnerJo_2015_Chapter9_TheWorldSociety_Meyer.pdf]] ✅ 2023-12-17
+
+- [x] ***Lecture 15*** ✅ 2023-12-17
+	- [x] Video: [Lecture 15 video](https://youtu.be/r_qHO_0ZEiU) ✅ 2023-12-17
+	- [x] Lecture: [[Week11_lecture_SU2023_Lecture15.pdf]] ✅ 2023-12-17
+	- [x] Required Reading: ✅ 2023-12-17
+		- [x] Required Reading 1. Slaughter, Anne-Marie. A New World Order. In Lechner, Frank J. and Boli, John. The Globalization Reader. 5th ed. (Wiley, 2014) (Chapter 35, pp. 283-289) [[FrankJLechnerJo_2015_Chapter35ANewWorldOrd_TheGlobalizationReade.pdf]] ✅ 2023-12-17
+		- [x] Required Reading 2. Bieri, Franziska and Boli, John. Trading Diamonds Responsibly: Institutional Explanations for Corporate Social Responsibility. In Lechner, Frank J. and Boli, John. The Globalization Reader. 5th ed. (Wiley, 2014) (Chapter 44, pp. 347-353) [[FrankJLechnerJo_2015_Chapter44TradingDiamo_TheGlobalizationReade.pdf]] ✅ 2023-12-17
+		- [x] Required Reading 3. Boli, John and Thomas, George. World Culture in the World Polity: A Century of International Non-Governmental Organization. In Lechner, Frank J. and Boli, John. The Globalization Reader. 5th ed. (Wiley, 2014) (Chapter 42, pp.334-342) [[FrankJLechnerJo_2015_Chapter42WorldCulture_TheGlobalizationReade.pdf]] ✅ 2023-12-17
+		- [x] Additional Reading. Introduction to Globalization, INGOs, and Civil Society. In Lechner, Frank J. and Boli, John. The Globalization Reader. 5th ed. (Wiley, 2014) (pp. pp.311-313) [[FrankJLechnerJo_2015_IntroductionGlobalizationINGOsCivilSociety_TheGlobalizationReade.pdf]] ✅ 2023-12-17
 
 
+- [x] ***Lecture 20 (Nov. 27)*** ✅ 2023-12-17
+	- [x] Video: [Lecture 20 Video](https://youtu.be/r93Pfmac-9I) ✅ 2023-12-17
+	- [x] Lecture: [[Lecture_FA2023_Lecture20.pdf]] ✅ 2023-12-17
+	- [x] Required Reading: ✅ 2023-12-17
+		- [x] Required Reading. Steger, Manfred. Globalization: A Very Short Introduction. 5th ed. Oxford, 2020. (pp. 82-94). ✅ 2023-12-17
+		- [x] Reading: What is Culture ✅ 2023-12-17
+
+- [x] ***Lecture 21 (Nov. 29)*** ✅ 2023-12-17
+	- [x] Video: [Lecture 21 Video](https://youtu.be/qHZu3aS7uMs) ✅ 2023-12-17
+	- [x] Lecture: [[Lecture_FA2023_Lecture21.pdf]] ✅ 2023-12-17
+	- [x] Required Reading: ✅ 2023-12-17
+		- [x] Tyrrell [[FrankJLechnerJo_2015_Chapter50BollywoodVer_TheGlobalizationReade(2).pdf]] ✅ 2023-12-17
+		- [x] Cowen [[FrankJLechnerJo_2015_Chapter51WhyHollywood_TheGlobalizationReade(2).pdf]] ✅ 2023-12-17
+
+- [x] ***Lecture 16*** ✅ 2023-12-18
+	- [x] Video: [Lecture 16 video](https://youtu.be/n0Je-XjVhnQ) ✅ 2023-12-17
+	- [x] Lecture: [[Week16_lecture_SU2023_Lecture16.pdf]] ✅ 2023-12-17
+	- [x] Required Reading: Keck, Margaret and Sikkink, Kathryn. Environmental Advocacy Networks. In Lechner, Frank J. and Boli, John. The Globalization Reader. 5th ed. (Wiley, 2014) (Chapter 65, pp.510-519). [[FrankJLechnerJo_2015_Chapter65_Environmental_Advocacy_Networks_TheGlobalizationReade.pdf]] ✅ 2023-12-17
+	- [x] Additional Reading. Steger, Manfred. Globalization: A Very Short Introduction. 5th ed. Oxford, 2020. (pp. 68-73). (Read only the section “Political globalization and migration” in Chapter 4: The political dimensions of globalization) ✅ 2023-12-18
+
+- [x] ***Lecture 19*** ✅ 2023-12-17
+	- [x] Video: [Lecture 19 video](https://youtu.be/FFx0IZamXHE) ✅ 2023-12-17
+	- [x] Lecture: [[Week17_lecture_SU2023_Lecture19.pdf]] ✅ 2023-12-17
+	- [x] Required Reading: *none* ✅ 2023-12-16
+
+- [6] [[Lectures11to21.txt]]
 
 ---
 ## *Homeworks*
@@ -95,3 +141,29 @@
 		- [x] **1. Consider the different Modes of Production that have been described in class. Define "Mode of Production" as explained in the lecture. Explain the characteristics that make Capitalism a unique Mode of Production?** ✅ 2023-10-29
 		- [x] **2. Explain the main characteristics of the Neoliberal economic system. Identify three specific national or international institutions or Neoliberal policies and explain how they contribute to creating a neoliberal system. Explain why neoliberal policies contribute to globalization.** ✅ 2023-10-29
 		- [x] [[JeremyManiago_Exam2_Part2_Essays.docx]] ✅ 2023-10-31
+
+- [x] Exam 3 | [[Exam 3 Study Guide_SU2023.docx]] | [[Exam 3 Study Guide]] | **SUBMIT ON BLACKBOARD *AND* EMAIL ESSAY TO PROFESSOR evan.dennis@ccny.cuny.edu** 🔼 📅 2023-12-18 ✅ 2023-12-18
+      For the final exam, you are being asked to synthesize and apply the concepts and approaches learned in the Political Dimensions of Globalization and Applications section of the class to analyze a case of environmental activism. The causes of, consequences of, and advocacy around deforestation in Sarawak, Malaysia is connected in many different ways to Globalization. The Sarawak case is described in detail in the assigned reading for Week 16: Keck, Margaret and Sikkink, Kathryn. Environmental Advocacy Networks. In Lechner, Frank J. and Boli, John.  The Globalization Reader. 5th ed. (Wiley,  2014) (Chapter 65, pp.510-519).
+	- [x] <u>Multiple Choice (Part 1 of 2)</u> ✅ 2023-12-18
+	- [x] <u>Essay (part 2 of 2)</u> ✅ 2023-12-18
+		- [x] **1. Explain the effects of the actions taken by governance networks on the strategies of the various entities and actors mentioned in Keck et al.. Mention whether they were successful or not. Explain the following: ✅ 2023-12-18
+			- Local indigenous community interactions
+			- IGOs interactions
+			- INGOs interactions
+			- The country of Malaysia interactions
+			- Any other actors or entities that you believe were important
+		- [x] **2. In your option, did “global culture” or “global society” influence the strategies of actors and entities involved in the particular events and outcomes that occurred in Sarawak, Malaysia?** ✅ 2023-12-18
+			- Please define “global culture” and “global society”
+			- Provide examples to support your argument
+			For "world society" and "world culture", I suggest reviewing the following readings:
+			
+			Meyer, John et al. World Society and the Nation State. In Lechner, Frank J. and Boli, John. The Globalization Reader. 5th ed. (Wiley, 2014) (Chapter 9, pp. 77-86).
+			
+			Boli, John and Thomas, George. World Culture in the World Polity: A Century of International Non-Governmental Organization. In Lechner, Frank J. and Boli, John. The Globalization Reader. 5th ed. (Wiley, 2014) (Chapter 42, pp.334-342)​
+		- [x] **3. In your opinion, did networks of governance erode the power of the nation-state of Malaysia with respect to the problem of Sarawak deforestation? Why or why not?** ✅ 2023-12-18
+		- [x] [[JeremyManiago_Exam3_Part2_Essays.docx]] ✅ 2023-12-18
+
+
+
+
+

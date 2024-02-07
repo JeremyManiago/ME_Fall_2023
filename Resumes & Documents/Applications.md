@@ -1,6 +1,14 @@
 ## Full-time
 
-- [ ] Thea Energy
+- [ ] Type One Energy 📅 2024-02-06 
+	- [ ] [Design Engineer - Type One Energy (teamtailor.com)](https://typeoneenergy.teamtailor.com/jobs/3524413-design-engineer?utm_campaign=jobs-widget&utm_source=typeoneenergy.teamtailor.com&utm_content=jobs&utm_medium=web)
+		-  *Why do you think you are a good match for the role?*
+			- I think
+		- *Why do you want to join Type One Energy?*
+			- Type One Energy is a promising fusion company.
+		- *Why are you passionate about fusion energy?*
+			- Better energy, cleaner, saw my friends at PPPL turn on the MUSE stellarator for the first time and I was inspired...
+- [x] Thea Energy ✅ 2023-12-18
 	- [x] [Thea Energy - Mechanical Engineer (lever.co)](https://jobs.lever.co/thea.energy/f07580f8-c433-43f6-907b-af0b5f934da4) ✅ 2023-12-06
 		- As a Mechanical Engineer soon to finish my senior year of Undergraduate school, and as someone who is passionate about engineering and solving problems, I feel that this role would be a role which will positively impact the energy industry and the world. While the physics of fusion may have been mostly figured out, the engineering is what makes it possible and viable for energy consumption, and through this role I hope to push that hope. As a Mechanical Engineer with interests in a system as a whole, I find the idea of 3D modelling a subcomponent and doing structural and thermal analysis on it very intriguing, and the entire role would be a life-changing learning experience for me. 
 		  I found out about Thea Energy through the Princeton Plasma Physics Lab SULI program (Summer 2023) when it was still known as Princeton Stellarators. Working through the SULI program at PPPL gave me so much more insight and knowledge about the world of fusion, including the concepts, motivations, and future. I still remember when I observed the plasma in the MUSE Stellarator (first permanent magnet and quasi-axisymmetric stellarator) which my fellow interns got working, and I was amazed. Apart from my technical aspirations for this role, I enjoyed when I was able to share the passion with other interns in the SULI program working on different projects relating to fusion. I can assure that I can match the level of passion and dedication to pushing fusion as a viable energy source closer to reality, even if it's in small steps.

@@ -17,6 +17,7 @@
 ---
 ## Lecture HW
 - [x] [[Homework 1]] - Investigate the manufacturing process of a part that requires any of the process of the plastic deformation of the metal, extrusion, rolling, forging etc. **due 09/27/23, 11:59pm**
+- [x] [[Homework 3]] 📅 2023-12-12 ✅ 2023-12-12
 
 ---
 ## Lab HW
