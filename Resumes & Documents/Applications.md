@@ -45,16 +45,15 @@
 
 - [ ] Orano (Nuclear)
 
-- [ ] US Dept. of State
+- [-] US Dept. of State
 
 - [ ] GD Boat
 
 - [ ] Nuclear Fusion Jobs
-	- [ ] CommonWealth Fusion Systems (CFS)
-	- [ ] Thea Stellarators (previously Princeton Stellarators)
-	- [ ] Type One Energy
+	- [?] CommonWealth Fusion Systems (CFS)
+	- [x] Thea Stellarators (previously Princeton Stellarators) ✅ 2024-02-07
+	- [?] Type One Energy
 	- [ ] Helion (lol)
-	- [ ] SULI Labs
-	- [ ] 
+	- [-] SULI Labs
 	- [ ] Tokamak Fusion (UK)
 	- [ ] Pulsar Fusion (UK)
