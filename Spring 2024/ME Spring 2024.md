@@ -1,6 +1,8 @@
-## [[ME 572]]
+## [[ME 572 - Aerodynamic Design]]
 
-## [[ME 474]]
+## [[ME 474 - Senior Design II]]
 
-## [[HIST 206]]
+## [[HIST 206 - Modern Europe]]
+
+## [[PHYS 454 - Introduction to Astrophysics]]
 
