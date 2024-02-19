@@ -1,2 +1,2 @@
 - [[Maniago-Jeremy-PHYS454-HW1.docx]]
-	- 
+	- ![[Maniago-Jeremy-PHYS454-HW1.pdf]]
