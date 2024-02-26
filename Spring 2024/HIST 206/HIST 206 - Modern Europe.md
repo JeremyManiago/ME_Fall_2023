@@ -1,5 +1,5 @@
 ## Syllabus
-- 
+- [[]]
 
 ---
 ## Lectures 
@@ -8,6 +8,10 @@
 - [[Lecture 3]]
 - [[Lecture 4]]
 - [[Lecture 5]]
+
+---
+## Readings
+- [[Klemens von Metternich-Confession of Political Faith 1820.docx]]
 
 ---
 ## Assignments

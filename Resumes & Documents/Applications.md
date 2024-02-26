@@ -1,7 +1,7 @@
 ## Full-time
 
-- [ ] Type One Energy 📅 2024-02-06 
-	- [ ] [Design Engineer - Type One Energy (teamtailor.com)](https://typeoneenergy.teamtailor.com/jobs/3524413-design-engineer?utm_campaign=jobs-widget&utm_source=typeoneenergy.teamtailor.com&utm_content=jobs&utm_medium=web)
+- [-] Type One Energy 📅 2024-02-06 
+	- [-] [Design Engineer - Type One Energy (teamtailor.com)](https://typeoneenergy.teamtailor.com/jobs/3524413-design-engineer?utm_campaign=jobs-widget&utm_source=typeoneenergy.teamtailor.com&utm_content=jobs&utm_medium=web)
 		-  *Why do you think you are a good match for the role?*
 			- I think
 		- *Why do you want to join Type One Energy?*
