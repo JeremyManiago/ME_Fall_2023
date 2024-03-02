@@ -14,15 +14,15 @@
 		  I found out about Thea Energy through the Princeton Plasma Physics Lab SULI program (Summer 2023) when it was still known as Princeton Stellarators. Working through the SULI program at PPPL gave me so much more insight and knowledge about the world of fusion, including the concepts, motivations, and future. I still remember when I observed the plasma in the MUSE Stellarator (first permanent magnet and quasi-axisymmetric stellarator) which my fellow interns got working, and I was amazed. Apart from my technical aspirations for this role, I enjoyed when I was able to share the passion with other interns in the SULI program working on different projects relating to fusion. I can assure that I can match the level of passion and dedication to pushing fusion as a viable energy source closer to reality, even if it's in small steps.
 
 - [ ] Raytheon/Pratt&Whitney ⏫
-	- [ ] [P&W Engineering Jobs - USA Canada (rtx.com)](https://careers.rtx.com/pratt-and-whitney-engineering-jobs)
+	- [-] [P&W Engineering Jobs - USA Canada (rtx.com)](https://careers.rtx.com/pratt-and-whitney-engineering-jobs)
 		- Design
 		- Structural
 		- AeroThermal
-	- [ ] [Engineer I - Mechanical Systems, Externals and Nacelles (MSEN) Systems Engineer (Hybrid) in East Hartford, Connecticut, United States of America | Engineering at RTX](https://careers.rtx.com/global/en/job/01644918/Engineer-I-Mechanical-Systems-Externals-and-Nacelles-MSEN-Systems-Engineer-Hybrid)
-	- [ ] [Engineer I: LS-Dyna Practitioner (Hybrid) in East Hartford, Connecticut, United States of America | Engineering at RTX](https://careers.rtx.com/global/en/job/01636275/Engineer-I-LS-Dyna-Practitioner-Hybrid)
-	- [ ] [Design Engineer I - Gearbox and Turbine Products(On-site) in Rockford, Illinois, United States of America | Engineering at RTX](https://careers.rtx.com/global/en/job/01653466/Design-Engineer-I-Gearbox-and-Turbine-Products-On-site)
-	- [ ] [Associate Systems Engineer Rotary Wing - Onsite in Cedar Rapids, Iowa, United States of America | Engineering at RTX](https://careers.rtx.com/global/en/job/01636052/Associate-Systems-Engineer-Rotary-Wing-Onsite)
-	- [ ] [Ram Air Turbine Product Engineer (Onsite) in Rockford, Illinois, United States of America | Engineering at RTX](https://careers.rtx.com/global/en/job/01659161/Ram-Air-Turbine-Product-Engineer-Onsite)
+	- [-] [Engineer I - Mechanical Systems, Externals and Nacelles (MSEN) Systems Engineer (Hybrid) in East Hartford, Connecticut, United States of America | Engineering at RTX](https://careers.rtx.com/global/en/job/01644918/Engineer-I-Mechanical-Systems-Externals-and-Nacelles-MSEN-Systems-Engineer-Hybrid)
+	- [-] [Engineer I: LS-Dyna Practitioner (Hybrid) in East Hartford, Connecticut, United States of America | Engineering at RTX](https://careers.rtx.com/global/en/job/01636275/Engineer-I-LS-Dyna-Practitioner-Hybrid)
+	- [-] [Design Engineer I - Gearbox and Turbine Products(On-site) in Rockford, Illinois, United States of America | Engineering at RTX](https://careers.rtx.com/global/en/job/01653466/Design-Engineer-I-Gearbox-and-Turbine-Products-On-site)
+	- [-] [Associate Systems Engineer Rotary Wing - Onsite in Cedar Rapids, Iowa, United States of America | Engineering at RTX](https://careers.rtx.com/global/en/job/01636052/Associate-Systems-Engineer-Rotary-Wing-Onsite)
+	- [-] [Ram Air Turbine Product Engineer (Onsite) in Rockford, Illinois, United States of America | Engineering at RTX](https://careers.rtx.com/global/en/job/01659161/Ram-Air-Turbine-Product-Engineer-Onsite)
 
 - [ ] Blue Origin [Candidate Home (myworkdayjobs.com)](https://blueorigin.wd5.myworkdayjobs.com/en-US/BlueOrigin/userHome?q=new%20graduate&jobFamilyGroup=5f32d2b8465201d2518e5cd93717dc43) ⏫  📅 2023-10-30 🛫 2023-10-16 
 	- [-] [New Graduate / Early Career Engineer (Spring / Summer / Fall 2024 Start Date) – Fluid Systems](https://blueorigin.wd5.myworkdayjobs.com/en-US/BlueOrigin/job/Seattle-WA/New-Graduate---Early-Career-Engineer--Spring---Summer---Fall-2024-Start-Date----Fluid-Systems_R36299?q=new%20graduate&jobFamilyGroup=5f32d2b8465201d2518e5cd93717dc43)
@@ -57,3 +57,4 @@
 	- [-] SULI Labs
 	- [ ] Tokamak Fusion (UK)
 	- [ ] Pulsar Fusion (UK)
+	- [ ] Helicity Fusion
