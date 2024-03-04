@@ -1,5 +1,7 @@
 ## Syllabus
-- [[]]
+- [[2024 Spring MODERN EUROPE SYALLUS.docx]]
+- [[2024 ME Modern Europe Class Requirements.docx]]
+
 
 ---
 ## Lectures 
@@ -15,5 +17,5 @@
 
 ---
 ## Assignments
-- [ ] Assignment 1 📅 2024-03-04
+- [/] [[2024 Spring Modern Europe Assignment 1(1).docx]] 📅 2024-03-04
 - [ ] 
