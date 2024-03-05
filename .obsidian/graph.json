@@ -1,0 +1,65 @@
+{
+  "collapse-filter": false,
+  "search": "",
+  "showTags": false,
+  "showAttachments": true,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "path:\"ME 556\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 14701138
+      }
+    },
+    {
+      "query": "path:\"ME 515\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 16760120
+      }
+    },
+    {
+      "query": "path:\"ME 473\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 3407626
+      }
+    },
+    {
+      "query": "path:\"INTL 201\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 5100287
+      }
+    },
+    {
+      "query": "path:\"ME 462\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 3359231
+      }
+    },
+    {
+      "query": "path:\"ME 436\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 16715535
+      }
+    }
+  ],
+  "collapse-display": false,
+  "showArrow": true,
+  "textFadeMultiplier": -0.5,
+  "nodeSizeMultiplier": 1.9375,
+  "lineSizeMultiplier": 2.57552083333333,
+  "collapse-forces": false,
+  "centerStrength": 0.411458333333333,
+  "repelStrength": 14.6875,
+  "linkStrength": 0.583333333333333,
+  "linkDistance": 500,
+  "scale": 0.021528718442430296,
+  "close": true
+}
