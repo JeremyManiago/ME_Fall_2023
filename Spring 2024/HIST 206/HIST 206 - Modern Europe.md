@@ -17,5 +17,6 @@
 
 ---
 ## Assignments
-- [/] [[2024 Spring Modern Europe Assignment 1(1).docx]] 📅 2024-03-04
+- [x] [[2024 Spring Modern Europe Assignment 1(1).docx]] 📅 2024-03-04 ✅ 2024-03-04
+	- [[2024 Spring Modern Europe Assignment 1(1).pdf]]
 - [ ] 
