@@ -12,6 +12,6 @@
 
 ---
 ## Assignments
-- [x] [[Maniago-Jeremy-PHYS454-HW1.pdf]]
+- [x] [[HW1]]
 	- [p] [[Feedback-Maniago-Jeremy-PHYS454-HW1.pdf]] 
 - [ ] 
