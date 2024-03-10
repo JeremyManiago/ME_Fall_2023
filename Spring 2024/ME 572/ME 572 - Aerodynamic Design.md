@@ -1,6 +1,7 @@
 ## Syllabus
 [[ME 57200_Syllabus Spring 2024.pdf]]
 
+
 ---
 ## Lectures
 - [[Lecture Note 1.pdf]]
@@ -11,10 +12,19 @@
 - [[Lecture Note 5.pdf]]
 - [[Lecture Note 6.pdf]]
 - [[Lecture Note 7.pdf]]
+- [[Lecture Note 8.pdf]]
+- [[Lecture Note 9.pdf]]
+- [[Lecture Note 10.pdf]]
+- [[Lecture Note 11.pdf]]
 
 
 ---
 ## Homeworks
 - [x] [[HW 1.pdf]] ✅ 2024-02-20
+	- [i] [[HW 1 Solution.pdf]]
 - [x] [[HW 2.pdf]] ✅ 2024-02-20
-- [ ] 
+	- [i] [[HW 2 Solution.pdf]]
+- [x] [[HW 3.pdf]] ✅ 2024-02-23
+	- [i] [[HW 3 Solution.pdf]]
+- [x] [[HW 4.pdf]] ✅ 2024-03-08
+	- [i] [[]] 
