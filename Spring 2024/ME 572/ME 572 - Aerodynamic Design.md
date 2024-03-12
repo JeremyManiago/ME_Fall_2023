@@ -27,4 +27,5 @@
 - [x] [[HW 3.pdf]] ✅ 2024-02-23
 	- [i] [[HW 3 Solution.pdf]]
 - [x] [[HW 4.pdf]] ✅ 2024-03-08
-	- [i] [[]] 
+	- [i] [[HW 4 Solution.pdf]] 
+- [ ] 
