@@ -16,6 +16,8 @@
 - [[Lecture Note 9.pdf]]
 - [[Lecture Note 10.pdf]]
 - [[Lecture Note 11.pdf]]
+- [[Lecture Note 12.pdf]]
+- [[Lecture Note 13.pdf]]
 
 
 ---
@@ -28,4 +30,5 @@
 	- [i] [[HW 3 Solution.pdf]]
 - [x] [[HW 4.pdf]] ✅ 2024-03-08
 	- [i] [[HW 4 Solution.pdf]] 
-- [ ] 
+- [ ] [[HW 5.pdf]]📅 2024-03-22 
+	- [i] 
