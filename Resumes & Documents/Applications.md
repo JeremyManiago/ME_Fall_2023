@@ -47,7 +47,7 @@
 
 - [-] US Dept. of State
 
-- [ ] GD Boat
+- [x] GD Boat ✅ 2024-03-23 wow offer (Fluid Systems Engineer 1)
 
 - [ ] Nuclear Fusion Jobs
 	- [?] CommonWealth Fusion Systems (CFS)

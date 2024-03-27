@@ -12,5 +12,6 @@
 ---
 ## Assignments
 - [x] [[Assignment 1.pdf]] ⏫ 📅 2024-02-26 ✅ 2024-03-02
-- [ ] [[Assignment 2.pdf]] 🔼 📅 2024-03-18 
+- [x] [[Assignment 2.pdf]] 🔼 📅 2024-03-18 ✅ 2024-03-19
+	- [i] [[Assignment2_Q2.mlx]]
 - [ ] 
