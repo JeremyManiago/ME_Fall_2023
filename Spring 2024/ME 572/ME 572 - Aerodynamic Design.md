@@ -16,6 +16,11 @@
 - [[Lecture Note 9.pdf]]
 - [[Lecture Note 10.pdf]]
 - [[Lecture Note 11.pdf]]
+- [[Lecture Note 12.pdf]]
+- [[Lecture Note 13.pdf]]
+- [[Lecture Note 14.pdf]]
+- [[Lecture Note 15.pdf]]
+- [[Lecture Note 16.pdf]]
 
 
 ---
@@ -27,5 +32,6 @@
 - [x] [[HW 3.pdf]] ✅ 2024-02-23
 	- [i] [[HW 3 Solution.pdf]]
 - [x] [[HW 4.pdf]] ✅ 2024-03-08
-	- [i] [[]] 
-- [ ] [[]]
+	- [i] [[HW 4 Solution.pdf]] 
+- [x] [[HW 5.pdf]]] ✅ 2024-03-28
+	- [i] 
