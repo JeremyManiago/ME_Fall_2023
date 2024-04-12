@@ -1,6 +1,9 @@
 ## Syllabus
 [[ME 57200_Syllabus Spring 2024.pdf]]
 
+---
+## Project
+- [[JeremyManiago_ME572_ProjectProposal.docx]]
 
 ---
 ## Lectures
