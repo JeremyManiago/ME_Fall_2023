@@ -19,3 +19,6 @@
 - [x] [[2024 Spring Modern Europe Assignment 1(1).docx]] 📅 2024-03-04 ✅ 2024-03-04
 	- [[2024 Spring Modern Europe Assignment 1(1).pdf]]
 - [ ] [[2024 Spring Modern Europe Assignment 2 -- Cabet Marx Mussolini.docx]]  📅 2024-05-01
+	- [[]] 
+- [ ] [[2024 Spring Modern Europe Assignment 3 -- Classical Communism.docx]] 📅 2024-05-22 
+	- [[]]
