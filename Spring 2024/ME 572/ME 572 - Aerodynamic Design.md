@@ -3,9 +3,32 @@
 
 ---
 ## Project
+
+> [!info] Project Assignment 1
+> In this assignment, each student will need to develop a project proposal with a detailed description of the project idea, objectives, methods, and project plan:
+>>•  Project proposal report no more than 3 pages.
+•  Project Overview
+•  Background
+•  Problem Statement
+•  Project goal and objectives
+•  Methods
+•  Project Plan and expected outcomes
+•  References (outside of page limit)
 - [x] [[JeremyManiago_ME572_ProjectProposal.docx]] ✅ 2024-04-12
 	- [x] [[JeremyManiago_ME572_ProjectProposal.pdf]] ✅ 2024-04-12
-- [ ] 
+
+> [!info] Project Assignment 2
+> In this assignment, each student will need to report the project progress:
+>>• Project Progress Presentation video, submission due on Friday, 5/3/2024  
+• 5 min presentation on project progress  
+• Project progress report due on 05/03/2024, no more than 3 pages.  
+• Achievements  
+• Tasks completed and To-do Tasks  
+• Challenges and issues  
+• References
+- [ ] [[]]
+
+
 
 ---
 ## Lectures

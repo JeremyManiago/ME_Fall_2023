@@ -4,6 +4,9 @@ close all
 
 format long
 
+set(0,'DefaultFigureWindowStyle','docked')
+figure;
+
 % Define grid
 [x, y] = meshgrid(-5:0.5:5, -5:0.5:5);
 
