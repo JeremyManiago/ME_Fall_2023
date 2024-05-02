@@ -26,5 +26,6 @@
   "execute-code",
   "open-vscode",
   "obsidian-html-plugin",
-  "obsidian-git"
+  "obsidian-git",
+  "continuous-mode"
 ]

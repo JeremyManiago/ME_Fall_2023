@@ -5,7 +5,7 @@
 ## Project
 - [x] [[JeremyManiago_ME572_ProjectProposal.docx]] ✅ 2024-04-12
 	- [x] [[JeremyManiago_ME572_ProjectProposal.pdf]] ✅ 2024-04-12
-	- [ ] 
+- [ ] 
 
 ---
 ## Lectures
@@ -26,6 +26,12 @@
 - [[Lecture Note 14.pdf]]
 - [[Lecture Note 15.pdf]]
 - [[Lecture Note 16.pdf]]
+- [[Lecture Note 17.pdf]]
+- [[Lecture Note 18.pdf]]
+- [[Lecture Note 19.pdf]]
+- [[Lecture Note 20.pdf]]
+- [[Lecture Note 21.pdf]]
+- [[Lecture Note 22.pdf]]
 
 
 ---
