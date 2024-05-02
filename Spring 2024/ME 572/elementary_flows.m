@@ -1,11 +1,12 @@
 clc
 clear
 close all
-
 format long
 
 set(0,'DefaultFigureWindowStyle','docked')
 figure;
+hold off
+syms u v
 
 % Define grid
 [x, y] = meshgrid(-5:0.5:5, -5:0.5:5);
@@ -40,3 +41,7 @@ ylabel('y');
 title('Flow Visualization: Uniform and Source Flow');
 axis equal
 grid
+
+% Plot streamlines
+
+

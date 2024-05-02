@@ -1,0 +1,25 @@
+{
+	"nodes":[
+		{"id":"40ccc2590c42baa2","type":"group","x":720,"y":-1167,"width":1394,"height":1487,"color":"3","label":"Project Assignement 2"},
+		{"id":"948ac15c4b34fe4c","type":"group","x":-1240,"y":-920,"width":960,"height":1500,"color":"6","label":"General Info"},
+		{"id":"f97754869cf5bd10","type":"group","x":-80,"y":-920,"width":600,"height":1240,"color":"4","label":"Project Assignment 1"},
+		{"id":"295610a22c06f29d","type":"file","file":"Spring 2024/ME 572/JeremyManiago_ME572_ProjectProposal.pdf","x":0,"y":-480,"width":449,"height":549,"color":"1"},
+		{"id":"9fbdcfe19ad7da8e","type":"text","text":"![[ME 572 - Aerodynamic Design#Project]]\n","x":-1200,"y":-880,"width":880,"height":1040,"color":"6"},
+		{"id":"ff741f5539019852","type":"file","file":"Spring 2024/ME 572/ME 572 Project Descriptions.pdf","x":-980,"y":269,"width":440,"height":260,"color":"1"},
+		{"id":"75c57beebdeff604","type":"file","file":"Spring 2024/ME 572/JeremyManiago_ME572_ProjectProposal.docx","x":67,"y":-800,"width":315,"height":80,"color":"5"},
+		{"id":"a3ad73b5857aa602","type":"text","text":"The first MATLAB code aims to plot a general elementary flow by showing the velocity field via the MATLAB function ```quiver```. \n","x":840,"y":-1080,"width":480,"height":140},
+		{"id":"e8e8d8ff84c17a48","type":"file","file":"Spring 2024/ME 572/Lectures/Lecture Note 11.pdf","x":1480,"y":-440,"width":540,"height":340},
+		{"id":"d290d2d6f67c758c","type":"file","file":"Spring 2024/ME 572/Lectures/Lecture Note 10.pdf","x":840,"y":-440,"width":540,"height":340},
+		{"id":"2c99e3c002c45694","type":"file","file":"Spring 2024/ME 572/elementary_flows.m","x":1140,"y":-860,"width":200,"height":50,"color":"2"},
+		{"id":"5550391703880394","type":"file","file":"Spring 2024/ME 572/Project/elementaryflowtest.png","x":1460,"y":-1080,"width":440,"height":372}
+	],
+	"edges":[
+		{"id":"5868f48d2fe824be","fromNode":"9fbdcfe19ad7da8e","fromSide":"bottom","toNode":"ff741f5539019852","toSide":"top","toEnd":"none"},
+		{"id":"49eb9e9e3eb4611c","fromNode":"9fbdcfe19ad7da8e","fromSide":"right","toNode":"75c57beebdeff604","toSide":"left"},
+		{"id":"76675787a237ab61","fromNode":"75c57beebdeff604","fromSide":"bottom","toNode":"295610a22c06f29d","toSide":"top","color":"5","label":"docx to pdf"},
+		{"id":"a155f0b1878dd957","fromNode":"948ac15c4b34fe4c","fromSide":"right","toNode":"f97754869cf5bd10","toSide":"left","color":"6"},
+		{"id":"e7b2004caa913d90","fromNode":"f97754869cf5bd10","fromSide":"right","toNode":"40ccc2590c42baa2","toSide":"left","color":"4"},
+		{"id":"4d9d807cc90d96c3","fromNode":"d290d2d6f67c758c","fromSide":"right","toNode":"e8e8d8ff84c17a48","toSide":"left"},
+		{"id":"c2ed2d668e7c6c92","fromNode":"a3ad73b5857aa602","fromSide":"bottom","toNode":"2c99e3c002c45694","toSide":"left"}
+	]
+}
