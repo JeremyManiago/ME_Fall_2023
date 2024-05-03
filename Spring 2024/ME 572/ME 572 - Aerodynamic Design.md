@@ -30,7 +30,8 @@
 >>- Tasks completed and To-do Tasks  
 >>- Challenges and issues  
 >>- References
->- [ ] [[]]
+>- [ ] [[JeremyManiago_ME572_ProjectProgress.docx]] 📅 2024-05-03 
+>	- [ ] 
 
 
 > [!todo] Project Assignment 3 (due 05/22/24)
