@@ -15,7 +15,7 @@ uni_vel = 1;    % magnitude of uniform flow, V_inf
 uni_thet = deg2rad(0);   % angle of uniform flow (input degrees)
 
 % Define source flow parameters
-src_strength = 2;   % strength of the source
+src_strength = 1;   % strength of the source
 src_x = 0;          % x-coordinate of the source
 src_y = 0;          % y-coordinate of the source
 
