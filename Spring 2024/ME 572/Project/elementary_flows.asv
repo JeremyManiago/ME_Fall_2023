@@ -20,7 +20,7 @@ v_uni = uni_vel * sin(uni_thet);
 
 % Define source flow parameters
 src_strength = 1;   % strength of the source
-src_x = -2;          % x-coordinate of the source
+src_x = -1;          % x-coordinate of the source
 src_y = 0;          % y-coordinate of the source
 
 
@@ -30,7 +30,7 @@ v_src = src_strength .* (y - src_y) ./ ((x - src_x).^2 + (y - src_y).^2);
 
 % Define sink flow parameters
 sink_strength = -1;   % strength of the sink
-sink_x = 2;          % x-coordinate of the sink
+sink_x = 0;          % x-coordinate of the sink
 sink_y = 0;          % y-coordinate of the sink
 
 % Calculate velocity components for source flow
@@ -38,32 +38,29 @@ u_sink = sink_strength .* (x - sink_x) ./ ((x - sink_x).^2 + (y - sink_y).^2);
 v_sink = sink_strength .* (y - sink_y) ./ ((x - sink_x).^2 + (y - sink_y).^2);
 
 % Total velocity components, based on Laplace'S Equation
-u = u_uni  + u_src + u_sink;
-v = v_uni  + v_src + v_sink;
+u = u_uni + u_src + u_sink;
+v = v_uni + v_src + v_sink;
 
 
 % Plot velocity flow field + components
 plot(src_x, src_y, Marker=".", MarkerSize=20)
 hold on
-plot(sink_x, sink_y, Marker=".", MarkerSize=20)
 quiver(x, y, u, v);
 xlabel('x');
 ylabel('y');
-% title('Flow Visualization: Uniform and Sink Flow');
-% title('Flow Visualization: Uniform and Source Flow');
-title('Flow Visualization: Rankine Oval');
+title('Flow Visualization: Uniform and Source Flow');
 axis equal
 grid
 
-% Stagnation (for source or sink + uni only)
-r_stag = sink_strength/(2*pi*uni_vel)
+% Stagnation
+r_stag = src_strength/(2*pi*uni_vel)
 thet_Stag = pi
 x_stag = r_stag * cos(thet_Stag)
 y_stag = r_stag * sin(thet_Stag)
 
 % Plot streamlines
 % figure
-% plot(x_stag, y_stag, Marker=".", MarkerSize=20)
+plot(x_stag, y_stag, Marker=".", MarkerSize=20)
 [startX,startY] = meshgrid(-5, -5:0.25:5);
 streamline(x,y,u,v,startX,startY)
 
