@@ -30,8 +30,9 @@
 >>- Tasks completed and To-do Tasks  
 >>- Challenges and issues  
 >>- References
->- [ ] [[JeremyManiago_ME572_ProjectProgress.docx]] 📅 2024-05-03 
->	- [ ] 
+>- [ ]  [[JeremyManiago_ME572_ProjectProgress.docx]] 📅 2024-05-03 
+>- [ ]  [[elementary_flows.m]]
+>- [ ]  [[elementary_flows.mlx]]
 
 
 > [!todo] Project Assignment 3 (due 05/22/24)
