@@ -11,7 +11,10 @@
 - [[Boiling Curve handout to be filled in.pdf]]
 	- [[Rohsenow's Pool Boiling correlation.pdf]]
 - [[Two-Phase flow Handout to be filled in.pdf]]
-
+Lockhart-Martinelli
+∅𝑓𝑓𝑓𝑓 2 = [1+21 𝑋𝑋 + 1 𝑋𝑋 2]
+∅𝑓𝑓𝑓𝑓 2 L-M Parameter, X
+∅𝑓𝑓𝑓
 
 ---
 ## Assignments
