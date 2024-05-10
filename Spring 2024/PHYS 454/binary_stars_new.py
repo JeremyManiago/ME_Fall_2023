@@ -14,7 +14,7 @@ import numpy as np
 
 import matplotlib.animation as animation
 from matplotlib import rc
-rc('animation', html='jshtml')
+# rc('animation', html='jshtml')
 
 fig, ax = plt.subplots()
 
@@ -27,7 +27,7 @@ def animate(i):
     return line,
 
 
-ani = animation.FuncAnimation(fig, animate, interval=20, blit=False, save_count=60, repeat=True)
+# ani = animation.FuncAnimation(fig, animate, interval=20, blit=False, save_count=60, repeat=True)
 
 # To save the animation, use e.g.
 #
@@ -39,7 +39,8 @@ ani = animation.FuncAnimation(fig, animate, interval=20, blit=False, save_count=
 #     fps=15, metadata=dict(artist='Me'), bitrate=1800)
 # ani.save("movie.mp4", writer=writer)
 
-ani
+# ani
+# plt.show()
 
 """---
 
@@ -58,10 +59,10 @@ m_1 = 1.0e26  # kg
 m_2 = 0.5e26  # kg
 
 # Initial State Vector
-R_1_0 = np.array((500, 0, 0))  # km
-R_2_0 = np.array((3000, 0, 0))  # km
-dotR_1_0 = np.array((0, 20, 0))  # km/s
-dotR_2_0 = np.array((0, 40, 0))  # km/s
+R_1_0 = np.array((500, 20, 0))  # km
+R_2_0 = np.array((3000, 0, 10))  # km
+dotR_1_0 = np.array((5, 20, 0))  # km/s
+dotR_2_0 = np.array((0, 40, 5))  # km/s
 
 y_0 = np.hstack((R_1_0, R_2_0, dotR_1_0, dotR_2_0))
 
@@ -120,26 +121,45 @@ ax.plot(0, 0, 0, "ro", label="COG")
 ax.legend()
 
 import matplotlib
-matplotlib.rcParams['animation.embed_limit'] = 42
+matplotlib.rcParams['animation.embed_limit'] = 100
 fig = plt.figure()
 ax = fig.add_subplot(111, projection="3d")
+
+duration = 1000
 
 
 
 def animate(i):
+  if i < (duration - 60):
     ax.clear()
-    m1 = ax.plot(R1_rel_COG[i, 0], R1_rel_COG[i, 1], R1_rel_COG[i, 2], label="m_1", marker='o')
-    m2 = ax.plot(R2_rel_COG[i, 0], R2_rel_COG[i, 1], R2_rel_COG[i, 2], label="m_2", marker='o')  # update the data.
-    line = ax.plot(R2_rel_COG[i, 0], R2_rel_COG[i, 1], R2_rel_COG[i, 2], label="m_2")
+    m1 = ax.plot(R1_rel_COG[i, 0], R1_rel_COG[i, 1], R1_rel_COG[i, 2], label="m_1", marker='o') # redraw m1
+    m2 = ax.plot(R2_rel_COG[i, 0], R2_rel_COG[i, 1], R2_rel_COG[i, 2], label="m_2", marker='o') # redraw m2
+    line1 = ax.plot(R1_rel_COG[:i, 0], R1_rel_COG[:i, 1], R1_rel_COG[:i, 2], label="m_1")       # trace m1
+    line2 = ax.plot(R2_rel_COG[:i, 0], R2_rel_COG[:i, 1], R2_rel_COG[:i, 2], label="m_2")       # trace m2
     ax.plot(0, 0, 0, "ro", label="COG")
     ax.set_xlabel('x')
-    ax.set_xlim3d(-4e3, 4e3)
     ax.set_ylabel('y')
-    ax.set_ylim3d(-4e3, 4e3)
     ax.set_zlabel('z')
-    ax.set_zlim3d(-1, 1)
-    return m1, m2, line
+    ax.set_xlim3d( np.min((R1_rel_COG[:,0], R2_rel_COG[:,0])), np.max((R1_rel_COG[:,0], R2_rel_COG[:,0])) ) # x-axis limits defined by minimum and maximum x value (comparing all values of R1 and R2)
+    ax.set_ylim3d( np.min((R1_rel_COG[:,1], R2_rel_COG[:,1])), np.max((R1_rel_COG[:,1], R2_rel_COG[:,1])) ) # y-^^^^
+    ax.set_zlim3d( np.min((R1_rel_COG[:,2], R2_rel_COG[:,2])), np.max((R1_rel_COG[:,2], R2_rel_COG[:,2])) ) # z-^^^^
+    ax.view_init(elev = 40, azim = 10, roll = 0)
+    ax.set_aspect('equal')
+    plt.autoscale(False)
+    ax._axis3don = False
+    return m1, m2, line1, line2
+  else:
+    ax.view_init(elev = 30 + (i - (duration - 60))*1, azim = 30 + (i - (duration - 60))*1, roll = 0)
+    return ax
 
-ani = animation.FuncAnimation(fig, animate, 250, interval=100, blit=False, save_count=30, repeat=True)
+ani = animation.FuncAnimation(fig, animate, duration, interval=100, blit=False, save_count=30, repeat=True)
 
 ani
+
+
+
+plt.show()
+
+plt.rcParams['animation.ffmpeg_path'] ='C:\\ffmpeg\\bin\\ffmpeg.exe'
+FFwriter=animation.FFMpegWriter(fps=60, extra_args=['-vcodec', 'libx264'])
+ani.save('C:/Users/mania/Desktop/ME_Fall_2023/Spring 2024/PHYS 454/binaryStars.mp4', writer=FFwriter)

@@ -6,7 +6,9 @@
 - [[binary_stars_new.py]]
 	- [[binary_stars.py]]
 ![[binary_star_test_anim_python.mp4]]
+![[binaryStars.mp4]]
 
+- [ ] [[]]
 
 ---
 ## Lectures
