@@ -128,7 +128,6 @@ ax = fig.add_subplot(111, projection="3d")
 duration = 1000
 
 
-
 def animate(i):
   if i < (duration - 60):
     ax.clear()
@@ -149,15 +148,10 @@ def animate(i):
     ax._axis3don = False
     return m1, m2, line1, line2
   else:
-    ax.view_init(elev = 30 + (i - (duration - 60))*1, azim = 30 + (i - (duration - 60))*1, roll = 0)
+    ax.view_init(elev = 30 + (i - (duration - 60))*1, azim = 30 + ((i - 1) - (duration - 60))*1, roll = 0)
     return ax
 
 ani = animation.FuncAnimation(fig, animate, duration, interval=100, blit=False, save_count=30, repeat=True)
-
-ani
-
-
-
 plt.show()
 
 plt.rcParams['animation.ffmpeg_path'] ='C:\\ffmpeg\\bin\\ffmpeg.exe'
