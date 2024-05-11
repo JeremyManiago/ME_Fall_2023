@@ -78,15 +78,22 @@ R2_rel_COG = R_2 - barycenter
 ax.plot(R1_rel_COG[:, 0], R1_rel_COG[:, 1], R1_rel_COG[:, 2], label="m_1")
 ax.plot(R2_rel_COG[:, 0], R2_rel_COG[:, 1], R2_rel_COG[:, 2], label="m_2")
 ax.plot(0, 0, 0, "r.", label="COG")
+ax.plot([R1_rel_COG[0, 0], R2_rel_COG[0, 0]], [R1_rel_COG[0, 1], R2_rel_COG[0, 1]], [R1_rel_COG[0, 2], R2_rel_COG[0, 2]], "k--", label="COG")
 ax.legend()
+plt.show()
 
 import matplotlib
 matplotlib.rcParams['animation.embed_limit'] = 100
 fig = plt.figure()
-ax = fig.add_subplot(111, projection="3d")
+ax = fig.add_subplot(121, projection="3d")
+ax1 = fig.add_subplot(122)
 
 duration = 900
 
+def dist(i):
+   d = np.sqrt((R2_rel_COG[i,0] - R1_rel_COG[i,0])**2 + (R2_rel_COG[i,1] - R1_rel_COG[i,1])**2 + (R2_rel_COG[i,2] - R1_rel_COG[i,2])**2)
+   print(d)
+   return d
 
 def animate(i):
   if i < (duration - 60):
@@ -95,25 +102,29 @@ def animate(i):
     m2 = ax.plot(R2_rel_COG[i, 0], R2_rel_COG[i, 1], R2_rel_COG[i, 2], label="m_2", marker='o') # redraw m2
     line1 = ax.plot(R1_rel_COG[:i, 0], R1_rel_COG[:i, 1], R1_rel_COG[:i, 2], label="m_1")       # trace m1
     line2 = ax.plot(R2_rel_COG[:i, 0], R2_rel_COG[:i, 1], R2_rel_COG[:i, 2], label="m_2")       # trace m2
-    ax.plot(0, 0, 0, "ro", label="COG")
+    ax.plot(0, 0, 0, "ro", label="COG") # plot COG as origin
+    ax.plot([R1_rel_COG[i, 0], R2_rel_COG[i, 0]], [R1_rel_COG[i, 1], R2_rel_COG[i, 1]], [R1_rel_COG[i, 2], R2_rel_COG[i, 2]], "k--", label="COG") # connecting line between R1 and R2
+    line3 = ax1.plot(i, dist(i), 'ko')
     ax.set_xlabel('x')
     ax.set_ylabel('y')
     ax.set_zlabel('z')
+
     ax.set_xlim3d( np.min((R1_rel_COG[:,0], R2_rel_COG[:,0])), np.max((R1_rel_COG[:,0], R2_rel_COG[:,0])) ) # x-axis limits defined by minimum and maximum x value (comparing all values of R1 and R2)
     ax.set_ylim3d( np.min((R1_rel_COG[:,1], R2_rel_COG[:,1])), np.max((R1_rel_COG[:,1], R2_rel_COG[:,1])) ) # y-^^^^
     ax.set_zlim3d( np.min((R1_rel_COG[:,2], R2_rel_COG[:,2])), np.max((R1_rel_COG[:,2], R2_rel_COG[:,2])) ) # z-^^^^
     ax.view_init(elev = 40, azim = 10, roll = 0)
     ax.set_aspect('equal')
-    plt.autoscale(False)
+    plt.autoscale(True)
     ax._axis3don = False
-    return m1, m2, line1, line2
+    
+    return m1, m2, line1, line2, line3
   else:
-    ax.view_init(elev = 30 + ((i - 1) - (duration - 60))*1, azim = 30 + ((i - 1) - (duration - 60))*1, roll = 0)
+    ax.view_init(elev = 30 + ((i - 1) - (duration - 60))/3, azim = 30 + ((i - 1) - (duration - 60))/3, roll = 0)
     return ax
 
 ani = animation.FuncAnimation(fig, animate, duration, interval=100, blit=False, save_count=30, repeat=True)
 plt.show()
 
-plt.rcParams['animation.ffmpeg_path'] ='C:\\ffmpeg\\bin\\ffmpeg.exe'
-FFwriter=animation.FFMpegWriter(fps=60, extra_args=['-vcodec', 'libx264'])
-ani.save('C:/Users/mania/Desktop/ME_Fall_2023/Spring 2024/PHYS 454/binaryStars.mp4', writer=FFwriter)
+# plt.rcParams['animation.ffmpeg_path'] ='C:\\ffmpeg\\bin\\ffmpeg.exe'
+# FFwriter=animation.FFMpegWriter(fps=60, extra_args=['-vcodec', 'libx264'])
+# ani.save('C:/Users/mania/Desktop/ME_Fall_2023/Spring 2024/PHYS 454/binaryStars.mp4', writer=FFwriter)
