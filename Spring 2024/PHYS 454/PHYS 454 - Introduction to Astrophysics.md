@@ -12,6 +12,7 @@
 	- ![[Pasted image 20240510175511.png]]
 
 - [[algol.py]]
+![[algol.mp4]]
 ![[algol_luminosities.png]]
 
 - [ ] [[Maniago-Jeremy-PHYS454-Project.docx]] 📅 2024-05-13 

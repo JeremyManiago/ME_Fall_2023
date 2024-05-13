@@ -200,10 +200,10 @@ Projections
 '''
 
 fig = plt.figure(figsize=(10,5))
-ax = fig.add_subplot(141)
-ax1 = fig.add_subplot(142)
-ax2 = fig.add_subplot(143)
-ax3 = fig.add_subplot(144)
+ax = fig.add_subplot(221)
+ax1 = fig.add_subplot(222)
+ax2 = fig.add_subplot(223)
+ax3 = fig.add_subplot(224)
 
 def plot_proj(ax,step):
     ax.plot(coord[:,0], coord[:,1], 'b', lw='0')
@@ -338,9 +338,9 @@ def animate(i):
     return line1, line2
 
 
-ani = animation.FuncAnimation(fig, animate, duration, interval=100, blit=False, save_count=30, repeat=True)
-plt.show()
+# ani = animation.FuncAnimation(fig, animate, duration, interval=100, blit=False, save_count=30, repeat=True)
+# plt.show()
 
-plt.rcParams['animation.ffmpeg_path'] ='C:\\ffmpeg\\bin\\ffmpeg.exe'
-FFwriter=animation.FFMpegWriter(fps=60, extra_args=['-vcodec', 'libx264'])
-ani.save('C:/Users/mania/Desktop/ME_Fall_2023/Spring 2024/PHYS 454/algol.mp4', writer=FFwriter)
+# plt.rcParams['animation.ffmpeg_path'] ='C:\\ffmpeg\\bin\\ffmpeg.exe'
+# FFwriter=animation.FFMpegWriter(fps=60, extra_args=['-vcodec', 'libx264'])
+# ani.save('C:/Users/mania/Desktop/ME_Fall_2023/Spring 2024/PHYS 454/algol.mp4', writer=FFwriter)
