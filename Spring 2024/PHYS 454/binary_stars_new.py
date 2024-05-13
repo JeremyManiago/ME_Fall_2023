@@ -14,13 +14,14 @@ import matplotlib.animation as animation
 from matplotlib import rc
 rc('animation', html='jshtml')
 
+sol_mass = 2e30 # mass of sun in kg
 G = 6.67430e-20  # km**3/(kg * s**2)
-m_1 = 1.0e26  # kg
-m_2 = 0.5e26  # kg
+m_1 = sol_mass * 3.17 # kg
+m_2 = sol_mass * 0.70  # kg
 
 # Initial State Vector
-R_1_0 = np.array((500, 20, 0))  # km
-R_2_0 = np.array((3000, 0, 10))  # km
+R_1_0 = np.array((0, 0, 0))  # km
+R_2_0 = np.array((3000, 0, 0))  # km
 dotR_1_0 = np.array((5, 20, 0))  # km/s
 dotR_2_0 = np.array((0, 40, 5))  # km/s
 
@@ -90,6 +91,9 @@ ax1 = fig.add_subplot(122)
 
 duration = 900
 
+line_d = []
+line_dy = []
+
 def dist(i):
    d = np.sqrt((R2_rel_COG[i,0] - R1_rel_COG[i,0])**2 + (R2_rel_COG[i,1] - R1_rel_COG[i,1])**2 + (R2_rel_COG[i,2] - R1_rel_COG[i,2])**2)
    print(d)
@@ -98,13 +102,19 @@ def dist(i):
 def animate(i):
   if i < (duration - 60):
     ax.clear()
+    ax1.clear()
     m1 = ax.plot(R1_rel_COG[i, 0], R1_rel_COG[i, 1], R1_rel_COG[i, 2], label="m_1", marker='o') # redraw m1
     m2 = ax.plot(R2_rel_COG[i, 0], R2_rel_COG[i, 1], R2_rel_COG[i, 2], label="m_2", marker='o') # redraw m2
     line1 = ax.plot(R1_rel_COG[:i, 0], R1_rel_COG[:i, 1], R1_rel_COG[:i, 2], label="m_1")       # trace m1
     line2 = ax.plot(R2_rel_COG[:i, 0], R2_rel_COG[:i, 1], R2_rel_COG[:i, 2], label="m_2")       # trace m2
     ax.plot(0, 0, 0, "ro", label="COG") # plot COG as origin
     ax.plot([R1_rel_COG[i, 0], R2_rel_COG[i, 0]], [R1_rel_COG[i, 1], R2_rel_COG[i, 1]], [R1_rel_COG[i, 2], R2_rel_COG[i, 2]], "k--", label="COG") # connecting line between R1 and R2
-    line3 = ax1.plot(i, dist(i), 'ko')
+
+    line_d.append(i)
+    line_dy.append(dist(i))
+    dist_d = ax1.plot(i, dist(i), 'ko')
+    line3 = ax1.plot(line_d, line_dy, 'k--')
+
     ax.set_xlabel('x')
     ax.set_ylabel('y')
     ax.set_zlabel('z')
@@ -117,7 +127,7 @@ def animate(i):
     plt.autoscale(True)
     ax._axis3don = False
     
-    return m1, m2, line1, line2, line3
+    return m1, m2, line1, line2, dist_d, line3
   else:
     ax.view_init(elev = 30 + ((i - 1) - (duration - 60))/3, azim = 30 + ((i - 1) - (duration - 60))/3, roll = 0)
     return ax

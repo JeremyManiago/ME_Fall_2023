@@ -11,6 +11,9 @@
 - [[jhip.jar|light curves]]
 	- ![[Pasted image 20240510175511.png]]
 
+- [[algol.py]]
+![[algol_luminosities.png]]
+
 - [ ] [[Maniago-Jeremy-PHYS454-Project.docx]] 📅 2024-05-13 
 - [ ] [Project Presentation - Google Slides](https://docs.google.com/presentation/d/1dGycjZuc4fq4JN784CTHNnsRdgn58WPb0KpsuZi6pls/edit#slide=id.p)
 
