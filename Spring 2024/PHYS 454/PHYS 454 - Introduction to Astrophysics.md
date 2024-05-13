@@ -2,6 +2,23 @@
 [[]]
 
 ---
+### Project
+- [[binary_stars_new.py]]
+	- [[binary_stars.py]]
+![[binary_star_test_anim_python.mp4]]
+![[binaryStars.mp4]]
+
+- [[jhip.jar|light curves]]
+	- ![[Pasted image 20240510175511.png]]
+
+- [[algol.py]]
+![[algol.mp4]]
+![[algol_luminosities.png]]
+
+- [ ] [[Maniago-Jeremy-PHYS454-Project.docx]] 📅 2024-05-13 
+- [ ] [Project Presentation - Google Slides](https://docs.google.com/presentation/d/1dGycjZuc4fq4JN784CTHNnsRdgn58WPb0KpsuZi6pls/edit#slide=id.p)
+
+---
 ## Lectures
 - [[]]
 
