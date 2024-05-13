@@ -152,7 +152,7 @@ def plot_everything(ax):
 
     ax.set_xlabel('x [1e6 km]')
     ax.set_ylabel('y [1e6 km]')
-    ax.set_zlabel('z [km]')
+    ax.set_zlabel('z [1e6 km]')
     ax.xaxis.set_major_formatter(formatter)
     ax.ticklabel_format(useOffset=False)
 
@@ -170,6 +170,8 @@ ax1.view_init(elev = 90, azim = 0, roll = 90)
 ax1.zaxis.line.set_lw(0.)
 ax1.set_zticks([])
 ax1.set_zlabel(' ')
+ax1.set_xlabel('x [km]')
+ax1.set_ylabel('y [km]')
 ax1.grid(False)
 # ax1.plot(coord[:,0], coord[:,1], 'b', zdir='z', zs=-1e7)  # projection
 
@@ -272,10 +274,73 @@ ax.imshow(im2)
 ax1.imshow(im2)
 ax2.imshow(im3)
 ax3.imshow(im4)
-plt.show()
+# plt.show()
 
 imdata1 = np.array(im1, dtype=int)
 imdata2 = np.array(im2, dtype=int)
 imdata3 = np.array(im3, dtype=int)
 imdata4 = np.array(im4, dtype=int)
 
+
+'''
+Animation???
+'''
+import matplotlib
+matplotlib.rcParams['animation.embed_limit'] = 100
+fig = plt.figure()
+ax = fig.add_subplot(121, projection="3d")
+ax1 = fig.add_subplot(122, projection="3d")
+
+duration = 199
+coord = np.flip(coord, 0)
+
+
+def animate(i):
+    ax.clear()
+    ax1.clear()
+
+    x2 = r2 * np.outer(np.cos(u2), np.sin(v2)) + coord[i, 0]
+    y2 = r2 * np.outer(np.sin(u2), np.sin(v2)) + coord[i, 1]
+    z2 = r2 * np.outer(np.ones(np.size(u2)), np.cos(v2)) + coord[i, 2]
+
+    line1 = ax.plot(coord[:i,0], coord[:i,1], coord[:i,2]) # plot orbit
+    line2 = ax1.plot(coord[:i,0], coord[:i,1], coord[:i,2]) # plot orbit
+
+    ax.plot_surface(x1, y1, z1, color='#CCFFFF') # plot beta per Aa1
+    ax.set_aspect('equal')
+    ax1.plot_surface(x1, y1, z1, color='#CCFFFF') # plot beta per Aa1
+    ax1.set_aspect('equal')
+
+    ax.plot_surface(x2, y2, z2, color='tab:orange') # plot beta per Aa2
+    ax.set_aspect('equal')
+    ax1.plot_surface(x2, y2, z2, color='tab:orange') # plot beta per Aa2
+    ax1.set_aspect('equal')
+
+    ax.autoscale(False)
+    ax.set_xlim3d( np.min(coord[:,0]), np.max(coord[:,0]) ) # x-axis limits defined by minimum and maximum x value of orbit
+    ax.set_ylim3d( np.min(coord[:,1]), np.max(coord[:,1]) ) # y-^^^^
+    ax.set_zlim3d( np.min(coord[:,2]), np.max(coord[:,2]) ) # z-^^^^
+    ax.set_aspect('equal')
+    plt.autoscale(True)
+    ax._axis3don = False
+
+    ax1.autoscale(False)
+    ax1.set_xlim3d( np.min(coord[:,0]), np.max(coord[:,0]) ) # x-axis limits defined by minimum and maximum x value of orbit
+    ax1.set_ylim3d( np.min(coord[:,1]), np.max(coord[:,1]) ) # y-^^^^
+    ax1.set_zlim3d( np.min(coord[:,2]), np.max(coord[:,2]) ) # z-^^^^
+    ax1.set_aspect('equal')
+    # plt.autoscale(True)
+    ax1._axis3don = False
+
+    ax.view_init(elev = 40, azim = 10, roll = 0)
+    ax1.view_init(elev = 80, azim = 0, roll = 100)
+
+    return line1, line2
+
+
+ani = animation.FuncAnimation(fig, animate, duration, interval=100, blit=False, save_count=30, repeat=True)
+plt.show()
+
+plt.rcParams['animation.ffmpeg_path'] ='C:\\ffmpeg\\bin\\ffmpeg.exe'
+FFwriter=animation.FFMpegWriter(fps=60, extra_args=['-vcodec', 'libx264'])
+ani.save('C:/Users/mania/Desktop/ME_Fall_2023/Spring 2024/PHYS 454/algol.mp4', writer=FFwriter)
