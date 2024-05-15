@@ -30,7 +30,7 @@
 >>- Tasks completed and To-do Tasks  
 >>- Challenges and issues  
 >>- References
->- [ ]  [[JeremyManiago_ME572_ProjectProgress.docx]] 📅 2024-05-03 
+>- [x]  [[JeremyManiago_ME572_ProjectProgress.docx]] 📅 2024-05-03 
 >- [ ]  [[elementary_flows.m]]
 >- [ ]  [[elementary_flows_live.mlx]]
 
