@@ -1,0 +1,3 @@
+function y = uniform(strength, thet, x, y, strength, thet)
+    y = 1;
+end
