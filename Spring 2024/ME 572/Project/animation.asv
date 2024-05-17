@@ -1,0 +1,21 @@
+function animation(lines)
+    amt_sl = size(lines, 1) % amount of streamlines
+    
+    for i = 1 : amt_sl
+        a1 = animatedline('Color',[0 .7 .7]);
+    end
+    % axis([0 20 -1 1])
+    % x = linspace(0,20,10000);
+    len = size(sl(1).XData, 2)
+    for k = 1 : len
+        % first line
+        addpoints(a1,xk,ysin);
+    
+        % second line
+        ycos = cos(xk);
+        addpoints(a2,xk,ycos);
+    
+        % update screen
+        drawnow limitrate
+    end
+end

@@ -41,7 +41,8 @@
 - [[elementary_flows.m]]
 	- [[uniform.m]]
 	- [[source_sink.m]]
-	- 
+	- [[vortex.m]]
+- [[anim_lines.m]]
 
 ---
 ## Lectures
