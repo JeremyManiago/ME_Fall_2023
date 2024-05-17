@@ -5,7 +5,7 @@
 ## Project
 - [i] [[ME 572 Project Descriptions.pdf]]
 
-![[Project Workflow.canvas|Project Workflow]]
+![[Spring 2024/ME 572/Project/Project Workflow.canvas|Project Workflow]]
 
 > [!success]+ Project Assignment 1 (due 04/12/24)
 > In this assignment, each student will need to develop a project proposal with a detailed description of the project idea, objectives, methods, and project plan:
