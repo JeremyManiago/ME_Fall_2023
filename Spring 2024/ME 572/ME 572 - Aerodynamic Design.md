@@ -38,6 +38,10 @@
 > [!todo] Project Assignment 3 (due 05/22/24)
 > TBD
 
+- [[elementary_flows.m]]
+	- [[uniform.m]]
+	- [[source_sink.m]]
+	- 
 
 ---
 ## Lectures

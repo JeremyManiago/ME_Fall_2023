@@ -1,0 +1,27 @@
+clc
+clear
+close all
+format long
+
+set(0,'DefaultFigureWindowStyle','docked')
+hold off
+
+% Define grid
+[x, y] = meshgrid(-5:0.25:5, -5:0.25:5);
+% [u, v] = uniform(x, y, 1, deg2rad(0))
+[u, v] = source_sink(ones(size(x), y, 0, 0, 1)
+
+% Total velocity components, based on Laplace'S Equation
+
+% Plot velocity flow field + components
+% plot(src_x, src_y, Marker=".", MarkerSize=20)
+hold on
+% plot(sink_x, sink_y, Marker=".", MarkerSize=20)
+quiver(x, y, u, v);
+xlabel('x');
+ylabel('y');
+% title('Flow Visualization: Uniform and Sink Flow');
+% title('Flow Visualization: Uniform and Source Flow');
+title('Flow Visualization: Rankine Oval');
+axis equal
+grid

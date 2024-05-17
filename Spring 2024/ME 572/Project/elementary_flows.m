@@ -38,14 +38,15 @@ u_sink = sink_strength .* (x - sink_x) ./ ((x - sink_x).^2 + (y - sink_y).^2);
 v_sink = sink_strength .* (y - sink_y) ./ ((x - sink_x).^2 + (y - sink_y).^2);
 
 % Total velocity components, based on Laplace'S Equation
-u = u_uni  + u_src + u_sink;
-v = v_uni  + v_src + v_sink;
-
+% u = u_uni  + u_src + u_sink;
+% v = v_uni  + v_src + v_sink;
+u = u_uni
+v = v_uni
 
 % Plot velocity flow field + components
-plot(src_x, src_y, Marker=".", MarkerSize=20)
+% plot(src_x, src_y, Marker=".", MarkerSize=20)
 hold on
-plot(sink_x, sink_y, Marker=".", MarkerSize=20)
+% plot(sink_x, sink_y, Marker=".", MarkerSize=20)
 quiver(x, y, u, v);
 xlabel('x');
 ylabel('y');
