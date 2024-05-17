@@ -3,7 +3,7 @@
 		{"id":"40ccc2590c42baa2","type":"group","x":720,"y":-1167,"width":1620,"height":1487,"color":"4","label":"Project Assignment 2"},
 		{"id":"391e7ef5f63163c3","type":"group","x":2520,"y":-1280,"width":1620,"height":1487,"color":"3","label":"Project Assignment 3"},
 		{"id":"948ac15c4b34fe4c","type":"group","x":-1240,"y":-920,"width":960,"height":1500,"color":"6","label":"General Info"},
-		{"id":"f97754869cf5bd10","type":"group","x":-80,"y":-920,"width":600,"height":1240,"color":"4","label":"Project Assignment 1"},
+		{"id":"f97754869cf5bd10","type":"group","x":-80,"y":-1000,"width":600,"height":1400,"color":"4","label":"Project Assignment 1"},
 		{"id":"dfc3cc9443142105","type":"file","file":"Spring 2024/ME 572/Project/elementaryflowtest_rankineoval.png","x":1800,"y":-1041,"width":480,"height":412},
 		{"id":"16d07afb9393310a","type":"text","text":"(The seed line for the streamlines is at $x=-5$)","x":1830,"y":-620,"width":420,"height":60},
 		{"id":"e8e8d8ff84c17a48","type":"file","file":"Spring 2024/ME 572/Lectures/Lecture Note 11.pdf","x":1480,"y":-440,"width":540,"height":340},
@@ -13,8 +13,6 @@
 		{"id":"83bbbdb31c1b0e3e","type":"text","text":"Additionally, the built-in MATLAB ```streamline``` function will be utilized to verify that the velocity vectors are indeed tangent to the streamlines of the combined potential flows","x":760,"y":-700,"width":480,"height":140},
 		{"id":"a3ad73b5857aa602","type":"text","text":"The first MATLAB code aims to plot a general elementary flow by showing the velocity field via the MATLAB function ```quiver```. These are shown as red arrows\n","x":760,"y":-1116,"width":480,"height":140},
 		{"id":"2c99e3c002c45694","type":"file","file":"Spring 2024/ME 572/Project/elementary_flows.m","x":1010,"y":-860,"width":200,"height":50,"color":"2"},
-		{"id":"295610a22c06f29d","type":"file","file":"Spring 2024/ME 572/Project/JeremyManiago_ME572_ProjectProposal.pdf","x":0,"y":-480,"width":449,"height":549,"color":"1"},
-		{"id":"75c57beebdeff604","type":"file","file":"Spring 2024/ME 572/Project/JeremyManiago_ME572_ProjectProposal.docx","x":67,"y":-800,"width":315,"height":80,"color":"5"},
 		{"id":"9fbdcfe19ad7da8e","type":"text","text":"![[ME 572 - Aerodynamic Design#Project]]\n","x":-1200,"y":-880,"width":880,"height":1040,"color":"6"},
 		{"id":"ff741f5539019852","type":"file","file":"Spring 2024/ME 572/Project/ME 572 Project Descriptions.pdf","x":-980,"y":269,"width":440,"height":260,"color":"1"},
 		{"id":"a8a4f1420a58e3d1","type":"text","text":"Building Upon the first MATLAB program, separate functions into different files. Allow for multiple sources and sinks. Utilize arrays to make adding more flows easier\n","x":2560,"y":-1229,"width":480,"height":140},
@@ -28,7 +26,9 @@
 		{"id":"6052a79824a6f188","type":"file","file":"Spring 2024/ME 572/Project/source_sink.m","x":3105,"y":-677,"width":187,"height":50,"color":"4"},
 		{"id":"c8710cdc49d70864","type":"text","text":"![[Pasted image 20240516231828.png]]","x":3451,"y":-972,"width":579,"height":449},
 		{"id":"885cf6e2fdefed90","type":"file","file":"Spring 2024/ME 572/Project/anim_test.mp4","x":3451,"y":-368,"width":538,"height":420},
-		{"id":"8cf5212f8d4a20d6","type":"file","file":"Spring 2024/ME 572/Project/newfile.avi","x":3809,"y":107,"width":180,"height":55}
+		{"id":"8cf5212f8d4a20d6","type":"file","file":"Spring 2024/ME 572/Project/newfile.avi","x":3809,"y":107,"width":180,"height":55},
+		{"id":"295610a22c06f29d","type":"file","file":"Spring 2024/ME 572/Project/JeremyManiago_ME572_ProjectProposal.pdf","x":0,"y":-560,"width":449,"height":549,"color":"1"},
+		{"id":"75c57beebdeff604","type":"file","file":"Spring 2024/ME 572/Project/JeremyManiago_ME572_ProjectProposal.docx","x":67,"y":-880,"width":315,"height":80,"color":"5"}
 	],
 	"edges":[
 		{"id":"5868f48d2fe824be","fromNode":"9fbdcfe19ad7da8e","fromSide":"bottom","toNode":"ff741f5539019852","toSide":"top","toEnd":"none"},
