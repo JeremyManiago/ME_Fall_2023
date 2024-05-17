@@ -8,8 +8,9 @@ hold off
 
 % Define grid
 [x, y] = meshgrid(-5:0.25:5, -5:0.25:5);
-% [u, v] = uniform(x, y, 1, deg2rad(0))
-[u, v] = source_sink(ones(size(x), y, 0, 0, 1)
+[u_uni, v_uni] = uniform(x, y, 1, deg2rad(0))
+[u, v] = source_sink(ones(x, y, 0, 0, 1)
+[u, v] = 
 
 % Total velocity components, based on Laplace'S Equation
 
