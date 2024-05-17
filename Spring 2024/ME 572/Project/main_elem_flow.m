@@ -7,16 +7,16 @@ set(0,'DefaultFigureWindowStyle','docked')
 hold off
 
 % Define grid
-[x, y] = meshgrid(-5:0.25:5, -5:0.25:5);
+[x, y] = meshgrid(-5:0.25:5, -5:0.25:5);    % 41 x 41 grid, 
 
 % Define Uniform params
-vel_inf = 1
-thet = deg2rad(0)
+vel_inf = 1         % uniform flow velocity
+thet = deg2rad(0)   % uniform flow angle w.r.t. horizontal
 
 % Define Source or Sink params
-srk = [-1, 0, pi; 1, 0, -pi; 0, 2, -pi]
+srk = [-1, 0, pi; 1, 0, -pi; 0, 2, -pi] % [xloc, yloc, strength]
 amt = size(srk, 1) % total amount of source and sink flows
-u_srk = 0
+u_srk = 0   % initialize total source + sink velocity components
 v_srk = 0
 
 % Call flow functions
