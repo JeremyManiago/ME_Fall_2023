@@ -70,6 +70,8 @@
 - [[Lecture Note 20.pdf]]
 - [[Lecture Note 21.pdf]]
 - [[Lecture Note 22.pdf]]
+- [[Lecture Note 23.pdf]]
+- [[Lecture Note 24.pdf]]
 
 
 ---
