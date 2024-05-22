@@ -1,22 +1,24 @@
-function anim_lines(lines, srk, amt)
+function anim_lines(lines, srk, vtx)
     fig = figure;
-    axis([-5 5 -5 5])
+    axis([-2 10 -5 5])
     hold on
 
-    for i = 1 : amt
-        plot(srk(i,1), srk(i,2), Marker=".", MarkerSize=20)
-    end
+    plot([srk(:,1)], [srk(:,2)], Marker=".", MarkerSize=20, LineStyle="none")
+    plot([vtx(:,1)], [vtx(:,2)], Marker=".", MarkerSize=20, LineStyle="none")
 
     amt_sl = size(lines, 1) % amount of streamlines
     len = size(lines(1).XData, 2)
     F(len) = struct('cdata',[],'colormap',[]);
     a = arrayfun(@(x) animatedline(), 1:amt_sl)
 
-
-    for k = 1 : len
+    j = 1;
+    for k = 1 : min(size(lines(j).XData, 2), size(lines(j).YData, 2))
         for l = 1 : amt_sl
-            addpoints(a(l), lines(l).XData(1,k), lines(l).YData(1,k));
+            if size(lines(l).XData, 2) >= k
+                addpoints(a(l), lines(l).XData(1,k), lines(l).YData(1,k));
+            end
         end
+        j = j + 1;
         % update screen
         drawnow limitrate
         F(k) = getframe(fig);
