@@ -45,8 +45,8 @@
 	- [[vortex.m]]
 - [[anim_lines.m]]
 
-- [ ] [[JeremyManiago_ME572_ProjectReport.docx]] 📅 2024-05-22 
-	- [[]] 
+- [x] [[JeremyManiago_ME572_ProjectReport.docx]] 📅 2024-05-22 ✅ 2024-05-22
+	- [[JeremyManiago_ME572_ProjectReport.pdf]] 
 
 ---
 ## Lectures

@@ -7,10 +7,10 @@ set(0,'DefaultFigureWindowStyle','docked')
 hold off
 
 % Define grid
-[x, y] = meshgrid(-2:0.25:8, -5:0.25:5);    % 41 x 41 grid 
+[x, y] = meshgrid(-5:0.25:5, -5:0.25:5);    % 41 x 41 grid 
 
 % Define Uniform params
-vel_inf = 3;        % uniform flow velocity
+vel_inf = 1;        % uniform flow velocity
 thet = deg2rad(0);  % uniform flow angle w.r.t. horizontal
 
 % Define Source or Sink params 
@@ -20,7 +20,7 @@ u_srk = 0;  % initialize total source + sink velocity components
 v_srk = 0;
 
 % Define Vortex params
-vtx = [1, -2, -pi; 3, -1, pi/2]
+vtx = [0, -2, 1/2]
 amt_vtx = size(vtx, 1)
 u_vtx = 0;
 v_vtx = 0;
@@ -71,7 +71,7 @@ y_stag = r_stag * sin(thet_Stag)
 
 % plot(x_stag, y_stag, Marker="x", MarkerSize=10)
 % Streamlines
-[startX,startY] = meshgrid(-2, -5:0.25:5);
+[startX,startY] = meshgrid(-5, -5:0.25:5);
 sl = streamline(x,y,u,v,startX,startY)
 % for i = 1 : amt_srk
 %     if srk(i,3) < 0
@@ -81,4 +81,4 @@ sl = streamline(x,y,u,v,startX,startY)
 % end
 % figure
 
-anim_lines(sl, srk, vtx)  % call animation function
+% anim_lines(sl, srk, vtx)  % call animation function
