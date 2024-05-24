@@ -18,7 +18,6 @@
 		{"id":"e252480ea41d0bb1","type":"text","text":"Cauchy-Riemann Equations for potential and stream functions\n$$\n\\begin{aligned}\n\\Huge\nu=\\frac{\\partial \\phi}{\\partial x} \\ , \\ u=\\frac{\\partial \\psi}{\\partial y}\\\\\n\\Huge\nv=\\frac{\\partial \\phi}{\\partial y} \\ , \\ v=-\\frac{\\partial \\psi}{\\partial x}\n\\end{aligned}\n\n$$\nGiven potential and stream functions, use either or with these relations to find the velocity components of elementary flows in cartesian coordinates (x and y). e.g. given vortex potential function, integrate w.r.t. x to get the *u* velocity component.","x":1174,"y":1080,"width":655,"height":320,"color":"#c67b7b"},
 		{"id":"5ef51ceeb35cbe4b","type":"file","file":"Spring 2024/ME 572/Project/JeremyManiago_ME572_ProjectProgress.pdf","x":1840,"y":-433,"width":400,"height":400},
 		{"id":"16d07afb9393310a","type":"text","text":"(The seed line for the streamlines is at $x=-5$)","x":1830,"y":-620,"width":420,"height":60},
-		{"id":"dfc3cc9443142105","type":"file","file":"Spring 2024/ME 572/Project/elementaryflowtest_rankineoval.png","x":1800,"y":-1041,"width":480,"height":412},
 		{"id":"1bdd82a97d0a346e","type":"link","url":"https://potentialflow.com/flow-elements","x":1720,"y":584,"width":460,"height":416},
 		{"id":"ba0832249bb4836a","type":"file","file":"Spring 2024/ME 572/Project/attachments/Pasted image 20240517100525.png","x":2760,"y":580,"width":923,"height":320},
 		{"id":"f634ec0662deeafa","type":"text","text":"Use Cauchy-Riemann equations to find cartesian velocity components","x":3044,"y":1000,"width":356,"height":76},
@@ -41,7 +40,8 @@
 		{"id":"709de51201d1cc3b","type":"text","text":"Create an ```Animation``` function to visualize streamlines (assuming steady state, incompressible, and irrotational flow)","x":2634,"y":-433,"width":331,"height":135},
 		{"id":"84cda42b2d7f6c9b","type":"text","text":"Create functions for the different types of flows","x":2676,"y":-728,"width":250,"height":60},
 		{"id":"9cf4e4be53b0763e","type":"file","file":"Spring 2024/ME 572/Project/uniform.m","x":3105,"y":-819,"width":187,"height":50,"color":"4"},
-		{"id":"ff6ca0f53bce5d59","type":"file","file":"Spring 2024/ME 572/Project/uniform.m","x":3105,"y":-390,"width":187,"height":50,"color":"4"}
+		{"id":"ff6ca0f53bce5d59","type":"file","file":"Spring 2024/ME 572/Project/uniform.m","x":3105,"y":-390,"width":187,"height":50,"color":"4"},
+		{"id":"dfc3cc9443142105","type":"file","file":"Spring 2024/ME 572/Project/elementaryflowtest_rankineoval.png","x":1800,"y":-1041,"width":480,"height":412}
 	],
 	"edges":[
 		{"id":"5868f48d2fe824be","fromNode":"9fbdcfe19ad7da8e","fromSide":"bottom","toNode":"ff741f5539019852","toSide":"top","toEnd":"none"},
