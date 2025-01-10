@@ -1,6 +1,6 @@
-function anim_lines(lines, srk, vtx)
+function anim_lines(lines, srk, vtx, exprt)
     fig = figure;
-    axis([-2 10 -5 5])
+    axis([-5 5 -5 5])
     hold on
 
     plot([srk(:,1)], [srk(:,2)], Marker=".", MarkerSize=20, LineStyle="none")
@@ -24,6 +24,7 @@ function anim_lines(lines, srk, vtx)
         F(k) = getframe(fig);
     end
 
+    if exprt == true
     %% Export as movie
     figure;
     v = VideoWriter('newfile.avi');
@@ -32,5 +33,6 @@ function anim_lines(lines, srk, vtx)
     movie(F,1,60)
     writeVideo(v,F)
     close(v)
+    end
 
 end

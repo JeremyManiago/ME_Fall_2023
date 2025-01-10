@@ -40,7 +40,7 @@ for i = 1 : amt_vtx
     v_vtx = v_vtx + v;
 end
 
-% Total velocity components, based on Laplace'S Equation
+% Total velocity components, based on the Laplace Equation
 u = u_uni + u_srk + u_vtx;
 v = v_uni + v_srk + v_vtx;
 u(isnan(u)) = 0;                    % replace NaN values with zero
@@ -81,4 +81,4 @@ sl = streamline(x,y,u,v,startX,startY)
 % end
 % figure
 
-% anim_lines(sl, srk, vtx)  % call animation function
+anim_lines(sl, srk, vtx, false)  % call animation function
