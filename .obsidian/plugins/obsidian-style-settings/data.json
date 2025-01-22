@@ -9,13 +9,9 @@
   "anuppuccin-theme-settings@@anp-floating-header": false,
   "anuppuccin-theme-settings@@anp-custom-vault-toggle": false,
   "anuppuccin-theme-settings@@anp-file-label-align": "1",
-  "anuppuccin-theme-settings@@anp-alt-rainbow-style": "anp-simple-rainbow-color-toggle",
-  "anuppuccin-theme-settings@@anp-rainbow-file-toggle": true,
-  "anuppuccin-theme-settings@@anp-simple-rainbow-title-toggle": true,
-  "anuppuccin-theme-settings@@anp-simple-rainbow-icon-folder-toggle": true,
   "anuppuccin-theme-settings@@anp-simple-rainbow-indentation-toggle": true,
   "anuppuccin-theme-settings@@anp-simple-rainbow-collapse-toggle": true,
-  "anuppuccin-theme-settings@@anp-simple-rainbow-icon-toggle": true,
+  "anuppuccin-theme-settings@@anp-simple-rainbow-icon-toggle": false,
   "anuppuccin-theme-settings@@anp-rainbow-subfolder-color-toggle": true,
   "anuppuccin-theme-settings@@anp-status-bar-select": "anp-floating-status-bar",
   "anuppuccin-theme-settings@@anp-hide-borders": false,
@@ -31,8 +27,6 @@
   "anuppuccin-theme-settings@@anp-toggle-scrollbars": false,
   "anuppuccin-theme-settings@@anp-hide-status-bar": false,
   "anuppuccin-theme-settings@@anp-tooltip-toggle": false,
-  "anuppuccin-theme-settings@@anp-full-rainbow-text-color-toggle-light": false,
-  "anuppuccin-theme-settings@@anp-full-rainbow-text-color-toggle-dark": false,
   "anuppuccin-theme-settings@@anp-background-image-dark": "url(\"https://images.pexels.com/photos/847402/pexels-photo-847402.jpeg?cs=srgb&dl=pexels-walid-ahmad-847402.jpg&fm=jpg\")",
   "anuppuccin-theme-settings@@anp-callout-select": "anp-callout-vanilla-normal",
   "anuppuccin-theme-settings@@anp-callout-color-toggle": false,
@@ -73,5 +67,8 @@
   "anuppuccin-theme-settings@@anp-custom-bg-brightness-dark": 0.7,
   "anuppuccin-theme-settings@@anp-custom-bg-blur-dark": 5,
   "anuppuccin-theme-settings@@anp-custom-bg-card-fg-opacity-dark": 0.4,
-  "anuppuccin-theme-settings@@anp-disable-newtab-align": false
+  "anuppuccin-theme-settings@@anp-disable-newtab-align": false,
+  "anuppuccin-theme-settings@@anp-alt-rainbow-style": "anp-simple-rainbow-color-toggle",
+  "anuppuccin-theme-settings@@anp-simple-rainbow-title-toggle": true,
+  "anuppuccin-theme-settings@@anp-simple-rainbow-icon-folder-toggle": true
 }

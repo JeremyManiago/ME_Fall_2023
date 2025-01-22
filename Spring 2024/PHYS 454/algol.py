@@ -252,6 +252,8 @@ ax3.set_title('Primary Eclipse')
 
 plt.show()
 
+""" 
+
 '''
 Analyze images
 '''
@@ -279,7 +281,9 @@ ax3.imshow(im4)
 imdata1 = np.array(im1, dtype=int)
 imdata2 = np.array(im2, dtype=int)
 imdata3 = np.array(im3, dtype=int)
-imdata4 = np.array(im4, dtype=int)
+imdata4 = np.array(im4, dtype=int) 
+
+"""
 
 
 '''
